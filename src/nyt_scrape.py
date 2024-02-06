@@ -4,4 +4,4 @@ url = "https://www.nytimes.com/interactive/2023/12/19/us/elections/times-siena-p
 nyt = pd.read_html(url)
 
 for i, table in enumerate(nyt):
-    table.to_csv(f"./output/nyt_table_{i}.csv", index=False)
+    table.to_csv(f"../data/nyt_table_{i}.csv", index=False)
