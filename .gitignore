@@ -247,3 +247,9 @@ fabric.properties
 
 # Local files
 .DS_Store
+/.idea/vcs.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/mrp-team.iml
+/.idea/other.xml
+/.idea/inspectionProfiles/profiles_settings.xml
