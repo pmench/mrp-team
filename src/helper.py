@@ -28,23 +28,30 @@ def write_json(filepath, data, encoding='utf-8', ensure_ascii=False, indent=2):
         json.dump(data, file_obj, ensure_ascii=ensure_ascii, indent=indent)
 
 
-def write_csv(filepath, data, headers=None, encoding='utf-8', newline=''):
+def write_csv(filepath, data, headers=None, encoding='utf-8', newline='', replace_null="None"):
     """
     Writes data to a CSV file. Column headers are written as the first
     row of the CSV file if optional headers are specified.
-    :param filepath: (str) path to file.
-    :param data: (list | tuple ) data to write to CSV.
-    :param headers: (list | tuple) optional header row for CSV.
-    :param encoding: (str) name of encoding for file.
-    :param newline: (str) replacement value for newline character
-    :return: none.
+    :param replace_null: replacement value for missing data
+    :type replace_null: str
+    :param filepath: path to file.
+    :type filepath: str
+    :param data: data to write to CSV.
+    :type data: list | tuple
+    :param headers: optional header row for CSV.
+    :type headers: list | tuple
+    :param encoding: name of encoding for file.
+    :type encoding str
+    :param newline: replacement value for newline character
+    :type newline: str
+    :return: none
     """
     with open(filepath, 'w', encoding=encoding, newline=newline) as file_obj:
         writer = csv.writer(file_obj)
         if headers:
-            writer.writerow(headers)
+            writer.writerow([h if h is not None and h != "" else replace_null for h in headers])
             for row in data:
-                writer.writerow(row)
+                writer.writerow([val if val is not None and val != "" else replace_null for val in row])
         else:
             writer.writerows(data)
 
