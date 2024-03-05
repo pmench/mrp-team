@@ -1,0 +1,53 @@
+---
+title: "MRP Prototype"
+author: "Haley Johnson"
+date: "2024-02-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Packages
+```{r}
+library(arrow)
+library(broom.mixed)
+library(gutenbergr)
+library(haven)
+library(knitr)
+
+library(labelled)
+library(modelsummary)
+library(rstanarm)
+library(tidybayes)
+library(tidyverse)
+```
+
+## Load Data
+
+```{r}
+setwd('Desktop/SI_699/mrp-team')
+```
+
+
+```{r}
+df <- read.csv("data/nat_2020_cleaned_with_dummies.csv")
+```
+
+
+```{r}
+head(df)
+```
+
+```{r}
+set.seed(100000)
+```
+
+```{r}
+stan_glmer(voice_choice_recoded ~ (1 | age_recoded) + (1 | race_recoded) + (1 + male))
+```
+
+```{r}
+```
+
