@@ -38,17 +38,17 @@ summary(logistic_regression_model)
 ```
 ## Multinomial Logistic Regression (Discrete Choice Model)
 
-*Logit regression*: Models binary outcomes.
+*Logistic regression*: Models binary outcomes.
 *Multinomial logistic regression*: The model to use when your outcome variable takes one of several options.
 - **Example**: A consumer has the option to purchase a product from one of several brands.
 
 ### Applications
 - Market share and pricing analysis (how would increasing prices affect market share?)
-- New technology adoption
-- Competitive analysis
+- New technology adoption (what factors influence the adoption of a new technology?)
+- Competitive analysis (how do product/service features influence consumer preferences?)
 
 ```{r}
-library(mlogit)
+library(mlogit) # Note the multinom function from the nnet package does not require reshaping dataMi
 library(caret)
 print('hello world')
 
