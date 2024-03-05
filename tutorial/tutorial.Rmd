@@ -36,4 +36,22 @@ logistic_regression_model <- glm(is_setosa ~ Sepal.Length, data = iris, family =
 ```{r}
 summary(logistic_regression_model)
 ```
+## Multinomial Logistic Regression (Discrete Choice Model)
+
+*Logit regression*: Models binary outcomes.
+*Multinomial logistic regression*: The model to use when your outcome variable takes one of several options.
+- **Example**: A consumer has the option to purchase a product from one of several brands.
+
+### Applications
+- Market share and pricing analysis (how would increasing prices affect market share?)
+- New technology adoption
+- Competitive analysis
+
+```{r}
+library(mlogit)
+library(caret)
+print('hello world')
+
+```
+
 
