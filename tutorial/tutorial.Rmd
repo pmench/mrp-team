@@ -1,0 +1,39 @@
+---
+title: "SI 699 Demo"
+author: "Team 1"
+date: "2024-03-012"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Intro to R 
+
+```{r}
+# install.packages('tidyverse')
+library(tidyverse)
+```
+
+
+```{r}
+data('iris')
+head(iris)
+```
+
+## Running A Regression 
+
+Logistic Regression
+```{r}
+iris <- iris %>% mutate(is_setosa = ifelse(Species == 'setosa', 1, 0))
+```
+
+```{r}
+logistic_regression_model <- glm(is_setosa ~ Sepal.Length, data = iris, family = 'binomial')
+```
+
+```{r}
+summary(logistic_regression_model)
+```
+
