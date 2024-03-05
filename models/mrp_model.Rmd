@@ -27,12 +27,12 @@ library(tidyverse)
 ## Load Data
 
 ```{r}
-setwd('Desktop/SI_699/mrp-team')
+getwd()
 ```
 
 
 ```{r}
-df <- read.csv("data/nat_2020_cleaned_with_dummies.csv")
+df <- read.csv("../data/nat_2020_cleaned_with_dummies.csv")
 ```
 
 
@@ -45,8 +45,17 @@ set.seed(100000)
 ```
 
 ```{r}
-stan_glmer(voice_choice_recoded ~ (1 | age_recoded) + (1 | race_recoded) + (1 + male))
+stan_glmer(vote_choice_recoded ~ (1 | age_recoded_1.0) + 
+                                 (1 | age_recoded_2.0) + 
+                                 (1 | age_recoded_3.0) + 
+                                 (1 | race_recoded_1) + 
+                                 (1 | race_recoded_2) + 
+                                 (1 | race_recoded_3) + 
+                                 (1 | race_recoded_4) + 
+                                 (1 | race_recoded_9) +
+                                 (1 + male), data = df)
 ```
+
 
 ```{r}
 ```
