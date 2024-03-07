@@ -27,12 +27,13 @@ library(tidyverse)
 ## Load Data
 
 ```{r}
-setwd('Desktop/SI_699/mrp-team')
+setwd('..')
+getwd()
 ```
 
 
 ```{r}
-df <- read.csv("data/nat_2020_cleaned_with_dummies.csv")
+df <- read.csv("../data/nat_2020_train.csv")
 ```
 
 
