@@ -35,7 +35,7 @@ us_hex_map["biden_win"] = np.where(
 
 # Build plot
 fig, ax = plt.subplots(1, 1, figsize=(15, 10))
-us_hex_map.plot("biden_win", ax=ax, cmap="RdBu")
+us_hex_map.plot("biden_win", ax=ax, cmap="coolwarm_r")
 
 for idx, row in us_hex_map.iterrows():
     centroid = row.geometry.centroid
