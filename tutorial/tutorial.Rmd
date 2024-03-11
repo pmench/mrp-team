@@ -13,13 +13,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 # install.packages('tidyverse')
+# install.packages('lme4', type = 'source')
+# install.packages("Matrix")
 library(tidyverse)
+library(lme4)
 ```
 
-
 ```{r}
-data(mtcars)
-head(mtcars)
+load("dragons.RData")
+head(dragons)
 ```
 
 ## Mixed Effects Regression
@@ -28,10 +30,9 @@ A mixed effects model contains both **fixed effects** and **random effects.** A 
 ![mixed effects example.](mixed_effects_2.png)
 
 ```{r}
-stan_glmer(vs ~ (1 | cyl) + (1 | hp) + (1 | am), data = mtcars, family = binomial(link = "logit"),
-    prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
-    prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE),
-    seed = 853)
+dragons$bodyLength2 <- scale(dragons$bodyLength, center = TRUE, scale = TRUE)
+mixed.lmer <- lmer(testScore ~ bodyLength2 + (1|mountainRange), data = dragons)
+summary(mixed.lmer)
 ```
 
 
