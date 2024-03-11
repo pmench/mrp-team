@@ -13,29 +13,38 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 # install.packages('tidyverse')
+# install.packages('lme4', type = 'source')
+# install.packages("Matrix")
 library(tidyverse)
-```
-
-
-```{r}
-data('iris')
-head(iris)
-```
-
-## Running A Regression 
-
-Logistic Regression
-```{r}
-iris <- iris %>% mutate(is_setosa = ifelse(Species == 'setosa', 1, 0))
+library(lme4)
 ```
 
 ```{r}
-logistic_regression_model <- glm(is_setosa ~ Sepal.Length, data = iris, family = 'binomial')
+load("dragons.RData")
+head(dragons)
 ```
 
+## Mixed Effects Regression
+A mixed effects model contains both **fixed effects** and **random effects.** A fixed effect is a parameter that does not vary. Random effects are parameters that are random variables.
+
+![mixed effects example.](mixed_effects_2.png)
+It follows the same assumptions are standard OLS regression:
+1. linearity
+2. no outliers
+3. homoscedasticity
+4. residuals are normally distributed
+5. no multicollinearity
+
+You should consider using a mixed effects model when you have **repeated measures from the same unit of observation.**
+
+
 ```{r}
-summary(logistic_regression_model)
+dragons$bodyLength2 <- scale(dragons$bodyLength, center = TRUE, scale = TRUE)
+mixed.lmer <- lmer(testScore ~ bodyLength2 + (1|mountainRange), data = dragons)
+summary(mixed.lmer)
 ```
+
+
 ## Multinomial Logistic Regression (Discrete Choice Model)
 #### Based on TO566 class materials
 
@@ -148,6 +157,10 @@ colMeans(newprob) # average of everyone's probabilities for each option
 print("Current Probabilities")
 prop.table(heat_model$freq)
 ```
+```{r}
+
+```
+
 
 ```{r}
 # You can also include household specific variables in the model
