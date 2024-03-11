@@ -253,3 +253,6 @@ fabric.properties
 /.idea/mrp-team.iml
 /.idea/other.xml
 /.idea/inspectionProfiles/profiles_settings.xml
+/.idea/rGraphicsSettings.xml
+/.idea/rMarkdownGraphicsSettings.xml
+/.idea/rSettings.xml
