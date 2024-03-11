@@ -18,24 +18,23 @@ library(tidyverse)
 
 
 ```{r}
-data('iris')
-head(iris)
+data(mtcars)
+head(mtcars)
 ```
 
-## Running A Regression 
+## Mixed Effects Regression
+A mixed effects model contains both **fixed effects** and **random effects.** A fixed effect is a parameter that does not vary. Random effects are parameters that are random variables. 
 
-Logistic Regression
-```{r}
-iris <- iris %>% mutate(is_setosa = ifelse(Species == 'setosa', 1, 0))
-```
+![mixed effects example.](mixed_effects_2.png)
 
 ```{r}
-logistic_regression_model <- glm(is_setosa ~ Sepal.Length, data = iris, family = 'binomial')
+stan_glmer(vs ~ (1 | cyl) + (1 | hp) + (1 | am), data = mtcars, family = binomial(link = "logit"),
+    prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
+    prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE),
+    seed = 853)
 ```
 
-```{r}
-summary(logistic_regression_model)
-```
+
 ## Multinomial Logistic Regression (Discrete Choice Model)
 
 *Logistic regression*: Models binary outcomes.
@@ -51,6 +50,10 @@ summary(logistic_regression_model)
 library(mlogit) # Note the multinom function from the nnet package does not require reshaping dataMi
 library(caret)
 print('hello world')
+
+```
+
+```{r}
 
 ```
 
