@@ -37,6 +37,7 @@ logistic_regression_model <- glm(is_setosa ~ Sepal.Length, data = iris, family =
 summary(logistic_regression_model)
 ```
 ## Multinomial Logistic Regression (Discrete Choice Model)
+#### Based on TO566 class materials
 
 *Logistic regression*: Models binary outcomes.
 *Multinomial logistic regression*: The model to use when your outcome variable takes one of several options.
@@ -47,11 +48,110 @@ summary(logistic_regression_model)
 - New technology adoption (what factors influence the adoption of a new technology?)
 - Competitive analysis (how do product/service features influence consumer preferences?)
 
+### The Math
+- Choices are modeled by utility functions
+- For each category, model the log-odds of being in the category versus being in a set reference category
+
+#### Model for Log-Odds
+For categories (A, B, C) with A as the reference, the log-odds of category B vs. A and C vs. A are modeled as follows. For a generic category \( j \) (against reference category 0), the model is:
+
+\[
+\log\left(\frac{P(Y = j)}{P(Y = 0)}\right) = \beta_{j0} + \beta_{j1}X_1 + \beta_{j2}X_2 + ... + \beta_{jn}X_n
+\]
+
+Here, \( P(Y = j) \) represents the probability of being in category \( j \), \( X_1, X_2, ..., X_n \) are the independent variables, and \( \beta_{j0}, \beta_{j1}, ..., \beta_{jn} \) are the coefficients to be estimated.
+
+#### Probability Calculation
+From the log-odds, the probabilities of each category can be calculated using the softmax function. The probability that an observation belongs to category \( j \) is:
+
+\[
+P(Y = j) = \frac{e^{\beta_{j0} + \beta_{j1}X_1 + \beta_{j2}X_2 + ... + \beta_{jn}X_n}}{\sum_{k} e^{\beta_{k0} + \beta_{k1}X_1 + \beta_{k2}X_2 + ... + \beta_{kn}X_n}}
+\]
+
+In this equation, the denominator sums the exponentiated linear models for all categories, ensuring that the probabilities sum to 1 for each observation.$
+
+
+### Example
+- Using a dataset of heating choices by household (single family houses in California)
+  - dependent variables (choices of heating systems):
+    - ec: electric central
+    - er: electric room
+    - gc: gas central
+    - gr: gas room
+    - hp: heat pump
+  - independent variables (characteristics of choices, characteristics of households)
+    - characteristics of the choices (heating options in this case)
+      - ic: installation cost (one time cost)
+      - oc: operation cost (yearly operating cost)
+    - characteristics of households
+      - income
+      - agehed: age of the head of household
+      - rooms: number of rooms in the house
+      - region: northern coastal, southern coastal, mountain region, central valley
+
 ```{r}
-library(mlogit) # Note the multinom function from the nnet package does not require reshaping dataMi
+options(warn = -1)
+library(mlogit)
+library(dfidx)
+# Note mlogit requires data in long format
+# The multinom function from the nnet package does not require reshaping data
 library(caret)
-print('hello world')
+library(tidyverse)
+
+data("Heating") # dataset of heating technologies chosen by households
+
+# Let's look at market shares
+prop.table(table(Heating$depvar))
+```
+```{r}
+# long format with two indexes: household index and choice index
+heating <- dfidx(Heating, choice="depvar", varying=3:12) # varying=variables that vary across choices
+print(head(heating))
+# Create your multinomial regression model
+heat_model <- mlogit(depvar ~ ic + oc, data = heating)
+
+# Negative coefficient means less preferred option
+# R^2 values tend to be quite small for logit models
+summary(heat_model) # baseline: ec
 
 ```
 
+Let's examine the coefficients
 
+```{r}
+
+coef(heat_model)
+
+# - ec: electric central
+# - er: electric room
+# - gc: gas central
+# - gr: gas room
+# - hp: heat pump
+
+```
+
+Utility function for central electric (ec) $0 – 0.0015 \cdot ic – 0.0070 \cdot oc$
+
+Let's use our model to predict!
+
+```{r}
+# Scenario: A new central heating system is developed (ec): saves 25% of electricity (i.e. operating cost is 75%), but the installation cost is $200 more
+# If we switch the current ec to this new technology, predict the new market share
+H_newEC <- heating
+H_newEC [idx(H_newEC,2) == "ec", "oc"] = 0.75 * heating[idx(heating,2) == "ec", "oc"] # take out "ec" rows; change their operating cost (oc) to be 75% of the previous level
+H_newEC [ idx(H_newEC,2) == "ec", "ic"] = heating[ idx(heating,2) == "ec","ic"] + 200 # take out "ec" rows; increase their installation cost (ic) by 200
+newprob <- predict(heat_model, H_newEC)
+
+print("New Probabilities")
+colMeans(newprob) # average of everyone's probabilities for each option
+
+print("Current Probabilities")
+prop.table(heat_model$freq)
+```
+
+```{r}
+# You can also include household specific variables in the model
+heat_model2 <- mlogit(depvar ~ ic + oc | income , heating) # each heating option will have a different coefficent for households with different income level
+summary(heat_model2)
+
+```

@@ -256,3 +256,4 @@ fabric.properties
 /.idea/rGraphicsSettings.xml
 /.idea/rMarkdownGraphicsSettings.xml
 /.idea/rSettings.xml
+/.idea/pandoc.xml
