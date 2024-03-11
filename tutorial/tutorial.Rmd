@@ -28,6 +28,15 @@ head(dragons)
 A mixed effects model contains both **fixed effects** and **random effects.** A fixed effect is a parameter that does not vary. Random effects are parameters that are random variables. 
 
 ![mixed effects example.](mixed_effects_2.png)
+It follows the same assumptions are standard OLS regression:
+1. linearity
+2. no outliers
+3. homoscedasticity
+4. residuals are normally distributed
+5. no multicollinearity
+
+You should consider using a mixed effects model when you have **repeated measures from the same unit of observation.**
+
 
 ```{r}
 dragons$bodyLength2 <- scale(dragons$bodyLength, center = TRUE, scale = TRUE)
