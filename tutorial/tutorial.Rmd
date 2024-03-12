@@ -1,7 +1,7 @@
 ---
 title: "SI 699 Demo"
 author: "Team 1"
-date: "2024-03-012"
+date: "2024-03-12"
 output: html_document
 ---
 
@@ -137,14 +137,30 @@ coef(heat_model)
 
 Utility function for central electric (ec) $0 – 0.0015 \cdot ic – 0.0070 \cdot oc$
 
+You can also examine the probabilities for each consumer and averaging all will give you the market share.
+
+```{r}
+head(heat_model$probabilities)
+```
+
+```{r}
+colMeans(heat_model$probabilities)
+```
+
+Compare this to the true market share.
+
+```{r}
+prop.table(heat_model$freq)
+```
+
 Let's use our model to predict!
 
 ```{r}
 # Scenario: A new central heating system is developed (ec): saves 25% of electricity (i.e. operating cost is 75%), but the installation cost is $200 more
 # If we switch the current ec to this new technology, predict the new market share
 H_newEC <- heating
-H_newEC [idx(H_newEC,2) == "ec", "oc"] = 0.75 * heating[idx(heating,2) == "ec", "oc"] # take out "ec" rows; change their operating cost (oc) to be 75% of the previous level
-H_newEC [ idx(H_newEC,2) == "ec", "ic"] = heating[ idx(heating,2) == "ec","ic"] + 200 # take out "ec" rows; increase their installation cost (ic) by 200
+H_newEC [idx(H_newEC,2) == "ec", "oc"] <- 0.75 * heating[idx(heating,2) == "ec", "oc"] # take out "ec" rows; change their operating cost (oc) to be 75% of the previous level
+H_newEC [ idx(H_newEC,2) == "ec", "ic"] <- heating[ idx(heating,2) == "ec","ic"] + 200 # take out "ec" rows; increase their installation cost (ic) by 200
 newprob <- predict(heat_model, H_newEC)
 
 print("New Probabilities")
@@ -152,9 +168,6 @@ colMeans(newprob) # average of everyone's probabilities for each option
 
 print("Current Probabilities")
 prop.table(heat_model$freq)
-```
-```{r}
-
 ```
 
 

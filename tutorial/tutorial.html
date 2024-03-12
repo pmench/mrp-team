@@ -11,6 +11,7 @@
 
 <meta name="author" content="Team 1" />
 
+<meta name="date" content="2024-03-12" />
 
 <title>SI 699 Demo</title>
 
@@ -351,7 +352,7 @@ display: none;
 
 <h1 class="title toc-ignore">SI 699 Demo</h1>
 <h4 class="author">Team 1</h4>
-<h4 class="date">2024-03-012</h4>
+<h4 class="date">2024-03-12</h4>
 
 </div>
 
@@ -541,37 +542,7 @@ prop.table(table(Heating$depvar))</code></pre>
 ## 0.63666667 0.14333333 0.07111111 0.09333333 0.05555556</code></pre>
 <pre class="r"><code># long format with two indexes: household index and choice index
 heating &lt;- dfidx(Heating, choice=&quot;depvar&quot;, varying=3:12) # varying=variables that vary across choices
-print(head(heating))</code></pre>
-<pre><code>## ~~~~~~~
-##  first 10 observations out of 4500 
-## ~~~~~~~
-##    idcase depvar income agehed rooms region      ic     oc  idx
-## 1       1  FALSE      7     25     6 ncostl  859.90 553.34 1:ec
-## 2       1  FALSE      7     25     6 ncostl  995.76 505.60 1:er
-## 3       1   TRUE      7     25     6 ncostl  866.00 199.69 1:gc
-## 4       1  FALSE      7     25     6 ncostl  962.64 151.72 1:gr
-## 5       1  FALSE      7     25     6 ncostl 1135.50 237.88 1:hp
-## 6       2  FALSE      5     60     5 scostl  796.82 520.24 2:ec
-## 7       2  FALSE      5     60     5 scostl  894.69 486.49 2:er
-## 8       2   TRUE      5     60     5 scostl  727.93 168.66 2:gc
-## 9       2  FALSE      5     60     5 scostl  758.89 168.66 2:gr
-## 10      2  FALSE      5     60     5 scostl  968.90 199.19 2:hp
-## 
-## ~~~ indexes ~~~~
-##    id1 id2
-## 1    1  ec
-## 2    1  er
-## 3    1  gc
-## 4    1  gr
-## 5    1  hp
-## 6    2  ec
-## 7    2  er
-## 8    2  gc
-## 9    2  gr
-## 10   2  hp
-## indexes:  1, 2 
-## NULL</code></pre>
-<pre class="r"><code># Create your multinomial regression model
+# Create your multinomial regression model
 heat_model &lt;- mlogit(depvar ~ ic + oc, data = heating)
 
 # Negative coefficient means less preferred option
@@ -616,12 +587,30 @@ summary(heat_model) # baseline: ec</code></pre>
 # - gr: gas room
 # - hp: heat pump</code></pre>
 <p>Utility function for central electric (ec) <span class="math inline">\(0 – 0.0015 \cdot ic – 0.0070 \cdot oc\)</span></p>
+<p>You can also examine the probabilities for each consumer and
+averaging all will give you the market share.</p>
+<pre class="r"><code>head(heat_model$probabilities)</code></pre>
+<pre><code>##           ec         er        gc        gr         hp
+## 1 0.05107444 0.07035738 0.6329116 0.1877416 0.05791494
+## 2 0.04849337 0.06420595 0.6644519 0.1558322 0.06701658
+## 3 0.07440281 0.08716904 0.6387765 0.1439919 0.05565974
+## 4 0.07264503 0.11879834 0.5657376 0.1879231 0.05489595
+## 5 0.09223575 0.10238514 0.5670663 0.1561227 0.08219005
+## 6 0.09228185 0.10466584 0.6366616 0.1152634 0.05112739</code></pre>
+<pre class="r"><code>colMeans(heat_model$probabilities)</code></pre>
+<pre><code>##         ec         er         gc         gr         hp 
+## 0.07111111 0.09333333 0.63666667 0.14333333 0.05555556</code></pre>
+<p>Compare this to the true market share.</p>
+<pre class="r"><code>prop.table(heat_model$freq)</code></pre>
+<pre><code>## choice
+##         ec         er         gc         gr         hp 
+## 0.07111111 0.09333333 0.63666667 0.14333333 0.05555556</code></pre>
 <p>Let’s use our model to predict!</p>
 <pre class="r"><code># Scenario: A new central heating system is developed (ec): saves 25% of electricity (i.e. operating cost is 75%), but the installation cost is $200 more
 # If we switch the current ec to this new technology, predict the new market share
 H_newEC &lt;- heating
-H_newEC [idx(H_newEC,2) == &quot;ec&quot;, &quot;oc&quot;] = 0.75 * heating[idx(heating,2) == &quot;ec&quot;, &quot;oc&quot;] # take out &quot;ec&quot; rows; change their operating cost (oc) to be 75% of the previous level
-H_newEC [ idx(H_newEC,2) == &quot;ec&quot;, &quot;ic&quot;] = heating[ idx(heating,2) == &quot;ec&quot;,&quot;ic&quot;] + 200 # take out &quot;ec&quot; rows; increase their installation cost (ic) by 200
+H_newEC [idx(H_newEC,2) == &quot;ec&quot;, &quot;oc&quot;] &lt;- 0.75 * heating[idx(heating,2) == &quot;ec&quot;, &quot;oc&quot;] # take out &quot;ec&quot; rows; change their operating cost (oc) to be 75% of the previous level
+H_newEC [ idx(H_newEC,2) == &quot;ec&quot;, &quot;ic&quot;] &lt;- heating[ idx(heating,2) == &quot;ec&quot;,&quot;ic&quot;] + 200 # take out &quot;ec&quot; rows; increase their installation cost (ic) by 200
 newprob &lt;- predict(heat_model, H_newEC)
 
 print(&quot;New Probabilities&quot;)</code></pre>
