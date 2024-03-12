@@ -435,10 +435,13 @@ summary(mixed.lmer)</code></pre>
 <h2>Multinomial Logistic Regression (Discrete Choice Model)</h2>
 <div id="based-on-to566-class-materials" class="section level4">
 <h4>Based on TO566 class materials</h4>
-<p><em>Logistic regression</em>: Models binary outcomes. <em>Multinomial
-logistic regression</em>: The model to use when your outcome variable
-takes one of several options. - <strong>Example</strong>: A consumer has
-the option to purchase a product from one of several brands.</p>
+<ul>
+<li><em>Logistic regression</em>: Models binary outcomes.</li>
+<li><em>Multinomial logistic regression</em>: The model to use when your
+outcome variable takes one of several options.</li>
+<li><strong>Example</strong>: A consumer has the option to purchase a
+product from one of several brands.</li>
+</ul>
 </div>
 <div id="applications" class="section level3">
 <h3>Applications</h3>
@@ -454,42 +457,27 @@ consumer preferences?)</li>
 <div id="the-math" class="section level3">
 <h3>The Math</h3>
 <ul>
-<li>Choices are modeled by utility functions</li>
-<li>For each category, model the log-odds of being in the category
-versus being in a set reference category</li>
+<li>Choices are modeled by utility functions: <span class="math inline">\(u_i = \alpha_1 + \beta_pPrice_1 +
+\beta_bBrand_1\)</span>
+<ul>
+<li>For each choice, the model coefficients reflect the effect of one
+unit change in the X variable on the log odds when other variables are
+held constant. <span class="math display">\[
+\log\frac{p(x)}{(1 - p(x))} = \alpha + \beta_0X + \cdots \beta_nX_n
+\]</span></li>
+</ul></li>
 </ul>
-<div id="model-for-log-odds" class="section level4">
-<h4>Model for Log-Odds</h4>
-<p>For categories (A, B, C) with A as the reference, the log-odds of
-category B vs. A and C vs. A are modeled as follows. For a generic
-category <span class="math inline">\(j\)</span> (against reference
-category 0), the model is:</p>
+<p>Therefore, the probability that a consumer chooses <span class="math inline">\(j\)</span> (product <span class="math inline">\(j&#39;s\)</span> market share) is:</p>
 <p><span class="math display">\[
-\log\left(\frac{P(Y = j)}{P(Y = 0)}\right) = \beta_{j0} + \beta_{j1}X_1
-+ \beta_{j2}X_2 + ... + \beta_{jn}X_n
+P[Y_i = j] = p_j = \frac{e^{\beta_0 + \beta_1 x_{j1} + \ldots + \beta_p
+x_{jp}}}{1 + e^{\beta_0 + \beta_1 x_{j1} + \ldots + \beta_p x_{jp}}}
 \]</span></p>
-<p>Here, <span class="math inline">\(P(Y = j)\)</span> represents the
-probability of being in category <span class="math inline">\(j\)</span>,
-<span class="math inline">\(X_1, X_2, ..., X_n\)</span> are the
-independent variables, and <span class="math inline">\(\beta_{j0},
-\beta_{j1}, ..., \beta_{jn}\)</span> are the coefficients to be
-estimated.</p>
-</div>
-<div id="probability-calculation" class="section level4">
-<h4>Probability Calculation</h4>
-<p>From the log-odds, the probabilities of each category can be
-calculated using the softmax function. The probability that an
-observation belongs to category <span class="math inline">\(j\)</span>
-is:</p>
-<p><span class="math display">\[
-P(Y = j) = \frac{e^{\beta_{j0} + \beta_{j1}X_1 + \beta_{j2}X_2 + ... +
-\beta_{jn}X_n}}{\sum_{k} e^{\beta_{k0} + \beta_{k1}X_1 + \beta_{k2}X_2 +
-... + \beta_{kn}X_n}}
-\]</span></p>
-<p>In this equation, the denominator sums the exponentiated linear
-models for all categories, ensuring that the probabilities sum to 1 for
-each observation.$</p>
-</div>
+<p>Some math resources:</p>
+<ul>
+<li><a href="https://web.stanford.edu/class/archive/stats/stats200/stats200.1172/Lecture26.pdf" class="uri">https://web.stanford.edu/class/archive/stats/stats200/stats200.1172/Lecture26.pdf</a></li>
+<li><a href="https://towardsdatascience.com/a-simple-interpretation-of-logistic-regression-coefficients-e3a40a62e8cf" class="uri">https://towardsdatascience.com/a-simple-interpretation-of-logistic-regression-coefficients-e3a40a62e8cf</a></li>
+<li><a href="https://towardsdatascience.com/how-to-interpret-the-odds-ratio-with-categorical-variables-in-logistic-regression-5bb38e3fc6a8" class="uri">https://towardsdatascience.com/how-to-interpret-the-odds-ratio-with-categorical-variables-in-logistic-regression-5bb38e3fc6a8</a></li>
+</ul>
 </div>
 <div id="example" class="section level3">
 <h3>Example</h3>

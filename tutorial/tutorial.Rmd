@@ -48,8 +48,8 @@ summary(mixed.lmer)
 ## Multinomial Logistic Regression (Discrete Choice Model)
 #### Based on TO566 class materials
 
-*Logistic regression*: Models binary outcomes.
-*Multinomial logistic regression*: The model to use when your outcome variable takes one of several options.
+- *Logistic regression*: Models binary outcomes.
+- *Multinomial logistic regression*: The model to use when your outcome variable takes one of several options.
 - **Example**: A consumer has the option to purchase a product from one of several brands.
 
 ### Applications
@@ -58,27 +58,24 @@ summary(mixed.lmer)
 - Competitive analysis (how do product/service features influence consumer preferences?)
 
 ### The Math
-- Choices are modeled by utility functions
-- For each category, model the log-odds of being in the category versus being in a set reference category
+- Choices are modeled by utility functions: \( u_i = \alpha_1 + \beta_pPrice_1 + \beta_bBrand_1 \)
+  - For each choice, the model coefficients reflect the effect of one unit change in the X variable on the log odds when other
+    variables are held constant.
+  \[
+  \log\frac{p(x)}{(1 - p(x))} = \alpha + \beta_0X + \cdots \beta_nX_n
+  \]
 
-#### Model for Log-Odds
-For categories (A, B, C) with A as the reference, the log-odds of category B vs. A and C vs. A are modeled as follows. For a generic category \( j \) (against reference category 0), the model is:
-
-\[
-\log\left(\frac{P(Y = j)}{P(Y = 0)}\right) = \beta_{j0} + \beta_{j1}X_1 + \beta_{j2}X_2 + ... + \beta_{jn}X_n
-\]
-
-Here, \( P(Y = j) \) represents the probability of being in category \( j \), \( X_1, X_2, ..., X_n \) are the independent variables, and \( \beta_{j0}, \beta_{j1}, ..., \beta_{jn} \) are the coefficients to be estimated.
-
-#### Probability Calculation
-From the log-odds, the probabilities of each category can be calculated using the softmax function. The probability that an observation belongs to category \( j \) is:
+Therefore, the probability that a consumer chooses \(j\) (product \(j's\) market share) is:
 
 \[
-P(Y = j) = \frac{e^{\beta_{j0} + \beta_{j1}X_1 + \beta_{j2}X_2 + ... + \beta_{jn}X_n}}{\sum_{k} e^{\beta_{k0} + \beta_{k1}X_1 + \beta_{k2}X_2 + ... + \beta_{kn}X_n}}
+P[Y_i = j] = p_j = \frac{e^{\beta_0 + \beta_1 x_{j1} + \ldots + \beta_p x_{jp}}}{1 + e^{\beta_0 + \beta_1 x_{j1} + \ldots + \beta_p x_{jp}}}
 \]
 
-In this equation, the denominator sums the exponentiated linear models for all categories, ensuring that the probabilities sum to 1 for each observation.$
+Some math resources:
 
+- https://web.stanford.edu/class/archive/stats/stats200/stats200.1172/Lecture26.pdf
+- https://towardsdatascience.com/a-simple-interpretation-of-logistic-regression-coefficients-e3a40a62e8cf
+- https://towardsdatascience.com/how-to-interpret-the-odds-ratio-with-categorical-variables-in-logistic-regression-5bb38e3fc6a8
 
 ### Example
 - Using a dataset of heating choices by household (single family houses in California)
@@ -115,7 +112,6 @@ prop.table(table(Heating$depvar))
 ```{r}
 # long format with two indexes: household index and choice index
 heating <- dfidx(Heating, choice="depvar", varying=3:12) # varying=variables that vary across choices
-print(head(heating))
 # Create your multinomial regression model
 heat_model <- mlogit(depvar ~ ic + oc, data = heating)
 
