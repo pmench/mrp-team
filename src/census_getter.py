@@ -3,6 +3,7 @@ This program retrieves data from the U.S. Census Bureau's API and performs some 
 
 This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau.
 """
+
 import os
 
 import pandas as pd
@@ -32,10 +33,20 @@ def get_data(year, dataset, geo, variables, api_key):
     """
     key = os.getenv(api_key)
     query = f"{CENSUS_ENDPOINT}/{year}/{dataset}?get={variables}&for={geo}&key={key}"
-    response = requests.get(query).json()
-    var_table = get_var_table(year, dataset)[0]
-    headers = map_vars_to_names(response, var_table)
-    response[0] = headers
+    response = requests.get(query)
+    if response.status_code == 200:
+        try:
+            data = response.json()
+            var_table = get_var_table(year, dataset)[0]
+            headers = map_vars_to_names(data, var_table)
+            data[0] = headers
+            return data
+        except ValueError as e:
+            print(f"Error {e}: Response not valid JSON format")
+            return None
+    else:
+        print(f"Error {response.status_code}")
+        print("Response:", response.text)
     return response
 
 
@@ -49,8 +60,15 @@ def get_var_table(year, dataset):
     :return: Dataframes created from HTML tables on the Census website
     :rtype: list of dataframes
     """
-    var_table = pd.read_html(f"{CENSUS_ENDPOINT}/{year}/{dataset}/variables.html")
-    return var_table
+    try:
+        var_table = pd.read_html(f"{CENSUS_ENDPOINT}/{year}/{dataset}/variables.html")
+        return var_table
+    except ValueError as e:
+        print(f"{e}, no table found.")
+        return None
+    except Exception as e:
+        print(f"An unexpected error occurred: {e}")
+        return None
 
 
 def map_vars_to_names(api_response, var_table):
@@ -63,10 +81,14 @@ def map_vars_to_names(api_response, var_table):
     :return: List of headers
     :rtype: list
     """
-    replacement_dict = pd.Series(var_table["Label"].values, index=var_table["Name"]).to_dict()
+    replacement_dict = pd.Series(
+        var_table["Label"].values, index=var_table["Name"]
+    ).to_dict()
     col_names = list(map(lambda val: replacement_dict.get(val, val), api_response[0]))
-    col_names = tqdm([var if not var.endswith("M") else "Margin of Error" for var in col_names],
-                     desc="Making human readable")
+    col_names = tqdm(
+        [var if not var.endswith("M") else "Margin of Error" for var in col_names],
+        desc="Making human readable",
+    )
     return col_names
 
 
@@ -82,8 +104,13 @@ def create_df(census_data, year):
     """
     demographic_data = pd.DataFrame(census_data).T.set_index(0)
     demographic_data.index.name = "Demographic"
-    demographic_data.columns = year
-    return demographic_data
+    try:
+        demographic_data.columns = year
+        return demographic_data
+    except ValueError as e:
+        print(f"{e}, column renaming failed. Reorienting dataframe...")
+        demographic_data = demographic_data.T
+        return demographic_data
 
 
 def main():
@@ -92,13 +119,27 @@ def main():
     :return: None.
     :rtype: None.
     """
-    var = (
-        "B01001_002E,B01001_003E,B01001_004E,B01001_005E,B01001_006E,B01001_007E,B01001_008E,B01001_009E,B01001_010E,"
-        "B01001_011E,B01001_012E,B01001_013E,B01001_014E,B01001_015E,B01001_016E,B01001_017E,B01001_018E,B01001_019E,"
-        "B01001_020E,B01001_021E,B01001_022E,B01001_023E,B01001_024E,B01001_025E")
-    census_data = get_data("2022", "acs/acs1", "us:*", var, "CENSUS_API_KEY")
-    census_df = create_df(census_data, ["2022"])
-    census_df.to_csv("./data/test_census.csv")
+    # Set query parameters
+    # var = (
+    #     "B01001_002E,B01001_003E,B01001_004E,B01001_005E,B01001_006E,B01001_007E,B01001_008E,B01001_009E,B01001_010E,"
+    #     "B01001_011E,B01001_012E,B01001_013E,B01001_014E,B01001_015E,B01001_016E,B01001_017E,B01001_018E,B01001_019E,"
+    #     "B01001_020E,B01001_021E,B01001_022E,B01001_023E,B01001_024E,B01001_025E"
+    # )
+    var = "NAME,B01001_001E"
+    year = "2022"
+    geo = "state:*"
+    dataset = "acs/acs5"
+
+    # Call Census API
+    census_data = get_data(
+        year=year,
+        dataset=dataset,
+        geo=geo,
+        variables=var,
+        api_key="CENSUS_API_KEY",
+    )
+    census_df = create_df(census_data, [year])
+    census_df.to_csv(f"../data/{year}_state_pop.csv")
 
 
 if __name__ == "__main__":
