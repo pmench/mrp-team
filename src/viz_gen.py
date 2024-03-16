@@ -25,15 +25,23 @@ state_results["State"] = (
 )
 state_results.iloc[:51, 1:] = state_results.iloc[:51, 1:].astype("int")
 state_results.set_index("State", inplace=True)
+col_map = {
+    "State's Number of Electoral Votes": "state_votes",
+    "Joseph R. Biden Jr.,  of Delaware": "biden",
+    "Donald J. Trump,  of Florida": "trump",
+    "Kamala D. Harris,  of California": "harris",
+    "Michael R. Pence,  of Indiana": "pence",
+}
+state_results.rename(columns=col_map, inplace=True)
 us_hex_map = us_hex_map.join(state_results, on="google_name")
+
 us_hex_map["biden_win"] = np.where(
-    us_hex_map["Joseph R. Biden Jr.,  of Delaware"]
-    > us_hex_map["Donald J. Trump,  of Florida"],
+    us_hex_map["biden"] > us_hex_map["trump"],
     1,
     0,
 )
 
-# Build plot
+# %% Build plot
 fig, ax = plt.subplots(1, 1, figsize=(15, 10))
 us_hex_map.plot("biden_win", ax=ax, cmap="coolwarm_r")
 
@@ -42,4 +50,8 @@ for idx, row in us_hex_map.iterrows():
     plt.text(centroid.x, centroid.y, row["iso3166_2"], ha="center", va="center")
 ax.set_axis_off()
 plt.tight_layout()
+plt.savefig(
+    "../website_699/ppredict/static/ppredict/2020_hexbin.svg",
+    format="svg",
+)
 plt.show()

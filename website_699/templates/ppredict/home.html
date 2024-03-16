@@ -1,0 +1,9 @@
+{% extends "ppredict/base_materialize.html" %}
+{% load static %}
+{% block content %}
+    <div class="container">
+        <h1>Welcome</h1>
+        <p>2020 Election Map</p>
+    <img src="{% static 'ppredict/2020_hexbin.svg' %}" alt="2020 election map" class="responsive-img">
+    </div>
+{% endblock content %}
