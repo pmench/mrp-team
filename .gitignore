@@ -260,3 +260,7 @@ fabric.properties
 data/nat_2020_cleaned_no_dummies.csv
 data/nat_2020_test.csv
 data/nat_2020_train.csv
+/.idea/rAvailablePackageCache.xml
+/.idea/rpackages.xml
+data/nat_2020_test.csv
+data/nat_2020_train.csv
