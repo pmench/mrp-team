@@ -108,7 +108,7 @@ def main():
     """
     us_hex_map = prep_map_data("../data/us_states_hexgrid.geojson")
     state_results = get_elect_college_results(
-        "https://www.archives.gov/electoral-college/2020"
+        "https://www.archives.gov/electoral-college", "2020"
     )
     us_hex_map = merge_and_encode_wins(us_hex_map, state_results)
     build_plot(us_hex_map, "../website_699/ppredict/static/ppredict/2020_hexbin.svg")

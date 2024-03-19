@@ -1,0 +1,58 @@
+STATE,STATEFP,STATENS,STATE_NAME,state,e_votes
+AL,1,1779775,alabama,alabama, 9 
+AK,2,1785533,alaska,alaska, 3 
+AZ,4,1779777,arizona,arizona, 11 
+AR,5,68085,arkansas,arkansas, 6 
+CA,6,1779778,california,california, 54 
+CO,8,1779779,colorado,colorado, 10 
+CT,9,1779780,connecticut,connecticut, 7 
+DE,10,1779781,delaware,delaware, 3 
+DC,11,1702382,district of columbia,district of columbia, 3 
+FL,12,294478,florida,florida, 30 
+GA,13,1705317,georgia,georgia, 16 
+HI,15,1779782,hawaii,hawaii, 4 
+ID,16,1779783,idaho,idaho, 4 
+IL,17,1779784,illinois,illinois, 19 
+IN,18,448508,indiana,indiana, 11 
+IA,19,1779785,iowa,iowa, 6 
+KS,20,481813,kansas,kansas, 6 
+KY,21,1779786,kentucky,kentucky, 8 
+LA,22,1629543,louisiana,louisiana, 8 
+ME,23,1779787,maine,maine, 4 
+MD,24,1714934,maryland,maryland, 10 
+MA,25,606926,massachusetts,massachusetts, 11 
+MI,26,1779789,michigan,michigan, 15 
+MN,27,662849,minnesota,minnesota, 10 
+MS,28,1779790,mississippi,mississippi, 6 
+MO,29,1779791,missouri,missouri, 10 
+MT,30,767982,montana,montana, 4 
+NE,31,1779792,nebraska,nebraska, 5 
+NV,32,1779793,nevada,nevada, 6 
+NH,33,1779794,new hampshire,new hampshire, 4 
+NJ,34,1779795,new jersey,new jersey, 14 
+NM,35,897535,new mexico,new mexico, 5 
+NY,36,1779796,new york,new york, 28 
+NC,37,1027616,north carolina,north carolina, 16 
+ND,38,1779797,north dakota,north dakota, 3 
+OH,39,1085497,ohio,ohio, 17 
+OK,40,1102857,oklahoma,oklahoma, 7 
+OR,41,1155107,oregon,oregon, 8 
+PA,42,1779798,pennsylvania,pennsylvania, 19 
+RI,44,1219835,rhode island,rhode island, 4 
+SC,45,1779799,south carolina,south carolina, 9 
+SD,46,1785534,south dakota,south dakota, 3 
+TN,47,1325873,tennessee,tennessee, 11 
+TX,48,1779801,texas,texas, 40 
+UT,49,1455989,utah,utah, 6 
+VT,50,1779802,vermont,vermont, 3 
+VA,51,1779803,virginia,virginia, 13 
+WA,53,1779804,washington,washington, 12 
+WV,54,1779805,west virginia,west virginia, 4 
+WI,55,1779806,wisconsin,wisconsin, 10 
+WY,56,1779807,wyoming,wyoming, 3 
+AS,60,1802701,american samoa,,
+GU,66,1802705,guam,,
+MP,69,1779809,commonwealth of the northern mariana islands,,
+PR,72,1779808,puerto rico,,
+UM,74,1878752,u.s. minor outlying islands,,
+VI,78,1802710,united states virgin islands,,

@@ -257,3 +257,5 @@ fabric.properties
 /.idea/rMarkdownGraphicsSettings.xml
 /.idea/rSettings.xml
 /website_699/ppredict/static/ppredict/2020_hexbin.svg
+/.idea/rAvailablePackageCache.xml
+/.idea/rpackages.xml
