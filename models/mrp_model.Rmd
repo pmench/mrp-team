@@ -27,12 +27,7 @@ library(tidyverse)
 ## Load Data
 
 ```{r}
-getwd()
-```
-
-
-```{r}
-df <- read.csv("../data/nat_2020_cleaned_with_dummies.csv")
+df <- read.csv("../data/nat_2020_train.csv")
 ```
 
 
@@ -44,18 +39,24 @@ head(df)
 set.seed(100000)
 ```
 
-```{r}
-stan_glmer(vote_choice_recoded ~ (1 | age_recoded_1.0) + 
-                                 (1 | age_recoded_2.0) + 
-                                 (1 | age_recoded_3.0) + 
-                                 (1 | race_recoded_1) + 
-                                 (1 | race_recoded_2) + 
-                                 (1 | race_recoded_3) + 
-                                 (1 | race_recoded_4) + 
-                                 (1 | race_recoded_9) +
-                                 (1 + male), data = df)
-```
 
+
+```{r}
+stan_glmer(vote_choice_recoded ~ (1 | age_recoded_1.0) + (1 | age_recoded_2.0) +
+                                 (1 | age_recoded_3.0) + (1 | race_recoded_1)  + 
+                                 (1 | race_recoded_2) + (1 | race_recoded_3) + (1 | male) + (1 | latino) + 
+                                 (1 | race_recoded_4) + (1 | race_recoded_9) + top_household_concern_1 +  
+                                 top_household_concern_2 + top_household_concern_3 + top_household_concern_4 + 
+                                 top_household_concern_5 + top_household_concern_6 + top_household_concern_7 + 
+                                 top_household_concern_8 + top_household_concern_9 + top_household_concern_10 + 
+                                 top_household_concern_11 + top_household_concern_12 + top_household_concern_13 + 
+                                 top_household_concern_14 + top_household_concern_15 + top_household_concern_16 + 
+                                 top_household_concern_17 + approve_biden + approve_trump,
+           data = df, 
+           prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
+           prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE),
+           seed = 853)
+```
 
 ```{r}
 ```
