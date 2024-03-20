@@ -91,7 +91,7 @@ def read_csv_to_dicts(filepath, encoding="utf-8", newline="", delimiter=","):
 
 def get_e_college_rep(url):
     """
-    Reads electoral college allocation table from NARA website.
+    Reads and cleans electoral college allocation table from NARA website.
     :param url:
     :type url:
     :return:
@@ -103,7 +103,10 @@ def get_e_college_rep(url):
     combined_df[["state", "e_rep"]] = combined_df["ecollege_representation"].str.split(
         "-", expand=True
     )
-    combined_df["e_votes"] = combined_df["e_rep"].replace("votes", "", regex=True)
+    combined_df["e_votes"] = (
+        combined_df["e_rep"].replace("votes", "", regex=True).str.strip()
+    )
+    combined_df["e_votes"] = pd.to_numeric(combined_df["e_votes"], errors="coerce")
     combined_df.drop(["e_rep", "ecollege_representation"], axis=1, inplace=True)
     combined_df["state"] = combined_df["state"].str.lower().str.strip()
     return combined_df
