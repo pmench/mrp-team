@@ -56,6 +56,19 @@ m1 <- stan_glmer(vote_choice_recoded ~ (1|approve_trump) + (1|approve_biden) + (
 summary(m1)
 ```
 
+```{r}
+m1 |>
+  spread_draws(`(Intercept)`, b[, group]) |>
+  mutate(condition_mean = `(Intercept)` + b) |>
+  separate(col = group, 
+           into = c("type", "instance"), 
+           sep = ":", remove = FALSE) |> 
+  filter(type != "stateicp") |> 
+  ggplot(aes(y = group, x = condition_mean)) +
+  stat_halfeye() +
+  theme_minimal()
+```
+
 
 
 ```{r}
@@ -66,11 +79,29 @@ m2 <- stan_glmer(vote_choice_recoded ~ (1|approve_trump) + (1|approve_biden) + (
                                        (1|top_household_concern_6.0) + (1|top_household_concern_8.0) + (1|top_household_concern_9.0) + 
                                        (1|top_household_concern_10.0) + (1|top_household_concern_12.0) + (1|top_household_concern_13.0) + 
                                        (1|top_household_concern_14.0) + (1|top_household_concern_15.0) + (1|top_household_concern_16.0) + 
-                                       (1|top_household_concern_17.0) + (1|top_household_concern_18.0) + (1|top_household_concern_19.0) + 
-                                       (1|top_household_concern_20.0) + (1|top_household_concern_28.0) + (1|top_household_concern_29.0) + 
-                                       (1|top_household_concern_30.0) + male + region_2.0 + region_3.0 + region_4.0 + race_recoded_2 +
-                                       race_recoded_3 + race_recoded_9 + education_recoded_2 + education_recoded_3 + education_recoded_9,
+                                       male + region_2.0 + region_3.0 + region_4.0 + race_recoded_2 + race_recoded_3 + 
+                                       education_recoded_2 + education_recoded_3, 
                   data = df, prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
+                  prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE), seed = 853)
+```
+
+
+```{r}
+df2 <- read.csv("../data/nat_2020_cleaned_no_dummies.csv")
+```
+
+```{r}
+head(df2)
+```
+
+```{r}
+m3 <- stan_glmer(vote_choice_recoded ~ (1|approve_trump) + (1|approve_biden) + (1|optimistic) + (1|focused_imp_issues) + 
+                                       (1|economic_situation_2) +  (1|economic_situation_3) + (1|elec_enthusiasm_2) + 
+                                       (1|elec_enthusiasm_3) + (1|elec_enthusiasm_9) + 
+                                       male + region_2.0 + region_3.0 + 
+                                       region_4.0 + race_recoded_2 + race_recoded_3 + race_recoded_9 + 
+                                       education_recoded_2 + education_recoded_3 + education_recoded_9,
+                  data = df2, prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
                   prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE), seed = 853)
 ```
 
