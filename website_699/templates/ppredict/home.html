@@ -1,9 +1,20 @@
 {% extends "ppredict/base_materialize.html" %}
 {% load static %}
 {% block content %}
-    <div class="container">
-        <h1>Welcome</h1>
-        <p>2020 Election Map</p>
-    <img src="{% static 'ppredict/2020_hexbin.svg' %}" alt="2020 election map" class="responsive-img">
+    <div class="col s12 m9 l10">
+      <div id="introduction" class="section scrollspy">
+        <div class="container">
+            <h1>Welcome</h1>
+            <p>2020 Election Map</p>
+        <img src="{% static 'ppredict/2020_hexbin.svg' %}" alt="2020 election map" class="responsive-img">
+        <p> {% lorem 5 p random %} </p>
+        </div>
+      </div>
+      <div id="structure" class="section scrollspy">
+          <div class="container">
+              <h1>Methods</h1>
+              <p>{% lorem 10 p random %}</p>
+          </div>
+      </div>
     </div>
-{% endblock content %}
+{% endblock %}

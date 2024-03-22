@@ -4,6 +4,8 @@
 <head>
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <!--Import Google Icon Font-->
@@ -19,29 +21,42 @@
     <title>699</title>
 </head>
 <body>
+<!-- Hamburger menu icon (visible only on small screens) -->
+<!--Note: This responsive nav menu was designed with the help of ChatGPT -->
+<a href="#" data-target="mobile-toc" class="sidenav-trigger hide-on-med-and-up"><i class="material-icons">menu</i></a>
 
-    <!-- Navigation Bar -->
-    <nav class="nav-wrapper blue-grey darken-3">
-        <div class="container">
-            <a href="#" class="brand-logo">699</a>
-            <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-            <ul class="right hide-on-med-and-down">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-            </ul>
+ <div class="row">
+     {% block content %}
+    <!-- Content from child templates inserted here. -->
+    {% endblock %}
+ <!-- Table of Contents -->
+    <div class="col hide-on-small-only s12 m3 l2">
+        <div class="toc-wrapper pinned" style="top: 0px;">
+          <ul class="section table-of-contents">
+            <li><a href="#introduction">Introduction</a></li>
+            <li><a href="#structure">Structure</a></li>
+            <li><a href="#initialization">Intialization</a></li>
+          </ul>
         </div>
-    </nav>
+    </div>
+ </div>
 
-    <!-- Sidenav -->
-    <ul class="sidenav" id="mobile-demo">
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
+
+    <!-- Sidenav for small screens -->
+    <ul class="sidenav" id="mobile-toc">
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#structure">Methods</a></li>
+        <li><a href="#initialization">Intialization</a></li>
     </ul>
-{% block content %}
-<!-- Content from child templates inserted here. -->
-{% endblock %}
 
-<!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var elemsSidenav = document.querySelectorAll('.sidenav');
+            var instancesSidenav = M.Sidenav.init(elemsSidenav);
+            
+            var elemsScrollspy = document.querySelectorAll('.scrollspy');
+            var instancesScrollspy = M.ScrollSpy.init(elemsScrollspy);
+        });
+    </script>
 </body>
 </html>
