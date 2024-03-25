@@ -110,9 +110,14 @@ m3 <- stan_glmer(vote_choice_recoded ~ (1|approve_trump) + (1|approve_biden) + (
                   data = df2, prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
                   prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE), seed = 853)
 ```
+
+
+
 ```{r}
 summary(m3)
 ```
+
+
 ```{r}
 m3 |>
   spread_draws(`(Intercept)`, b[, group]) |>
