@@ -102,15 +102,20 @@ def create_df(census_data, year):
     :return: Dataframe with demographic category as index and year of data as column header
     :rtype: dataframe
     """
-    demographic_data = pd.DataFrame(census_data).T.set_index(0)
-    demographic_data.index.name = "Demographic"
     try:
-        demographic_data.columns = year
-        return demographic_data
-    except ValueError as e:
-        print(f"{e}, column renaming failed. Reorienting dataframe...")
-        demographic_data = demographic_data.T
-        return demographic_data
+        demographic_data = pd.DataFrame(census_data).T.set_index(0)
+        demographic_data.index.name = "Demographic"
+        try:
+            demographic_data.columns = year
+            return demographic_data
+        except ValueError as e:
+            print(f"{e}, column renaming failed. Reorienting dataframe...")
+            demographic_data = demographic_data.T
+            return demographic_data
+    except Exception as e:
+        print(f"{e}, returning raw data...")
+        raw_census_data = pd.DataFrame(census_data)
+        return raw_census_data
 
 
 def main():
@@ -126,7 +131,7 @@ def main():
     #     "B01001_020E,B01001_021E,B01001_022E,B01001_023E,B01001_024E,B01001_025E"
     # )
     var = "NAME,B01001_001E"
-    year = "2022"
+    year = "2020"
     geo = "state:*"
     dataset = "acs/acs5"
 
