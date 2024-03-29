@@ -20,10 +20,11 @@
 
     <title>699</title>
 </head>
+<!--TODO: Update ids to match final section names -->
 <body>
 <!-- Hamburger menu icon (visible only on small screens) -->
 <!--Note: This responsive nav menu was designed with the help of ChatGPT -->
-<a href="#" data-target="mobile-toc" class="sidenav-trigger hide-on-med-and-up"><i class="material-icons">menu</i></a>
+<a href="#" data-target="mobile-toc" class="sidenav-trigger pinned hide-on-med-and-up"><i class="material-icons">menu</i></a>
 
  <div class="row">
      {% block content %}
@@ -34,8 +35,8 @@
         <div class="toc-wrapper pinned" style="top: 0px;">
           <ul class="section table-of-contents">
             <li><a href="#introduction">Introduction</a></li>
-            <li><a href="#structure">Structure</a></li>
-            <li><a href="#initialization">Intialization</a></li>
+            <li><a href="#methods">Methods</a></li>
+            <li><a href="#about">About</a></li>
           </ul>
         </div>
     </div>
@@ -43,17 +44,17 @@
 
 
     <!-- Sidenav for small screens -->
-    <ul class="sidenav" id="mobile-toc">
+    <ul class="sidenav pinned" id="mobile-toc" style="top: 0px;">
         <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#structure">Methods</a></li>
-        <li><a href="#initialization">Intialization</a></li>
+        <li><a href="#methods">Methods</a></li>
+        <li><a href="#about">About</a></li>
     </ul>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             var elemsSidenav = document.querySelectorAll('.sidenav');
             var instancesSidenav = M.Sidenav.init(elemsSidenav);
-            
+
             var elemsScrollspy = document.querySelectorAll('.scrollspy');
             var instancesScrollspy = M.ScrollSpy.init(elemsScrollspy);
         });
