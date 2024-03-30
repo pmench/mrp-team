@@ -42,22 +42,92 @@ set.seed(100000)
 
 
 ```{r}
-stan_glmer(vote_choice_recoded ~ (1 | age_recoded_1.0) + (1 | age_recoded_2.0) +
-                                 (1 | age_recoded_3.0) + (1 | race_recoded_1)  + 
-                                 (1 | race_recoded_2) + (1 | race_recoded_3) + (1 | male) + (1 | latino) + 
-                                 (1 | race_recoded_4) + (1 | race_recoded_9) + top_household_concern_1 +  
-                                 top_household_concern_2 + top_household_concern_3 + top_household_concern_4 + 
-                                 top_household_concern_5 + top_household_concern_6 + top_household_concern_7 + 
-                                 top_household_concern_8 + top_household_concern_9 + top_household_concern_10 + 
-                                 top_household_concern_11 + top_household_concern_12 + top_household_concern_13 + 
-                                 top_household_concern_14 + top_household_concern_15 + top_household_concern_16 + 
-                                 top_household_concern_17 + approve_biden + approve_trump,
-           data = df, 
-           prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
-           prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE),
-           seed = 853)
+m1 <- stan_glmer(vote_choice_recoded ~ (1|approve_trump) + (1|approve_biden) + (1|optimistic) + (1|focused_imp_issues) + 
+                                       (1|economic_situation_2) +  (1|economic_situation_3) + (1|elec_enthusiasm_2) + 
+                                       (1|elec_enthusiasm_3) + (1|elec_enthusiasm_9) + 
+                                       male + region_2.0 + region_3.0 + 
+                                       region_4.0 + race_recoded_2 + race_recoded_3 + race_recoded_9 + 
+                                       education_recoded_2 + education_recoded_3 + education_recoded_9,
+                  data = df, prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
+                  prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE), seed = 853)
 ```
 
 ```{r}
+summary(m1)
+```
+
+```{r}
+m1 |>
+  spread_draws(`(Intercept)`, b[, group]) |>
+  mutate(condition_mean = `(Intercept)` + b) |>
+  separate(col = group, 
+           into = c("type", "instance"), 
+           sep = ":", remove = FALSE) |> 
+  filter(type != "stateicp") |> 
+  ggplot(aes(y = group, x = condition_mean)) +
+  stat_halfeye() +
+  theme_minimal()
+```
+
+
+
+```{r}
+m2 <- stan_glmer(vote_choice_recoded ~ (1|approve_trump) + (1|approve_biden) + (1|optimistic) + (1|focused_imp_issues) + 
+                                       (1|economic_situation_2) +  (1|economic_situation_3) + (1|elec_enthusiasm_2) + 
+                                       (1|elec_enthusiasm_3) + (1|elec_enthusiasm_9) + (1|top_household_concern_2.0) + 
+                                       (1|top_household_concern_3.0) + (1|top_household_concern_4.0) + (1|top_household_concern_5.0) + 
+                                       (1|top_household_concern_6.0) + (1|top_household_concern_8.0) + (1|top_household_concern_9.0) + 
+                                       (1|top_household_concern_10.0) + (1|top_household_concern_12.0) + (1|top_household_concern_13.0) + 
+                                       (1|top_household_concern_14.0) + (1|top_household_concern_15.0) + (1|top_household_concern_16.0) + 
+                                       male + region_2.0 + region_3.0 + region_4.0 + race_recoded_2 + race_recoded_3 + 
+                                       education_recoded_2 + education_recoded_3, 
+                  data = df, prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
+                  prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE), seed = 853)
+```
+
+
+```{r}
+df2 <- read.csv("../data/nat_2020_cleaned_no_dummies.csv")
+```
+
+```{r}
+df2 <- df2 %>% mutate(elec_enthusiasm = as.factor(elec_enthusiasm), 
+                      top_household_concern = as.factor(top_household_concern), 
+                      age_recoded = as.factor(age_recoded), 
+                      economic_situation = as.factor(economic_situation),
+                      political_leaning = as.factor(political_leaning),
+                      education_recoded = as.factor(education_recoded), 
+                      race_recoded = as.factor(race_recoded), 
+                      region = as.factor(region))
+```
+
+
+
+```{r}
+m3 <- stan_glmer(vote_choice_recoded ~ (1|approve_trump) + (1|approve_biden) + (1|optimistic) + (1|focused_imp_issues) + 
+                                       (1|economic_situation) +  (1|top_household_concern) + (1|elec_enthusiasm) + 
+                                       (1|political_leaning) + male + race_recoded + education_recoded + age_recoded + region,
+                  data = df2, prior = normal(location = 0, scale = 0.5, autoscale = TRUE),
+                  prior_intercept = normal(location = 0, scale = 0.5, autoscale = TRUE), seed = 853)
+```
+
+
+
+```{r}
+summary(m3)
+```
+
+
+```{r}
+m3 |>
+  spread_draws(`(Intercept)`, b[, group]) |>
+  mutate(condition_mean = `(Intercept)` + b) |>
+  separate(col = group, 
+           into = c("type", "instance"), 
+           sep = ":", remove = FALSE) |> 
+  filter(type != "stateicp") |> 
+  ggplot(aes(y = group, x = condition_mean)) +
+  stat_halfeye() +
+  theme_minimal()
 ```
 
