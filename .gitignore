@@ -264,3 +264,6 @@ data/nat_2020_train.csv
 /.idea/rpackages.xml
 data/nat_2020_test.csv
 data/nat_2020_train.csv
+/output/ecollege_carto.jpg
+/output/ecollege_pop.gif
+/output/pop_carto.jpg
