@@ -103,7 +103,7 @@ animated_plot <- base_plot +
 
 animate(animated_plot, duration = 20, fps = 10, width = 1000, height = 800, res = 250)
 
-anim_save("../output/test_anim.gif", animation = last_animation(), dpi = 250)
+anim_save("../output/ecollege_pop.gif", animation = last_animation(), dpi = 250)
 
 # Create static visualizations
 pop_carto <- cartogram_cont(last(anim_frames), weight = "value")
