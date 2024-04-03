@@ -1,6 +1,7 @@
 import csv
 import json
 import pandas as pd
+import requests
 
 
 def read_json(filepath, encoding="utf-8"):
@@ -92,10 +93,10 @@ def read_csv_to_dicts(filepath, encoding="utf-8", newline="", delimiter=","):
 def get_e_college_rep(url):
     """
     Reads and cleans electoral college allocation table from NARA website.
-    :param url:
-    :type url:
-    :return:
-    :rtype:
+    :param url: URL to NARA webpage containing electoral college information.
+    :type url: str
+    :return: cleaned electoral college data.
+    :rtype: dataframe
     """
     e_table = pd.read_html(url)[0]
     combo = pd.concat([e_table[0], e_table[1], e_table[2]], ignore_index=True)
@@ -113,9 +114,45 @@ def get_e_college_rep(url):
 
 
 def get_fips(url, delimiter="|"):
+    """
+    Gets fips codes from Census documents.
+    :param url: URL to Census documents containing FIPs codes.
+    :type url: str
+    :param delimiter: Optional delimiter used on Census website.
+    :type delimiter: str
+    :return: FIPs codes with matching state names data.
+    :rtype: dataframe
+    """
     fips = pd.read_csv(url, sep=delimiter)
     fips["STATE_NAME"] = fips["STATE_NAME"].str.lower().str.strip()
     return fips
+
+
+def get_wiki_pres_elections(url, table=None, to_csv=False):
+    """
+    Retrieves table data from Wikipedia article on the outcomes of presidential elections by vote margins.
+    :param url: URL to Wikipedia article.
+    :type url: str
+    :param table:
+    :type table:
+    :param to_csv:
+    :type to_csv:
+    :return:
+    :rtype:
+    """
+    tables = pd.read_html(url)
+    if table is None:
+        elections = tables
+    else:
+        elections = tables[table]
+    if not isinstance(elections, list):
+        elections = [elections]
+    if to_csv:
+        for i, election in enumerate(elections):
+            election.to_csv(f"../data/wiki_pres_data_{i}.csv", index=False)
+        if len(elections) == 1:
+            return elections[0]
+    return elections
 
 
 def main():
