@@ -266,6 +266,16 @@ data/nat_2020_train.csv
 /output/ecollege_pop.gif
 /output/pop_carto.jpg
 /output/test_anim.gif
+/data/2020_election/2020_electoral_results.csv
+/data/comet_polls/2020_post-election_survey_panelnov6.pdf
+/data/comet_polls/clean_comet.csv
+/data/comet_polls/comet_recoded.csv
+/data/2020_election/NST-EST2022-POP.xlsx
+/data/comet_polls/prenov20.dta
+/data/comet_polls/prenov20.zip
+/data/comet_polls/prepostpanelnov20.zip
+/data/comet_polls/UTD_2020_Pre-Election_Surveyoct17.pdf
+/data/comet_polls/recodedDataDict.md
 /data/usa_00001.dat.gz
 /data/2020_election/
 /data/comet_polls/
