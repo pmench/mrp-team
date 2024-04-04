@@ -3,6 +3,7 @@ import json
 import pandas as pd
 import gzip
 import shutil
+import map_viz_gen as mp
 
 
 def read_json(filepath, encoding="utf-8"):
@@ -200,7 +201,13 @@ def main():
     # )
     #
     # e_college_votes.to_csv("../data/2020_ecollege_rep.csv", index=False)
-    join_pop_ecollege("../data/2022_state_pop.csv", "../data/2020_ecollege_rep.csv")
+    # join_pop_ecollege("../data/2022_state_pop.csv", "../data/2020_ecollege_rep.csv")
+    state_results = mp.get_elect_college_results(
+        "https://www.archives.gov/electoral-college",
+        "2020",
+        write_csv=True,
+        csv_filepath="../data/2020_electoral_results.csv",
+    )
 
 
 if __name__ == "__main__":

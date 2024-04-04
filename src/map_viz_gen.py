@@ -24,13 +24,17 @@ def prep_map_data(filepath):
     return us_hex_map
 
 
-def get_elect_college_results(nara_url, year):
+def get_elect_college_results(nara_url, year, write_csv=False, csv_filepath=None):
     """
     Gets a specific election year's electoral college results from NARA (https://www.archives.gov/electoral-college/).
     :param nara_url: URL to the NARA electoral college results webpage.
     :type nara_url: str
     :param year: Election year of interest.
     :type year: str
+    :param write_csv: Option to write data to CSV file (default False).
+    :type write_csv: bool
+    :param csv_filepath: Optional filepath for writing CSV file (default None).
+    :type csv_filepath: str
     :return: DataFrame with electoral college results for the specified year.
     :rtype: pandas Dataframe
     """
@@ -54,6 +58,8 @@ def get_elect_college_results(nara_url, year):
         "Michael R. Pence,  of Indiana": "pence",
     }
     state_results.rename(columns=col_map, inplace=True)
+    if write_csv:
+        state_results.to_csv(csv_filepath)
     return state_results
 
 
