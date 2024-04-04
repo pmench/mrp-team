@@ -1,7 +1,8 @@
 import csv
 import json
 import pandas as pd
-import requests
+import gzip
+import shutil
 
 
 def read_json(filepath, encoding="utf-8"):
@@ -155,20 +156,27 @@ def get_wiki_pres_elections(url, table=None, to_csv=False):
     return elections
 
 
-def main():
-    e_college_votes = get_e_college_rep(
-        "https://www.archives.gov/electoral-college/allocation"
-    )
-    fips = get_fips(
-        "https://www2.census.gov/geo/docs/reference/codes2020/national_state2020.txt"
-    )
-    print(e_college_votes.head(3))
-    print(fips.head(3))
-    e_college_votes = pd.merge(
-        fips, e_college_votes, how="left", left_on="STATE_NAME", right_on="state"
-    )
+def read_ipums(ipums_file, mode="rb", output="../data/ipums.xml"):
+    with gzip.open(ipums_file, mode) as file_in:
+        with open(output, "wb") as file_out:
+            shutil.copyfileobj(file_in, file_out)
 
-    e_college_votes.to_csv("../data/2020_ecollege_rep.csv", index=False)
+
+def main():
+    # e_college_votes = get_e_college_rep(
+    #     "https://www.archives.gov/electoral-college/allocation"
+    # )
+    # fips = get_fips(
+    #     "https://www2.census.gov/geo/docs/reference/codes2020/national_state2020.txt"
+    # )
+    # print(e_college_votes.head(3))
+    # print(fips.head(3))
+    # e_college_votes = pd.merge(
+    #     fips, e_college_votes, how="left", left_on="STATE_NAME", right_on="state"
+    # )
+    #
+    # e_college_votes.to_csv("../data/2020_ecollege_rep.csv", index=False)
+    read_ipums("../data/usa_00001.dat.gz")
 
 
 if __name__ == "__main__":
