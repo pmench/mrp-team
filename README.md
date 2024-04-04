@@ -10,9 +10,9 @@ names](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/
 
 ## Data Dictionary for Recoded Comet Poll
 ### Age Buckets
-- 18-34 = 0
-- 35-54 = 1
-- 55+ = 2
+- 18-34 = 1
+- 35-54 = 2
+- 55+ = 3
 
 ### Gender
 - Male = 1

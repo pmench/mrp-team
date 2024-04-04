@@ -95,7 +95,7 @@ def process_comet_data(comet_data, keep_all=False):
     ]
     clean_comet_data["birth_year"] = clean_comet_data["birth_year"].astype(int)
     age_bins = [0, 1965, 1985, 2002]
-    age_encoding = [2, 1, 0]
+    age_encoding = [3, 2, 1]
     clean_comet_data["age_group"] = pd.cut(
         clean_comet_data["birth_year"], age_bins, right=True, labels=age_encoding
     )
