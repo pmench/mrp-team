@@ -157,9 +157,33 @@ def get_wiki_pres_elections(url, table=None, to_csv=False):
 
 
 def read_ipums(ipums_file, mode="rb", output="../data/ipums.xml"):
+    """
+    Unzips gzip file from IPUMS and writes it to output.
+    :param ipums_file: Path to IPUMS file.
+    :type ipums_file: str
+    :param mode: File mode to open the file.
+    :type mode: str
+    :param output: Path to output.
+    :type output: str
+    :return: None.
+    :rtype: None.
+    """
     with gzip.open(ipums_file, mode) as file_in:
         with open(output, "wb") as file_out:
             shutil.copyfileobj(file_in, file_out)
+
+
+def join_pop_ecollege(pop_data, ecollege_data, cols=None):
+    pop = pd.read_csv(pop_data)
+    ecollege = pd.read_csv(ecollege_data)
+    merge = pd.merge(pop, ecollege, left_on="state", right_on="STATEFP", how="left")
+    if cols:
+        merge = merge[[cols]]
+    else:
+        merge = merge[["NAME", "Estimate!!Total:", "STATE", "STATEFP", "e_votes"]]
+    merge.columns = merge.columns.map(lambda x: x.lower())
+    merge.to_csv("../data/pop_ecollege_join.csv", index=False)
+    return merge
 
 
 def main():
@@ -176,7 +200,7 @@ def main():
     # )
     #
     # e_college_votes.to_csv("../data/2020_ecollege_rep.csv", index=False)
-    read_ipums("../data/usa_00001.dat.gz")
+    join_pop_ecollege("../data/2022_state_pop.csv", "../data/2020_ecollege_rep.csv")
 
 
 if __name__ == "__main__":

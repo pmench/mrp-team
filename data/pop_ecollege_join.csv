@@ -1,0 +1,53 @@
+name,estimate!!total:,state,statefp,e_votes
+Alabama,5028092,AL,1,9.0
+Alaska,734821,AK,2,3.0
+Arizona,7172282,AZ,4,11.0
+Arkansas,3018669,AR,5,6.0
+California,39356104,CA,6,54.0
+Colorado,5770790,CO,8,10.0
+Connecticut,3611317,CT,9,7.0
+Delaware,993635,DE,10,3.0
+District of Columbia,670587,DC,11,3.0
+Florida,21634529,FL,12,30.0
+Georgia,10722325,GA,13,16.0
+Hawaii,1450589,HI,15,4.0
+Idaho,1854109,ID,16,4.0
+Illinois,12757634,IL,17,19.0
+Indiana,6784403,IN,18,11.0
+Iowa,3188836,IA,19,6.0
+Kansas,2935922,KS,20,6.0
+Kentucky,4502935,KY,21,8.0
+Louisiana,4640546,LA,22,8.0
+Maine,1366949,ME,23,4.0
+Maryland,6161707,MD,24,10.0
+Massachusetts,6984205,MA,25,11.0
+Michigan,10057921,MI,26,15.0
+Minnesota,5695292,MN,27,10.0
+Mississippi,2958846,MS,28,6.0
+Missouri,6154422,MO,29,10.0
+Montana,1091840,MT,30,4.0
+Nebraska,1958939,NE,31,5.0
+Nevada,3104817,NV,32,6.0
+New Hampshire,1379610,NH,33,4.0
+New Jersey,9249063,NJ,34,14.0
+New Mexico,2112463,NM,35,5.0
+New York,19994379,NY,36,28.0
+North Carolina,10470214,NC,37,16.0
+North Dakota,776874,ND,38,3.0
+Ohio,11774683,OH,39,17.0
+Oklahoma,3970497,OK,40,7.0
+Oregon,4229374,OR,41,8.0
+Pennsylvania,12989208,PA,42,19.0
+Rhode Island,1094250,RI,44,4.0
+South Carolina,5142750,SC,45,9.0
+South Dakota,890342,SD,46,3.0
+Tennessee,6923772,TN,47,11.0
+Texas,29243342,TX,48,40.0
+Utah,3283809,UT,49,6.0
+Vermont,643816,VT,50,3.0
+Virginia,8624511,VA,51,13.0
+Washington,7688549,WA,53,12.0
+West Virginia,1792967,WV,54,4.0
+Wisconsin,5882128,WI,55,10.0
+Wyoming,577929,WY,56,3.0
+Puerto Rico,3272382,PR,72,
