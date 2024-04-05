@@ -1,6 +1,3 @@
-import os
-import zipfile
-
 import numpy as np
 import pandas as pd
 
@@ -10,31 +7,6 @@ import helper as utl
 This script processes polling data from COMETrends surveys taken during the 2020 election.
 https://cometrends.utdallas.edu/data-and-questionnaires/
 """
-
-
-def extract_zipped_data(path, destination, file_ext=".csv"):
-    """
-    Unzips the given file and extracts filetypes matching the given extension.
-    :param path: Path to the zipped file.
-    :type path: str
-    :param destination: Location to save the extracted files.
-    :type destination: str
-    :param file_ext: Type of file to extract from the compressed file.
-    :type file_ext: str (default: ".csv")
-    :return: List of filenames for the extracted files.
-    :rtype: list
-    """
-    extracted_files = list()
-    os.makedirs(destination, exist_ok=True)
-    with zipfile.ZipFile(path, "r") as zip_ref:
-        for file_info in zip_ref.infolist():
-            if "__MACOSX" in file_info.filename:
-                continue
-            if not file_info.is_dir() and file_info.filename.endswith(file_ext):
-                zip_ref.extract(file_info, destination)
-                extracted_files.append(file_info.filename)
-    print(f"Extracted STATA datafile from {path} to {destination}")
-    return extracted_files
 
 
 def read_comet_poll(path):
@@ -121,7 +93,9 @@ def process_comet_data(comet_data, keep_all=False):
     clean_comet_data["education_coded"] = np.select(
         ed_conditions, ed_codes, default=np.nan
     )
-    clean_comet_data["education_coded"] = clean_comet_data["education_coded"].astype("category")
+    clean_comet_data["education_coded"] = clean_comet_data["education_coded"].astype(
+        "category"
+    )
 
     # Recode race
     race_conditions = [
@@ -173,7 +147,9 @@ def process_comet_data(comet_data, keep_all=False):
     ]
 
     issue_codes = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
-    clean_comet_data["issue_coded"] = np.select(issue_condition, issue_codes, default=np.nan)
+    clean_comet_data["issue_coded"] = np.select(
+        issue_condition, issue_codes, default=np.nan
+    )
     clean_comet_data["issue_coded"] = clean_comet_data["issue_coded"].astype("category")
 
     # Recode vote choice
@@ -208,7 +184,9 @@ def process_comet_data(comet_data, keep_all=False):
     clean_comet_data["region_coded"] = np.select(
         region_condition, region_codes, default=np.nan
     )
-    clean_comet_data["region_coded"] = clean_comet_data["region_coded"].astype("category")
+    clean_comet_data["region_coded"] = clean_comet_data["region_coded"].astype(
+        "category"
+    )
 
     # Return cleaned data
     print(f"Dtypes Check:\n{clean_comet_data.dtypes}\n")
@@ -228,7 +206,7 @@ def main():
     :return: None.
     :rtype: None.
     """
-    data_extracted = extract_zipped_data(
+    data_extracted = utl.extract_zipped_data(
         "../data/comet_polls/prenov20.zip", "../data/comet_polls/", file_ext=".dta"
     )
     comet_data = read_comet_poll(f"../data/comet_polls/{data_extracted[0]}")

@@ -1,8 +1,12 @@
 import csv
-import json
-import pandas as pd
 import gzip
+import json
+import os
 import shutil
+import zipfile
+
+import pandas as pd
+
 import map_viz_gen as mp
 
 
@@ -185,6 +189,31 @@ def join_pop_ecollege(pop_data, ecollege_data, cols=None):
     merge.columns = merge.columns.map(lambda x: x.lower())
     merge.to_csv("../data/pop_ecollege_join.csv", index=False)
     return merge
+
+
+def extract_zipped_data(path, destination, file_ext=".csv"):
+    """
+    Unzips the given file and extracts filetypes matching the given extension.
+    :param path: Path to the zipped file.
+    :type path: str
+    :param destination: Location to save the extracted files.
+    :type destination: str
+    :param file_ext: Type of file to extract from the compressed file.
+    :type file_ext: str (default: ".csv")
+    :return: List of filenames for the extracted files.
+    :rtype: list
+    """
+    extracted_files = list()
+    os.makedirs(destination, exist_ok=True)
+    with zipfile.ZipFile(path, "r") as zip_ref:
+        for file_info in zip_ref.infolist():
+            if "__MACOSX" in file_info.filename:
+                continue
+            if not file_info.is_dir() and file_info.filename.endswith(file_ext):
+                zip_ref.extract(file_info, destination)
+                extracted_files.append(file_info.filename)
+    print(f"Extracted {file_ext} datafile from {path} to {destination}")
+    return extracted_files
 
 
 def main():
