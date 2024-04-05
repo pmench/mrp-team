@@ -117,7 +117,7 @@ def process_comet_data(comet_data, keep_all=False):
         clean_comet_data["education"] == "graduated university, b.a. or b.sc.",
         clean_comet_data["education"] == "graduate or professional school",
     ]
-    ed_codes = [1, 1, 2, 2, 2, 2]
+    ed_codes = [1, 1, 3, 3, 3, 3]
     clean_comet_data["education_coded"] = np.select(
         ed_conditions, ed_codes, default=np.nan
     )
