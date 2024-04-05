@@ -10,9 +10,9 @@ names](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/
 
 ## Data Dictionary for Recoded Comet Poll
 ### Age Buckets
-- 18-34 = 0
-- 35-54 = 1
-- 55+ = 2
+- 18-34 = 1
+- 35-54 = 2
+- 55+ = 3
 
 ### Gender
 - Male = 1
@@ -21,10 +21,10 @@ names](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/
 ### Education
 - Some high school or less = 1
 - High school graduate = 1
-- Community college = 2
-- Some university = 2
-- Graduate university, B.A. or B.Sc = 2
-- Graduate or professional school = 2
+- Community college = 3
+- Some university = 3
+- Graduate university, B.A. or B.Sc = 3
+- Graduate or professional school = 3
 
 ### Race
 - White, non-Hispanic = 1
