@@ -50,6 +50,8 @@ def process_comet_data(comet_data, keep_all=False):
     :return: Cleaned COMETrends data.
     :rtype: dataframe
     """
+
+    # Clean columns
     col_rename = {
         "q3": "birth_year",
         "q4": "gender",
@@ -63,7 +65,6 @@ def process_comet_data(comet_data, keep_all=False):
         "regnz": "region",
     }
 
-    # Bucket and code age groups
     clean_comet_data = comet_data.rename(columns=col_rename)
     vote_choice = [
         "will vote for joe biden",
@@ -75,6 +76,8 @@ def process_comet_data(comet_data, keep_all=False):
         (clean_comet_data["voted_for"].isin(vote_choice))
         | (clean_comet_data["plan_to_vote_for"].isin(vote_choice))
     ]
+
+    # Bucket and code age groups
     clean_comet_data["birth_year"] = clean_comet_data["birth_year"].astype(int)
     age_bins = [0, 1965, 1985, 2002]
     age_encoding = [3, 2, 1]

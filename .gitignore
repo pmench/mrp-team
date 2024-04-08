@@ -284,3 +284,6 @@ data/nat_2020_train.csv
 /data/reuters_poll/reuters_poll_test.csv
 /data/reuters_poll/RoperID_31120717-topline.csv
 /data/reuters_poll/verbatims.csv
+/data/reuters_poll/dataDict.md
+/data/reuters_poll/2024_clean_reuters_coded.csv
+/data/reuters_poll/2024_clean_reuters_all.csv
