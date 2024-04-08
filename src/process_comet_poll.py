@@ -28,18 +28,28 @@ def read_comet_poll(path):
 def select_comet_data(comet_data, cols_to_keep):
     """
     Selects columns in COMET data to keep and discards the rest.
-    :param comet_data: Comet
-    :type comet_data:
-    :param cols_to_keep:
-    :type cols_to_keep:
-    :return:
-    :rtype:
+    :param comet_data: Dataframe containing COMET data
+    :type comet_data: dataframe
+    :param cols_to_keep: Columns of interest.
+    :type cols_to_keep: list
+    :return: COMET polling data
+    :rtype: dataframe
     """
     comet_data = comet_data[cols_to_keep]
     return comet_data
 
 
 def process_comet_data(comet_data, keep_all=False):
+    """
+    Processes selected subset of COMET polling data, recoding data for use in a machine learning pipeline.
+    :param comet_data: Selected data from COMETrends surveys.
+    :type comet_data: dataframe
+    :param keep_all: Optional parameter that determines whether to output both original columns and re-coded columns
+        (default: False).
+    :type keep_all: bool
+    :return: Cleaned COMETrends data.
+    :rtype: dataframe
+    """
     col_rename = {
         "q3": "birth_year",
         "q4": "gender",

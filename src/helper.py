@@ -216,6 +216,33 @@ def extract_zipped_data(path, destination, file_ext=".csv"):
     return extracted_files
 
 
+def read_and_filter_poll(
+    filepath, file_type="csv", encoding="utf-8", cols_to_keep=None
+):
+    """
+    Reads in poll data from either a STATA file or CSV file and optionally filters columns.
+    :param filepath: Path to the file.
+    :type filepath: str
+    :param file_type: Type of file, either CSV or STATA file (default: CSV).
+    :type file_type: str
+    :param encoding: Encoding of the file (default: utf-8).
+    :type encoding: str
+    :param cols_to_keep: Optional list of desired columns in output file. Default keeps all columns. (default: None)
+    :type cols_to_keep: list | None
+    :return: DataFrame with poll data.
+    :rtype: dataframe
+    """
+    if file_type == "stata":
+        poll_data = pd.read_stata(filepath)
+    else:
+        poll_data = pd.read_csv(filepath, encoding=encoding)
+    if cols_to_keep is not None:
+        poll_data = poll_data[cols_to_keep]
+        return poll_data
+    else:
+        return poll_data
+
+
 def main():
     # e_college_votes = get_e_college_rep(
     #     "https://www.archives.gov/electoral-college/allocation"

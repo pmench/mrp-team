@@ -279,3 +279,8 @@ data/nat_2020_train.csv
 /data/usa_00001.dat.gz
 /data/2020_election/
 /data/comet_polls/
+/data/reuters_poll/2024_reuters.csv
+/data/reuters_poll/2024_reuters_stata.dta
+/data/reuters_poll/reuters_poll_test.csv
+/data/reuters_poll/RoperID_31120717-topline.csv
+/data/reuters_poll/verbatims.csv
