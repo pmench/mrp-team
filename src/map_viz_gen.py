@@ -63,22 +63,28 @@ def get_elect_college_results(nara_url, year, write_csv=False, csv_filepath=None
     return state_results
 
 
-def merge_and_encode_wins(us_hex_map, state_results):
+def merge_and_encode_wins(us_hex_map, state_results, pred=False):
     """
     Processes election results and joins them with a geopandas map object.
     :param us_hex_map: Geopandas map of the United States.
     :type us_hex_map: Geopandas map object.
     :param state_results: Dataframe containing election results.
     :type state_results: pandas.DataFrame.
+    :param pred: Whether to create map based on model predictions or NARA data.
+    :type pred: bool
     :return: Dataframe containing U.S. geographic and election data.
     :rtype: geopandas.GeoDataFrame.
     """
     us_hex_map = us_hex_map.join(state_results, on="google_name")
-    us_hex_map["biden_win"] = np.where(
-        us_hex_map["biden"] > us_hex_map["trump"],
-        1,
-        0,
-    )
+    if pred:
+        us_hex_map["biden_win"] = np.where(us_hex_map["state_pred"] == 0, 1, 0)
+    else:
+        us_hex_map["biden_win"] = np.where(
+            us_hex_map["biden"] > us_hex_map["trump"],
+            1,
+            0,
+        )
+    return us_hex_map
 
 
 def build_plot(us_hex_map, filepath):
@@ -113,11 +119,18 @@ def main():
     :rtype: None.
     """
     us_hex_map = prep_map_data("../data/us_states_hexgrid.geojson")
-    state_results = get_elect_college_results(
-        "https://www.archives.gov/electoral-college", "2020"
-    )
-    us_hex_map = merge_and_encode_wins(us_hex_map, state_results)
-    build_plot(us_hex_map, "../website_699/ppredict/static/ppredict/2020_hexbin.svg")
+
+    # Build hex map based on actual 2020 election results
+    # state_results = get_elect_college_results(
+    #     "https://www.archives.gov/electoral-college", "2020"
+    # )
+    # build_plot(us_hex_map, "../website_699/ppredict/static/ppredict/2020_hexbin.svg")
+
+    # Build hexmap based on 2020 predictions
+    state_results = pd.read_csv("../data/2020_election/final_pred_elec_ML.csv")
+    state_results = state_results.set_index("State")
+    us_hex_map = merge_and_encode_wins(us_hex_map, state_results, pred=True)
+    build_plot(us_hex_map, "../data/2020_election/2020_pred_hexbin.svg")
 
 
 if __name__ == "__main__":
