@@ -1,0 +1,2996 @@
+STATEFIP,age_recoded,race_recoded,male,education_recoded,PERWT,STATEFP,state,e_votes,dem,republican,dem advantage,n,rating
+1,1,1,False,1,327170.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,1,False,3,1916.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,1,True,1,330345.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,1,True,3,2014.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,2,False,1,171855.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,2,False,3,1259.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,2,True,1,158247.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,2,True,3,1646.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,3,False,1,8211.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,3,False,3,132.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,3,True,1,8538.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,3,True,3,156.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,4,False,1,24213.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,4,False,3,1141.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,4,True,1,28333.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,4,True,3,1409.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,9,False,1,14535.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,9,False,3,145.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,9,True,1,15344.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,1,9,True,3,11.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,1,False,1,401522.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,1,False,3,3121.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,1,True,1,393844.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,1,True,3,3820.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,2,False,1,175374.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,2,False,3,2353.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,2,True,1,141553.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,2,True,3,1925.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,3,False,1,10918.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,3,False,3,638.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,3,True,1,9568.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,3,True,3,281.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,4,False,1,21378.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,4,False,3,2998.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,4,True,1,24304.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,4,True,3,3665.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,9,False,1,13235.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,9,False,3,189.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,9,True,1,11414.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,2,9,True,3,162.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,1,False,1,584005.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,1,False,3,7250.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,1,True,1,499159.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,1,True,3,8039.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,2,False,1,179885.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,2,False,3,4482.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,2,True,1,133469.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,2,True,3,4008.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,3,False,1,8162.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,3,False,3,899.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,3,True,1,5002.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,3,True,3,422.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,4,False,1,10168.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,4,False,3,1071.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,4,True,1,8696.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,4,True,3,1337.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,9,False,1,14893.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,9,False,3,158.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,9,True,1,10115.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,3,9,True,3,252.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,1,1,False,1,47024.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,1,False,3,330.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,1,True,1,58181.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,1,True,3,183.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,2,False,1,2633.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,2,True,1,4473.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,3,False,1,7289.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,3,False,3,23.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,3,True,1,7417.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,4,False,1,6857.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,4,True,1,8856.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,9,False,1,21315.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,9,False,3,59.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,9,True,1,22731.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,1,9,True,3,87.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,1,False,1,53843.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,1,False,3,139.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,1,True,1,62037.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,1,True,3,102.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,2,False,1,2622.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,2,False,3,265.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,2,True,1,3367.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,3,False,1,8118.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,3,False,3,283.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,3,True,1,6562.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,3,True,3,222.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,4,False,1,6127.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,4,False,3,119.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,4,True,1,6705.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,4,True,3,228.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,9,False,1,17006.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,9,False,3,26.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,9,True,1,17274.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,2,9,True,3,27.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,1,False,1,62973.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,1,False,3,393.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,1,True,1,68539.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,1,True,3,263.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,2,False,1,2196.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,2,False,3,35.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,2,True,1,2223.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,2,True,3,24.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,3,False,1,6458.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,3,False,3,201.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,3,True,1,5019.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,3,True,3,101.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,4,False,1,2931.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,4,False,3,236.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,4,True,1,2501.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,4,True,3,119.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,9,False,1,13448.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,9,False,3,420.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,9,True,1,12413.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+2,3,9,True,3,386.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+4,1,1,False,1,358383.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,1,False,3,1898.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,1,True,1,381824.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,1,True,3,2698.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,2,False,1,38610.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,2,False,3,328.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,2,True,1,47683.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,2,True,3,385.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,3,False,1,32841.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,3,False,3,366.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,3,True,1,33381.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,3,True,3,241.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,4,False,1,305464.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,4,False,3,4096.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,4,True,1,328419.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,4,True,3,5629.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,9,False,1,63779.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,9,False,3,366.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,9,True,1,65696.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,1,9,True,3,351.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,1,False,1,452978.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,1,False,3,2197.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,1,True,1,460517.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,1,True,3,2720.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,2,False,1,38454.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,2,False,3,719.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,2,True,1,42574.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,2,True,3,432.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,3,False,1,39537.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,3,False,3,1488.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,3,True,1,35394.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,3,True,3,743.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,4,False,1,266423.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,4,False,3,10313.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,4,True,1,261732.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,4,True,3,14278.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,9,False,1,54190.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,9,False,3,704.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,9,True,1,49996.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,2,9,True,3,807.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,1,False,1,837969.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,1,False,3,4994.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,1,True,1,745193.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,1,True,3,3990.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,2,False,1,30600.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,2,False,3,731.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,2,True,1,29805.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,2,True,3,548.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,3,False,1,29324.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,3,False,3,3000.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,3,True,1,19974.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,3,True,3,1326.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,4,False,1,159869.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,4,False,3,20530.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,4,True,1,136966.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,4,True,3,18324.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,9,False,1,43804.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,9,False,3,2622.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,9,True,1,34684.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+4,3,9,True,3,1465.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+5,1,1,False,1,221846.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,1,False,3,966.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,1,True,1,226141.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,1,True,3,1173.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,2,False,1,60216.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,2,False,3,384.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,2,True,1,57192.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,2,True,3,814.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,3,False,1,8237.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,3,False,3,122.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,3,True,1,8724.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,3,True,3,111.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,4,False,1,29020.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,4,False,3,855.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,4,True,1,32871.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,4,True,3,1118.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,9,False,1,12112.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,9,False,3,74.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,9,True,1,14289.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,1,9,True,3,125.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,1,False,1,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,1,False,3,1535.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,1,True,1,263693.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,1,True,3,1967.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,2,False,1,59161.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,2,False,3,746.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,2,True,1,50331.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,2,True,3,443.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,3,False,1,7646.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,3,False,3,369.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,3,True,1,6761.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,3,True,3,511.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,4,False,1,24302.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,4,False,3,2545.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,4,True,1,26266.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,4,True,3,3703.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,9,False,1,11360.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,9,False,3,124.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,9,True,1,11144.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,2,9,True,3,77.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,1,False,1,389550.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,1,False,3,4501.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,1,True,1,334323.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,1,True,3,4601.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,2,False,1,57815.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,2,False,3,1703.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,2,True,1,44729.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,2,True,3,1467.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,3,False,1,4219.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,3,False,3,747.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,3,True,1,3370.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,3,True,3,429.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,4,False,1,9272.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,4,False,3,1644.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,4,True,1,9477.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,4,True,3,1797.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,9,False,1,12146.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,9,False,3,315.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,9,True,1,11638.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+5,3,9,True,3,145.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+6,1,1,False,1,1424354.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,1,False,3,6242.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,1,True,1,1556291.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,1,True,3,8818.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,2,False,1,269120.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,2,False,3,1555.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,2,True,1,295572.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,2,True,3,1991.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,3,False,1,700848.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,3,False,3,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,3,True,1,700970.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,3,True,3,6338.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,4,False,1,2063910.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,4,False,3,29085.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,4,True,1,2181161.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,4,True,3,43275.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,9,False,1,211638.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,9,False,3,1509.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,9,True,1,216327.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,1,9,True,3,1529.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,1,False,1,1772577.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,1,False,3,11143.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,1,True,1,1874797.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,1,True,3,13730.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,2,False,1,279432.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,2,False,3,2741.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,2,True,1,279603.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,2,True,3,3681.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,3,False,1,890738.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,3,False,3,27503.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,3,True,1,768933.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,3,True,3,20057.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,4,False,1,1830535.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,4,False,3,140786.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,4,True,1,1872321.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,4,True,3,154912.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,9,False,1,167282.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,9,False,3,2580.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,9,True,1,165848.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,2,9,True,3,2447.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,1,False,1,2850214.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,1,False,3,31533.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,1,True,1,2566807.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,1,True,3,22499.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,2,False,1,310753.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,2,False,3,6422.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,2,True,1,258441.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,2,True,3,3986.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,3,False,1,825874.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,3,False,3,93163.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,3,True,1,661802.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,3,True,3,54572.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,4,False,1,1069541.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,4,False,3,245316.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,4,True,1,936823.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,4,True,3,197678.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,9,False,1,130368.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,9,False,3,4217.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,9,True,1,111734.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+6,3,9,True,3,2321.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+8,1,1,False,1,425037.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,1,False,3,1593.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,1,True,1,465746.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,1,True,3,2419.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,2,False,1,28189.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,2,False,3,477.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,2,True,1,35328.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,2,True,3,610.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,3,False,1,26131.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,3,False,3,546.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,3,True,1,24641.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,3,True,3,425.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,4,False,1,161649.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,4,False,3,2507.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,4,True,1,177452.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,4,True,3,3734.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,9,False,1,29138.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,9,False,3,247.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,9,True,1,28652.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,1,9,True,3,194.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,1,False,1,499071.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,1,False,3,1284.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,1,True,1,519848.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,1,True,3,2363.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,2,False,1,26027.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,2,False,3,1174.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,2,True,1,32375.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,2,True,3,490.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,3,False,1,29425.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,3,False,3,1594.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,3,True,1,24678.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,3,True,3,881.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,4,False,1,145793.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,4,False,3,5907.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,4,True,1,150940.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,4,True,3,9053.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,9,False,1,22283.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,9,False,3,212.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,9,True,1,23205.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,2,9,True,3,209.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,1,False,1,642850.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,1,False,3,2489.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,1,True,1,577633.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,1,True,3,1886.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,2,False,1,22316.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,2,False,3,769.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,2,True,1,22680.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,2,True,3,298.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,3,False,1,19775.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,3,False,3,2940.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,3,True,1,13460.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,3,True,3,1285.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,4,False,1,86771.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,4,False,3,7150.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,4,True,1,75887.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,4,True,3,7449.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,9,False,1,15459.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,9,False,3,504.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,9,True,1,13422.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+8,3,9,True,3,80.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+9,1,1,False,1,223138.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,1,False,3,1093.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,1,True,1,234842.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,1,True,3,838.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,2,False,1,46282.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,2,False,3,538.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,2,True,1,46916.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,2,True,3,682.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,3,False,1,22048.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,3,False,3,90.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,3,True,1,22657.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,3,True,3,125.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,4,False,1,77609.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,4,False,3,1069.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,4,True,1,81939.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,4,True,3,1509.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,9,False,1,14137.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,9,False,3,15.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,9,True,1,13264.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,1,9,True,3,128.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,1,False,1,298874.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,1,False,3,1031.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,1,True,1,288658.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,1,True,3,1857.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,2,False,1,50797.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,2,False,3,750.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,2,True,1,44578.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,2,True,3,776.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,3,False,1,26647.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,3,False,3,663.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,3,True,1,23789.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,3,True,3,393.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,4,False,1,78552.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,4,False,3,2372.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,4,True,1,74096.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,4,True,3,3609.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,9,False,1,11999.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,9,False,3,218.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,9,True,1,10512.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,2,9,True,3,134.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,1,False,1,486865.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,1,False,3,5653.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,1,True,1,415950.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,1,True,3,4722.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,2,False,1,46863.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,2,False,3,1195.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,2,True,1,34354.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,2,True,3,1333.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,3,False,1,15292.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,3,False,3,1208.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,3,True,1,13121.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,3,True,3,738.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,4,False,1,41129.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,4,False,3,5634.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,4,True,1,34499.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,4,True,3,3962.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,9,False,1,7096.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,9,False,3,159.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,9,True,1,6266.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+9,3,9,True,3,87.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+10,1,1,False,1,57871.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,1,False,3,290.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,1,True,1,58816.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,1,True,3,366.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,2,False,1,25357.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,2,False,3,8.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,2,True,1,24992.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,2,True,3,112.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,3,False,1,5367.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,3,True,1,5354.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,4,False,1,11209.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,4,False,3,322.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,4,True,1,11998.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,4,True,3,557.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,9,False,1,4969.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,9,True,1,4275.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,1,9,True,3,20.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,1,False,1,71115.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,1,False,3,611.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,1,True,1,67514.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,1,True,3,451.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,2,False,1,28974.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,2,False,3,330.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,2,True,1,24849.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,2,True,3,76.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,3,False,1,5565.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,3,False,3,123.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,3,True,1,5787.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,3,True,3,4.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,4,False,1,10699.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,4,False,3,624.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,4,True,1,11273.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,4,True,3,989.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,9,False,1,2876.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,9,True,1,1960.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,2,9,True,3,2.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,1,False,1,128891.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,1,False,3,892.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,1,True,1,109915.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,1,True,3,631.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,2,False,1,29286.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,2,False,3,437.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,2,True,1,22179.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,2,True,3,256.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,3,False,1,4456.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,3,False,3,145.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,3,True,1,3534.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,3,True,3,124.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,4,False,1,5247.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,4,False,3,207.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,4,True,1,4666.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,4,True,3,452.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,9,False,1,3019.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,9,False,3,57.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,9,True,1,3080.0,10,delaware,3.0,45,33,12,500,Solid Dem
+10,3,9,True,3,37.0,10,delaware,3.0,45,33,12,500,Solid Dem
+11,1,1,False,1,57852.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,1,False,3,47.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,1,True,1,50653.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,1,True,3,54.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,2,False,1,44316.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,2,False,3,355.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,2,True,1,38025.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,2,True,3,328.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,3,False,1,7936.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,3,False,3,27.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,3,True,1,5159.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,3,True,3,34.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,4,False,1,12041.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,4,False,3,80.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,4,True,1,12331.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,4,True,3,247.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,9,False,1,4562.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,1,9,True,1,3559.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,1,False,1,33067.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,1,False,3,52.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,1,True,1,38090.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,1,True,3,6.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,2,False,1,40277.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,2,False,3,621.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,2,True,1,32737.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,2,True,3,779.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,3,False,1,4889.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,3,False,3,166.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,3,True,1,3961.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,4,False,1,8676.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,4,False,3,1361.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,4,True,1,10662.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,4,True,3,1190.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,9,False,1,2590.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,9,False,3,29.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,9,True,1,2739.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,2,9,True,3,67.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,1,False,1,24866.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,1,False,3,69.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,1,True,1,25426.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,1,True,3,27.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,2,False,1,51728.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,2,False,3,750.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,2,True,1,34619.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,2,True,3,1286.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,3,False,1,2470.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,3,False,3,55.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,3,True,1,1453.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,3,True,3,13.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,4,False,1,4743.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,4,False,3,953.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,4,True,1,4100.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,4,True,3,552.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,9,False,1,2061.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,9,False,3,22.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+11,3,9,True,1,1315.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+12,1,1,False,1,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,1,False,3,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,1,True,1,1030592.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,1,True,3,7273.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,2,False,1,423392.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,2,False,3,4821.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,2,True,1,420104.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,2,True,3,4712.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,3,False,1,72084.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,3,False,3,748.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,3,True,1,69546.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,3,True,3,613.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,4,False,1,631171.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,4,False,3,11732.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,4,True,1,678426.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,4,True,3,15917.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,9,False,1,72845.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,9,False,3,766.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,9,True,1,69055.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,1,9,True,3,590.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,1,False,1,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,1,False,3,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,1,True,1,1279480.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,1,True,3,11953.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,2,False,1,427946.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,2,False,3,7133.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,2,True,1,382163.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,2,True,3,8030.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,3,False,1,96962.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,3,False,3,3270.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,3,True,1,78652.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,3,True,3,2295.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,4,False,1,773503.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,4,False,3,25794.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,4,True,1,767950.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,4,True,3,34223.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,9,False,1,59922.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,9,False,3,1204.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,9,True,1,53330.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,2,9,True,3,1187.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,1,False,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,1,False,3,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,1,True,1,2303174.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,1,True,3,18714.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,2,False,1,393084.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,2,False,3,20531.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,2,True,1,309352.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,2,True,3,16288.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,3,False,1,83074.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,3,False,3,7822.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,3,True,1,61884.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,3,True,3,3624.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,4,False,1,640018.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,4,False,3,52821.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,4,True,1,505582.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,4,True,3,39924.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,9,False,1,53166.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,9,False,3,1863.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,9,True,1,45280.0,12,florida,30.0,42,39,3,"11,094",Competitive
+12,3,9,True,3,1325.0,12,florida,30.0,42,39,3,"11,094",Competitive
+13,1,1,False,1,570988.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,1,False,3,3449.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,1,True,1,587604.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,1,True,3,4611.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,2,False,1,438724.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,2,False,3,3310.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,2,True,1,408171.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,2,True,3,4296.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,3,False,1,55339.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,3,False,3,867.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,3,True,1,54458.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,3,True,3,565.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,4,False,1,122796.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,4,False,3,2723.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,4,True,1,135527.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,4,True,3,7485.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,9,False,1,38688.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,9,False,3,334.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,9,True,1,37974.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,1,9,True,3,197.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,1,False,1,715317.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,1,False,3,4935.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,1,True,1,705380.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,1,True,3,6127.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,2,False,1,477733.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,2,False,3,3857.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,2,True,1,393433.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,2,True,3,3956.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,3,False,1,70748.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,3,False,3,2904.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,3,True,1,63430.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,3,True,3,2779.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,4,False,1,117519.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,4,False,3,11073.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,4,True,1,132819.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,4,True,3,16152.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,9,False,1,32890.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,9,False,3,315.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,9,True,1,26236.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,2,9,True,3,813.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,1,False,1,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,1,False,3,9183.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,1,True,1,825031.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,1,True,3,9705.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,2,False,1,403378.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,2,False,3,10452.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,2,True,1,297209.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,2,True,3,7416.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,3,False,1,41524.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,3,False,3,5127.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,3,True,1,34661.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,3,True,3,3088.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,4,False,1,46084.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,4,False,3,7020.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,4,True,1,42872.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,4,True,3,6520.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,9,False,1,23240.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,9,False,3,784.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,9,True,1,18400.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+13,3,9,True,3,526.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+15,1,1,False,1,30819.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,1,False,3,69.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,1,True,1,41980.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,1,True,3,135.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,2,False,1,3446.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,2,False,3,49.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,2,True,1,6615.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,2,True,3,12.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,3,False,1,60272.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,3,False,3,399.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,3,True,1,61693.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,3,True,3,515.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,4,False,1,20176.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,4,False,3,49.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,4,True,1,23173.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,4,True,3,266.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,9,False,1,36368.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,9,False,3,69.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,9,True,1,37296.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,1,9,True,3,246.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,1,False,1,33663.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,1,False,3,117.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,1,True,1,41848.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,1,True,3,214.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,2,False,1,2617.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,2,False,3,116.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,2,True,1,4217.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,2,True,3,24.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,3,False,1,88398.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,3,False,3,1449.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,3,True,1,78530.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,3,True,3,1156.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,4,False,1,15956.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,4,False,3,85.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,4,True,1,16719.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,4,True,3,167.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,9,False,1,32112.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,9,False,3,125.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,9,True,1,34258.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,2,9,True,3,222.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,1,False,1,56808.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,1,False,3,249.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,1,True,1,60526.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,1,True,3,461.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,2,False,1,1101.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,2,False,3,17.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,2,True,1,2181.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,3,False,1,135174.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,3,False,3,5788.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,3,True,1,107479.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,3,True,3,3908.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,4,False,1,9543.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,4,False,3,139.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,4,True,1,8161.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,4,True,3,156.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,9,False,1,25793.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,9,False,3,346.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,9,True,1,24097.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+15,3,9,True,3,228.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+16,1,1,False,1,146275.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,1,False,3,999.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,1,True,1,152925.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,1,True,3,823.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,2,False,1,1734.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,2,False,3,14.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,2,True,1,2730.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,3,False,1,3783.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,3,False,3,37.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,3,True,1,4039.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,3,True,3,50.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,4,False,1,30379.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,4,False,3,318.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,4,True,1,32281.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,4,True,3,634.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,9,False,1,8856.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,9,True,1,8350.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,1,9,True,3,27.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,1,False,1,171545.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,1,False,3,813.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,1,True,1,173192.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,1,True,3,939.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,2,False,1,459.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,2,False,3,26.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,2,True,1,1481.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,2,True,3,102.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,3,False,1,4351.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,3,False,3,59.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,3,True,1,2445.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,3,True,3,92.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,4,False,1,22549.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,4,False,3,1838.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,4,True,1,25997.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,4,True,3,1722.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,9,False,1,8148.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,9,False,3,45.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,9,True,1,7536.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,2,9,True,3,94.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,1,False,1,231664.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,1,False,3,1239.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,1,True,1,213674.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,1,True,3,1093.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,2,False,1,340.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,2,True,1,700.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,2,True,3,63.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,3,False,1,2894.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,3,False,3,254.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,3,True,1,1926.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,3,True,3,128.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,4,False,1,11007.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,4,False,3,1910.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,4,True,1,10484.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,4,True,3,1761.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,9,False,1,6700.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,9,False,3,53.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,9,True,1,6435.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+16,3,9,True,3,140.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+17,1,1,False,1,791231.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,1,False,3,3051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,1,True,1,820051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,1,True,3,3605.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,2,False,1,228092.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,2,False,3,1508.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,2,True,1,221173.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,2,True,3,2362.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,3,False,1,92664.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,3,False,3,913.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,3,True,1,93639.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,3,True,3,368.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,4,False,1,284015.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,4,False,3,4050.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,4,True,1,301264.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,4,True,3,6177.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,9,False,1,42414.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,9,False,3,337.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,9,True,1,41130.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,1,9,True,3,165.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,1,False,1,983123.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,1,False,3,5407.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,1,True,1,985338.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,1,True,3,5765.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,2,False,1,235454.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,2,False,3,2270.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,2,True,1,199666.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,2,True,3,2324.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,3,False,1,107422.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,3,False,3,2555.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,3,True,1,98011.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,3,True,3,2224.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,4,False,1,267998.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,4,False,3,14905.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,4,True,1,288713.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,4,True,3,18192.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,9,False,1,29111.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,9,False,3,331.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,9,True,1,27034.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,2,9,True,3,427.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,1,False,1,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,1,False,3,12250.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,1,True,1,1234622.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,1,True,3,10377.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,2,False,1,255989.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,2,False,3,4218.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,2,True,1,183521.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,2,True,3,3572.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,3,False,1,83770.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,3,False,3,6542.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,3,True,1,69446.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,3,True,3,3280.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,4,False,1,132887.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,4,False,3,24048.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,4,True,1,128289.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,4,True,3,21195.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,9,False,1,20760.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,9,False,3,734.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,9,True,1,17659.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+17,3,9,True,3,316.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+18,1,1,False,1,561184.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,1,False,3,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,1,True,1,575412.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,1,True,3,3431.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,2,False,1,80965.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,2,False,3,860.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,2,True,1,81067.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,2,True,3,488.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,3,False,1,25072.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,3,False,3,671.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,3,True,1,28432.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,3,True,3,899.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,4,False,1,59484.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,4,False,3,1171.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,4,True,1,63669.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,4,True,3,1745.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,9,False,1,23856.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,9,False,3,186.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,9,True,1,25094.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,1,9,True,3,215.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,1,False,1,656231.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,1,False,3,4770.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,1,True,1,651234.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,1,True,3,4633.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,2,False,1,80363.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,2,False,3,1120.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,2,True,1,72529.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,2,True,3,621.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,3,False,1,21526.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,3,False,3,2096.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,3,True,1,20026.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,3,True,3,1044.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,4,False,1,53234.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,4,False,3,3316.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,4,True,1,58778.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,4,True,3,4855.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,9,False,1,14996.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,9,False,3,168.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,9,True,1,13736.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,2,9,True,3,303.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,1,False,1,900370.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,1,False,3,7295.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,1,True,1,775944.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,1,True,3,7189.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,2,False,1,74746.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,2,False,3,1302.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,2,True,1,56806.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,2,True,3,1054.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,3,False,1,10489.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,3,False,3,1808.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,3,True,1,8797.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,3,True,3,1146.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,4,False,1,24195.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,4,False,3,2130.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,4,True,1,23458.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,4,True,3,2244.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,9,False,1,13902.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,9,False,3,85.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,9,True,1,11074.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+18,3,9,True,3,515.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+19,1,1,False,1,279006.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,1,False,3,950.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,1,True,1,289710.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,1,True,3,960.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,2,False,1,15263.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,2,False,3,318.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,2,True,1,18251.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,2,True,3,363.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,3,False,1,13699.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,3,False,3,325.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,3,True,1,15021.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,3,True,3,303.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,4,False,1,27037.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,4,False,3,323.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,4,True,1,27352.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,4,True,3,636.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,9,False,1,10298.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,9,False,3,27.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,9,True,1,12024.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,1,9,True,3,33.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,1,False,1,320351.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,1,False,3,1032.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,1,True,1,322970.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,1,True,3,1327.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,2,False,1,11301.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,2,False,3,824.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,2,True,1,14298.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,2,True,3,661.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,3,False,1,10379.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,3,False,3,1467.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,3,True,1,10835.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,3,True,3,581.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,4,False,1,18504.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,4,False,3,2066.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,4,True,1,22059.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,4,True,3,2692.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,9,False,1,7605.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,9,False,3,82.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,9,True,1,7081.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,2,9,True,3,83.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,1,False,1,479107.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,1,False,3,2059.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,1,True,1,418795.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,1,True,3,2753.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,2,False,1,7008.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,2,False,3,657.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,2,True,1,6178.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,2,True,3,135.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,3,False,1,4628.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,3,False,3,1250.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,3,True,1,3521.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,3,True,3,991.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,4,False,1,7929.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,4,False,3,1236.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,4,True,1,7727.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,4,True,3,1300.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,9,False,1,4482.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,9,False,3,99.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,9,True,1,3708.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+19,3,9,True,3,157.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+20,1,1,False,1,229317.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,1,False,3,858.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,1,True,1,242411.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,1,True,3,1047.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,2,False,1,18410.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,2,False,3,279.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,2,True,1,25291.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,2,True,3,451.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,3,False,1,13158.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,3,False,3,123.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,3,True,1,13943.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,3,True,3,106.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,4,False,1,46294.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,4,False,3,820.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,4,True,1,49964.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,4,True,3,1819.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,9,False,1,16644.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,9,False,3,114.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,9,True,1,15111.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,1,9,True,3,66.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,1,False,1,262419.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,1,False,3,1187.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,1,True,1,262366.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,1,True,3,1509.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,2,False,1,18036.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,2,False,3,363.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,2,True,1,21582.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,2,True,3,372.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,3,False,1,12954.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,3,False,3,794.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,3,True,1,11191.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,3,True,3,393.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,4,False,1,35933.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,4,False,3,2776.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,4,True,1,39288.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,4,True,3,3693.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,9,False,1,11119.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,9,False,3,94.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,9,True,1,10235.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,2,9,True,3,138.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,1,False,1,386574.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,1,False,3,2260.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,1,True,1,335859.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,1,True,3,2098.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,2,False,1,19137.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,2,False,3,387.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,2,True,1,16693.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,2,True,3,385.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,3,False,1,6868.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,3,False,3,990.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,3,True,1,5969.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,3,True,3,893.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,4,False,1,16893.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,4,False,3,2951.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,4,True,1,16867.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,4,True,3,2499.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,9,False,1,8805.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,9,False,3,52.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,9,True,1,7945.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+20,3,9,True,3,64.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+21,1,1,False,1,397470.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,1,False,3,1767.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,1,True,1,407736.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,1,True,3,3059.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,2,False,1,45038.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,2,False,3,353.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,2,True,1,48974.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,2,True,3,422.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,3,False,1,10208.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,3,False,3,279.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,3,True,1,9012.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,3,True,3,202.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,4,False,1,20594.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,4,False,3,695.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,4,True,1,25055.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,4,True,3,875.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,9,False,1,14670.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,9,False,3,78.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,9,True,1,15085.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,1,9,True,3,63.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,1,False,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,1,False,3,3106.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,1,True,1,469737.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,1,True,3,4192.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,2,False,1,43049.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,2,False,3,752.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,2,True,1,42894.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,2,True,3,725.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,3,False,1,10540.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,3,False,3,972.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,3,True,1,9037.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,3,True,3,1035.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,4,False,1,16109.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,4,False,3,995.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,4,True,1,20832.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,4,True,3,1650.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,9,False,1,10315.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,9,False,3,118.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,9,True,1,9126.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,2,9,True,3,126.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,1,False,1,638351.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,1,False,3,8725.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,1,True,1,541357.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,1,True,3,10842.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,2,False,1,45562.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,2,False,3,798.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,2,True,1,36844.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,2,True,3,616.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,3,False,1,5378.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,3,False,3,650.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,3,True,1,3706.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,3,True,3,338.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,4,False,1,7754.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,4,False,3,382.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,4,True,1,8103.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,4,True,3,632.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,9,False,1,8131.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,9,False,3,213.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,9,True,1,6437.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+21,3,9,True,3,182.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+22,1,1,False,1,287561.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,1,False,3,1835.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,1,True,1,293823.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,1,True,3,2473.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,2,False,1,198065.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,2,False,3,1233.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,2,True,1,189899.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,2,True,3,1773.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,3,False,1,9924.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,3,False,3,209.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,3,True,1,11445.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,3,True,3,32.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,4,False,1,28082.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,4,False,3,720.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,4,True,1,35701.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,4,True,3,1170.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,9,False,1,15188.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,9,False,3,51.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,9,True,1,14511.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,1,9,True,3,123.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,1,False,1,340935.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,1,False,3,2801.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,1,True,1,337816.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,1,True,3,3855.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,2,False,1,188043.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,2,False,3,1714.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,2,True,1,160426.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,2,True,3,2648.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,3,False,1,11979.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,3,False,3,821.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,3,True,1,10643.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,3,True,3,309.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,4,False,1,25918.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,4,False,3,1451.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,4,True,1,33797.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,4,True,3,2323.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,9,False,1,12445.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,9,False,3,323.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,9,True,1,11255.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,2,9,True,3,147.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,1,False,1,473819.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,1,False,3,4634.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,1,True,1,411053.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,1,True,3,5111.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,2,False,1,193391.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,2,False,3,5342.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,2,True,1,147083.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,2,True,3,4523.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,3,False,1,7828.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,3,False,3,2097.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,3,True,1,6884.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,3,True,3,926.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,4,False,1,18407.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,4,False,3,908.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,4,True,1,18033.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,4,True,3,958.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,9,False,1,12107.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,9,False,3,297.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,9,True,1,9489.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+22,3,9,True,3,577.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+23,1,1,False,1,119323.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,1,False,3,493.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,1,True,1,121506.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,1,True,3,404.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,2,False,1,1983.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,2,False,3,94.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,2,True,1,3223.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,2,True,3,34.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,3,False,1,2462.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,3,True,1,2315.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,4,False,1,2988.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,4,True,1,3645.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,4,True,3,8.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,9,False,1,5048.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,9,False,3,3.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,1,9,True,1,4625.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,1,False,1,157346.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,1,False,3,943.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,1,True,1,151365.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,1,True,3,928.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,2,False,1,2042.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,2,False,3,70.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,2,True,1,1967.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,2,True,3,210.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,3,False,1,3091.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,3,False,3,2.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,3,True,1,1699.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,3,True,3,31.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,4,False,1,2648.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,4,True,1,2941.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,4,True,3,154.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,9,False,1,4680.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,9,False,3,67.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,9,True,1,5049.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,2,9,True,3,132.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,1,False,1,249166.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,1,False,3,1588.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,1,True,1,218226.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,1,True,3,1477.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,2,False,1,584.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,2,False,3,93.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,2,True,1,1231.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,2,True,3,76.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,3,False,1,2403.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,3,False,3,286.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,3,True,1,416.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,3,True,3,40.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,4,False,1,1885.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,4,False,3,130.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,4,True,1,1457.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,9,False,1,4033.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,9,False,3,56.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,9,True,1,3733.0,23,maine,4.0,47,39,8,941,Lean Dem
+23,3,9,True,3,52.0,23,maine,4.0,47,39,8,941,Lean Dem
+24,1,1,False,1,306762.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,1,False,3,1123.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,1,True,1,318677.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,1,True,3,1439.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,2,False,1,218759.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,2,False,3,1697.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,2,True,1,207507.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,2,True,3,1902.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,3,False,1,44112.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,3,False,3,407.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,3,True,1,41910.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,3,True,3,246.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,4,False,1,72338.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,4,False,3,2804.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,4,True,1,78810.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,4,True,3,4704.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,9,False,1,29067.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,9,False,3,165.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,9,True,1,27524.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,1,9,True,3,114.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,1,False,1,388138.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,1,False,3,1524.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,1,True,1,376080.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,1,True,3,2436.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,2,False,1,258983.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,2,False,3,2515.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,2,True,1,220143.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,2,True,3,2613.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,3,False,1,62896.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,3,False,3,1416.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,3,True,1,54818.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,3,True,3,871.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,4,False,1,74062.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,4,False,3,8473.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,4,True,1,83172.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,4,True,3,12165.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,9,False,1,25301.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,9,False,3,185.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,9,True,1,19134.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,2,9,True,3,241.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,1,False,1,574249.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,1,False,3,4368.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,1,True,1,498050.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,1,True,3,4402.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,2,False,1,260094.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,2,False,3,5018.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,2,True,1,189143.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,2,True,3,3609.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,3,False,1,49043.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,3,False,3,4008.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,3,True,1,41884.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,3,True,3,2082.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,4,False,1,34748.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,4,False,3,5295.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,4,True,1,30066.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,4,True,3,5111.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,9,False,1,17527.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,9,False,3,192.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,9,True,1,13788.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+24,3,9,True,3,447.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+25,1,1,False,1,539643.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,1,False,3,1790.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,1,True,1,537330.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,1,True,3,3147.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,2,False,1,64635.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,2,False,3,564.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,2,True,1,64427.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,2,True,3,485.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,3,False,1,77270.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,3,False,3,491.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,3,True,1,70222.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,3,True,3,389.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,4,False,1,118928.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,4,False,3,2380.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,4,True,1,126440.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,4,True,3,3483.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,9,False,1,33923.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,9,False,3,396.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,9,True,1,32296.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,1,9,True,3,292.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,1,False,1,624127.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,1,False,3,3322.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,1,True,1,600154.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,1,True,3,4192.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,2,False,1,62486.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,2,False,3,1330.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,2,True,1,60044.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,2,True,3,1180.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,3,False,1,70246.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,3,False,3,2448.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,3,True,1,63357.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,3,True,3,1834.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,4,False,1,103408.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,4,False,3,5478.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,4,True,1,95623.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,4,True,3,7654.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,9,False,1,26896.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,9,False,3,1134.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,9,True,1,24888.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,2,9,True,3,923.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,1,False,1,927204.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,1,False,3,14085.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,1,True,1,781031.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,1,True,3,10980.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,2,False,1,53842.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,2,False,3,4523.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,2,True,1,43092.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,2,True,3,2404.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,3,False,1,39169.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,3,False,3,7261.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,3,True,1,35504.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,3,True,3,4224.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,4,False,1,54075.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,4,False,3,9795.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,4,True,1,43399.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,4,True,3,6953.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,9,False,1,17534.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,9,False,3,1889.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,9,True,1,14090.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+25,3,9,True,3,1107.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+26,1,1,False,1,758304.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,1,False,3,4129.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,1,True,1,794269.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,1,True,3,6409.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,2,False,1,173232.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,2,False,3,1692.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,2,True,1,169191.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,2,True,3,2606.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,3,False,1,45813.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,3,False,3,557.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,3,True,1,49478.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,3,True,3,527.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,4,False,1,69437.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,4,False,3,1165.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,4,True,1,72774.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,4,True,3,1453.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,9,False,1,46568.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,9,False,3,360.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,9,True,1,45698.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,1,9,True,3,254.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,1,False,1,910963.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,1,False,3,8210.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,1,True,1,912893.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,1,True,3,8253.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,2,False,1,174962.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,2,False,3,1924.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,2,True,1,151515.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,2,True,3,1889.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,3,False,1,47444.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,3,False,3,1463.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,3,True,1,44337.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,3,True,3,892.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,4,False,1,58140.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,4,False,3,2335.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,4,True,1,60934.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,4,True,3,3187.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,9,False,1,34401.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,9,False,3,458.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,9,True,1,31404.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,2,9,True,3,718.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,1,False,1,1360308.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,1,False,3,14541.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,1,True,1,1206106.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,1,True,3,12027.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,2,False,1,186432.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,2,False,3,2635.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,2,True,1,139529.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,2,True,3,2845.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,3,False,1,28820.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,3,False,3,2895.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,3,True,1,25132.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,3,True,3,1987.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,4,False,1,31527.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,4,False,3,2939.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,4,True,1,29259.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,4,True,3,2882.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,9,False,1,34296.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,9,False,3,1679.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,9,True,1,26750.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+26,3,9,True,3,562.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+27,1,1,False,1,451883.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,1,False,3,851.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,1,True,1,467803.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,1,True,3,1818.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,2,False,1,45963.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,2,False,3,1851.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,2,True,1,47484.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,2,True,3,1398.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,3,False,1,42679.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,3,False,3,1071.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,3,True,1,42527.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,3,True,3,1127.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,4,False,1,39225.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,4,False,3,848.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,4,True,1,43017.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,4,True,3,1795.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,9,False,1,32277.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,9,False,3,139.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,9,True,1,32488.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,1,9,True,3,397.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,1,False,1,556642.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,1,False,3,1458.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,1,True,1,564592.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,1,True,3,2862.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,2,False,1,38876.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,2,False,3,2445.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,2,True,1,46228.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,2,True,3,1395.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,3,False,1,34598.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,3,False,3,4538.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,3,True,1,32313.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,3,True,3,2991.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,4,False,1,34227.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,4,False,3,2149.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,4,True,1,37916.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,4,True,3,3190.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,9,False,1,20949.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,9,False,3,460.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,9,True,1,18853.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,2,9,True,3,266.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,1,False,1,785410.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,1,False,3,3123.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,1,True,1,704353.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,1,True,3,3799.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,2,False,1,19406.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,2,False,3,3460.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,2,True,1,21846.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,2,True,3,1234.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,3,False,1,13858.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,3,False,3,5941.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,3,True,1,13129.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,3,True,3,3080.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,4,False,1,12574.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,4,False,3,1872.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,4,True,1,12049.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,4,True,3,1539.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,9,False,1,17050.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,9,False,3,331.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,9,True,1,12952.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+27,3,9,True,3,504.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+28,1,1,False,1,170755.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,1,False,3,863.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,1,True,1,174082.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,1,True,3,1133.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,2,False,1,144525.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,2,False,3,1032.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,2,True,1,136538.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,2,True,3,1243.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,3,False,1,4080.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,3,False,3,23.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,3,True,1,4129.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,3,True,3,135.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,4,False,1,10933.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,4,False,3,109.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,4,True,1,13409.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,4,True,3,909.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,9,False,1,6838.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,9,False,3,38.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,9,True,1,7168.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,1,9,True,3,30.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,1,False,1,207267.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,1,False,3,1267.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,1,True,1,206260.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,1,True,3,1841.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,2,False,1,151231.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,2,False,3,1369.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,2,True,1,123472.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,2,True,3,1550.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,3,False,1,5118.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,3,False,3,320.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,3,True,1,3797.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,3,True,3,144.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,4,False,1,10211.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,4,False,3,1013.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,4,True,1,12311.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,4,True,3,1475.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,9,False,1,4645.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,9,False,3,64.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,9,True,1,5574.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,2,9,True,3,100.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,1,False,1,303433.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,1,False,3,3681.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,1,True,1,258048.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,1,True,3,5066.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,2,False,1,143729.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,2,False,3,4036.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,2,True,1,108023.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,2,True,3,4445.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,3,False,1,3237.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,3,False,3,769.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,3,True,1,2536.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,3,True,3,156.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,4,False,1,4821.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,4,False,3,370.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,4,True,1,4944.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,4,True,3,516.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,9,False,1,5516.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,9,False,3,153.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,9,True,1,3780.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+28,3,9,True,3,77.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+29,1,1,False,1,510603.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,1,False,3,1780.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,1,True,1,521315.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,1,True,3,3278.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,2,False,1,91934.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,2,False,3,328.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,2,True,1,89108.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,2,True,3,1452.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,3,False,1,19944.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,3,False,3,134.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,3,True,1,20872.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,3,True,3,137.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,4,False,1,34289.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,4,False,3,523.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,4,True,1,37932.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,4,True,3,709.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,9,False,1,24798.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,9,False,3,133.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,9,True,1,25389.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,1,9,True,3,137.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,1,False,1,592930.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,1,False,3,3176.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,1,True,1,591049.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,1,True,3,4449.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,2,False,1,91170.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,2,False,3,1062.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,2,True,1,77449.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,2,True,3,896.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,3,False,1,20318.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,3,False,3,673.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,3,True,1,17772.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,3,True,3,712.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,4,False,1,28476.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,4,False,3,1470.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,4,True,1,30313.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,4,True,3,1799.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,9,False,1,18088.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,9,False,3,252.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,9,True,1,17963.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,2,9,True,3,164.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,1,False,1,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,1,False,3,6243.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,1,True,1,739484.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,1,True,3,6999.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,2,False,1,92123.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,2,False,3,1815.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,2,True,1,68862.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,2,True,3,1317.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,3,False,1,13164.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,3,False,3,1148.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,3,True,1,9222.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,3,True,3,504.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,4,False,1,15829.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,4,False,3,1399.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,4,True,1,13147.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,4,True,3,1187.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,9,False,1,17390.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,9,False,3,155.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,9,True,1,13989.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+29,3,9,True,3,221.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+30,1,1,False,1,92371.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,1,False,3,170.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,1,True,1,99781.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,1,True,3,461.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,2,False,1,735.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,2,True,1,975.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,3,False,1,1546.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,3,False,3,78.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,3,True,1,1069.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,3,True,3,54.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,4,False,1,5964.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,4,False,3,44.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,4,True,1,6248.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,4,True,3,8.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,9,False,1,12087.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,9,False,3,26.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,9,True,1,12015.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,1,9,True,3,73.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,1,False,1,104668.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,1,False,3,536.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,1,True,1,109330.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,1,True,3,564.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,2,False,1,181.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,2,True,1,856.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,3,False,1,2274.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,3,False,3,43.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,3,True,1,681.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,3,True,3,228.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,4,False,1,4734.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,4,False,3,34.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,4,True,1,4594.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,4,True,3,47.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,9,False,1,9954.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,9,False,3,16.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,9,True,1,10190.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,2,9,True,3,11.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,1,False,1,165774.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,1,False,3,864.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,1,True,1,156226.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,1,True,3,852.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,2,False,1,405.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,2,False,3,65.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,2,True,1,373.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,3,False,1,1297.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,3,False,3,42.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,3,True,1,571.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,3,True,3,2.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,4,False,1,3138.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,4,False,3,52.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,4,True,1,2466.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,4,True,3,22.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,9,False,1,10082.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,9,False,3,3.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,9,True,1,8158.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+30,3,9,True,3,119.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+31,1,1,False,1,159673.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,1,False,3,616.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,1,True,1,166182.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,1,True,3,990.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,2,False,1,12061.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,2,False,3,288.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,2,True,1,12577.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,2,True,3,306.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,3,False,1,7920.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,3,False,3,516.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,3,True,1,8037.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,3,True,3,222.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,4,False,1,26371.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,4,False,3,1272.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,4,True,1,29512.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,4,True,3,1151.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,9,False,1,8291.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,9,False,3,13.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,9,True,1,8628.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,1,9,True,3,49.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,1,False,1,179679.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,1,False,3,1253.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,1,True,1,181982.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,1,True,3,1259.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,2,False,1,9458.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,2,False,3,643.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,2,True,1,11259.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,2,True,3,355.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,3,False,1,5458.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,3,False,3,1093.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,3,True,1,5450.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,3,True,3,728.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,4,False,1,21525.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,4,False,3,2096.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,4,True,1,24014.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,4,True,3,2774.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,9,False,1,5860.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,9,False,3,47.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,9,True,1,5507.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,2,9,True,3,329.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,1,False,1,261124.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,1,False,3,1471.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,1,True,1,229535.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,1,True,3,1333.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,2,False,1,8148.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,2,False,3,216.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,2,True,1,7073.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,2,True,3,146.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,3,False,1,3336.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,3,False,3,534.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,3,True,1,2341.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,3,True,3,510.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,4,False,1,8440.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,4,False,3,1908.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,4,True,1,8380.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,4,True,3,2266.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,9,False,1,3500.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,9,False,3,17.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,9,True,1,3085.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+31,3,9,True,3,1.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+32,1,1,False,1,131920.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,1,False,3,1037.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,1,True,1,142769.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,1,True,3,1233.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,2,False,1,35415.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,2,False,3,304.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,2,True,1,36369.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,2,True,3,285.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,3,False,1,30491.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,3,False,3,321.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,3,True,1,28773.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,3,True,3,123.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,4,False,1,116206.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,4,False,3,2180.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,4,True,1,122613.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,4,True,3,2820.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,9,False,1,20342.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,9,False,3,199.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,9,True,1,19876.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,1,9,True,3,162.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,1,False,1,181067.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,1,False,3,1016.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,1,True,1,197764.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,1,True,3,1397.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,2,False,1,35407.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,2,False,3,440.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,2,True,1,35444.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,2,True,3,311.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,3,False,1,44262.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,3,False,3,769.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,3,True,1,33857.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,3,True,3,636.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,4,False,1,106896.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,4,False,3,6297.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,4,True,1,111480.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,4,True,3,6899.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,9,False,1,16911.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,9,False,3,117.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,9,True,1,15178.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,2,9,True,3,168.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,1,False,1,284496.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,1,False,3,2236.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,1,True,1,279535.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,1,True,3,1660.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,2,False,1,31308.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,2,False,3,644.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,2,True,1,27387.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,2,True,3,732.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,3,False,1,45737.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,3,False,3,2638.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,3,True,1,32555.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,3,True,3,970.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,4,False,1,53349.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,4,False,3,8982.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,4,True,1,49822.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,4,True,3,7308.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,9,False,1,12674.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,9,False,3,144.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,9,True,1,10990.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+32,3,9,True,3,111.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+33,1,1,False,1,123260.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,1,False,3,386.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,1,True,1,129046.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,1,True,3,505.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,2,False,1,2233.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,2,False,3,105.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,2,True,1,3301.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,3,False,1,5483.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,3,False,3,121.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,3,True,1,5396.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,3,True,3,8.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,4,False,1,7391.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,4,False,3,113.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,4,True,1,8985.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,4,True,3,147.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,9,False,1,3941.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,9,False,3,25.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,1,9,True,1,4591.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,1,False,1,155384.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,1,False,3,499.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,1,True,1,151775.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,1,True,3,969.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,2,False,1,1649.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,2,False,3,94.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,2,True,1,3412.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,2,True,3,101.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,3,False,1,6312.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,3,False,3,208.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,3,True,1,5371.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,3,True,3,225.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,4,False,1,6162.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,4,False,3,175.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,4,True,1,6778.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,4,True,3,101.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,9,False,1,3401.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,9,False,3,29.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,2,9,True,1,3333.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,1,False,1,227377.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,1,False,3,1409.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,1,True,1,204142.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,1,True,3,1765.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,2,False,1,934.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,2,False,3,317.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,2,True,1,1447.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,2,True,3,130.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,3,False,1,3449.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,3,False,3,364.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,3,True,1,2470.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,3,True,3,212.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,4,False,1,3033.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,4,False,3,349.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,4,True,1,2693.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,4,True,3,215.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,9,False,1,3415.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,9,False,3,74.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,9,True,1,2662.0,33,new hampshire,4.0,43,40,3,831,Competitive
+33,3,9,True,3,126.0,33,new hampshire,4.0,43,40,3,831,Competitive
+34,1,1,False,1,445675.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,1,False,3,2005.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,1,True,1,467010.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,1,True,3,2261.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,2,False,1,137904.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,2,False,3,809.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,2,True,1,138138.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,2,True,3,1028.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,3,False,1,97663.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,3,False,3,703.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,3,True,1,95232.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,3,True,3,428.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,4,False,1,218534.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,4,False,3,3954.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,4,True,1,232651.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,4,True,3,5424.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,9,False,1,27969.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,9,False,3,113.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,9,True,1,28055.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,1,9,True,3,300.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,1,False,1,615264.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,1,False,3,4137.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,1,True,1,601965.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,1,True,3,4804.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,2,False,1,161496.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,2,False,3,2180.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,2,True,1,141974.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,2,True,3,2208.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,3,False,1,139835.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,3,False,3,1787.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,3,True,1,131553.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,3,True,3,1724.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,4,False,1,243396.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,4,False,3,11530.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,4,True,1,247912.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,4,True,3,13659.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,9,False,1,25023.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,9,False,3,376.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,9,True,1,20693.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,2,9,True,3,468.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,1,False,1,971592.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,1,False,3,12939.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,1,True,1,824554.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,1,True,3,11101.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,2,False,1,161831.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,2,False,3,4028.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,2,True,1,116099.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,2,True,3,2926.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,3,False,1,98157.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,3,False,3,6588.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,3,True,1,89127.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,3,True,3,2686.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,4,False,1,155999.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,4,False,3,17298.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,4,True,1,131178.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,4,True,3,13427.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,9,False,1,18452.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,9,False,3,680.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,9,True,1,15708.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+34,3,9,True,3,541.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+35,1,1,False,1,65034.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,1,False,3,240.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,1,True,1,74060.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,1,True,3,467.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,2,False,1,4555.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,2,False,3,35.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,2,True,1,7275.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,2,True,3,45.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,3,False,1,3968.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,3,True,1,4107.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,3,True,3,80.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,4,False,1,127110.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,4,False,3,790.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,4,True,1,132322.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,4,True,3,1324.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,9,False,1,29720.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,9,False,3,36.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,9,True,1,29751.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,1,9,True,3,81.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,1,False,1,86449.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,1,False,3,258.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,1,True,1,86909.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,1,True,3,960.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,2,False,1,3882.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,2,False,3,38.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,2,True,1,5406.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,2,True,3,42.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,3,False,1,6263.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,3,False,3,166.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,3,True,1,4165.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,3,True,3,103.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,4,False,1,121361.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,4,False,3,2690.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,4,True,1,118770.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,4,True,3,3633.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,9,False,1,28058.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,9,False,3,134.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,9,True,1,25939.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,2,9,True,3,132.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,1,False,1,181891.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,1,False,3,684.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,1,True,1,161050.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,1,True,3,905.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,2,False,1,4253.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,2,False,3,108.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,2,True,1,5297.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,2,True,3,193.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,3,False,1,4433.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,3,False,3,143.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,3,True,1,2933.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,3,True,3,183.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,4,False,1,115124.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,4,False,3,7162.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,4,True,1,97218.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,4,True,3,8060.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,9,False,1,25721.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,9,False,3,1557.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,9,True,1,19935.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+35,3,9,True,3,802.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+36,1,1,False,1,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,1,False,3,7217.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,1,True,1,1174378.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,1,True,3,8091.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,2,False,1,352400.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,2,False,3,3737.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,2,True,1,343615.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,2,True,3,5132.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,3,False,1,226871.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,3,False,3,3433.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,3,True,1,207094.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,3,True,3,2503.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,4,False,1,478034.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,4,False,3,10862.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,4,True,1,498224.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,4,True,3,13494.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,9,False,1,83114.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,9,False,3,1160.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,9,True,1,78861.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,1,9,True,3,965.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,1,False,1,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,1,False,3,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,1,True,1,1314074.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,1,True,3,11863.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,2,False,1,378409.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,2,False,3,7806.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,2,True,1,321672.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,2,True,3,8039.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,3,False,1,244431.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,3,False,3,13576.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,3,True,1,210768.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,3,True,3,9968.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,4,False,1,475177.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,4,False,3,26505.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,4,True,1,468938.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,4,True,3,30412.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,9,False,1,65644.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,9,False,3,1859.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,9,True,1,61135.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,2,9,True,3,1429.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,1,False,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,1,False,3,27986.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,1,True,1,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,1,True,3,21946.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,2,False,1,416272.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,2,False,3,14716.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,2,True,1,288826.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,2,True,3,10633.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,3,False,1,188487.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,3,False,3,33372.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,3,True,1,173521.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,3,True,3,19613.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,4,False,1,361262.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,4,False,3,49667.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,4,True,1,280266.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,4,True,3,33411.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,9,False,1,60156.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,9,False,3,3749.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,9,True,1,46535.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+36,3,9,True,3,3152.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+37,1,1,False,1,672116.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,1,False,3,3740.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,1,True,1,698647.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,1,True,3,3464.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,2,False,1,283697.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,2,False,3,1718.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,2,True,1,266660.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,2,True,3,2097.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,3,False,1,43057.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,3,False,3,719.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,3,True,1,41738.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,3,True,3,520.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,4,False,1,120058.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,4,False,3,3220.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,4,True,1,131922.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,4,True,3,4172.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,9,False,1,49082.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,9,False,3,630.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,9,True,1,50684.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,1,9,True,3,450.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,1,False,1,845486.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,1,False,3,4101.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,1,True,1,820772.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,1,True,3,7045.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,2,False,1,306265.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,2,False,3,2608.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,2,True,1,252008.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,2,True,3,3203.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,3,False,1,49849.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,3,False,3,2329.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,3,True,1,46905.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,3,True,3,1928.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,4,False,1,112774.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,4,False,3,9686.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,4,True,1,123277.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,4,True,3,13147.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,9,False,1,40723.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,9,False,3,389.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,9,True,1,35525.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,2,9,True,3,537.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,1,False,1,1212571.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,1,False,3,10867.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,1,True,1,1029577.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,1,True,3,12136.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,2,False,1,313874.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,2,False,3,7339.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,2,True,1,229961.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,2,True,3,6603.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,3,False,1,24857.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,3,False,3,3784.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,3,True,1,20417.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,3,True,3,2182.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,4,False,1,40532.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,4,False,3,5763.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,4,True,1,38749.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,4,True,3,6776.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,9,False,1,33934.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,9,False,3,781.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,9,True,1,26883.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+37,3,9,True,3,1329.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+38,1,1,False,1,73494.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,1,False,3,138.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,1,True,1,84440.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,1,True,3,282.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,2,False,1,3823.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,2,False,3,219.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,2,True,1,5235.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,3,False,1,2762.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,3,False,3,191.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,3,True,1,2745.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,3,True,3,37.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,4,False,1,4829.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,4,False,3,7.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,4,True,1,6241.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,4,True,3,3.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,9,False,1,7976.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,9,False,3,64.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,9,True,1,7551.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,1,9,True,3,22.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,1,False,1,69419.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,1,False,3,170.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,1,True,1,76146.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,1,True,3,207.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,2,False,1,1519.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,2,False,3,299.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,2,True,1,3524.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,2,True,3,84.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,3,False,1,1699.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,3,False,3,136.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,3,True,1,1428.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,3,True,3,18.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,4,False,1,2416.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,4,False,3,16.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,4,True,1,2996.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,4,True,3,27.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,9,False,1,6121.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,9,False,3,28.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,9,True,1,5536.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,2,9,True,3,46.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,1,False,1,102520.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,1,False,3,459.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,1,True,1,94772.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,1,True,3,542.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,2,False,1,216.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,2,True,1,931.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,3,False,1,850.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,3,False,3,55.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,3,True,1,316.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,3,True,3,26.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,4,False,1,1051.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,4,False,3,152.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,4,True,1,865.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,4,True,3,18.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,9,False,1,4295.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,9,False,3,21.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,9,True,1,3264.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+38,3,9,True,3,124.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+39,1,1,False,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,1,False,3,4509.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,1,True,1,975330.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,1,True,3,4777.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,2,False,1,181586.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,2,False,3,1572.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,2,True,1,178228.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,2,True,3,1395.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,3,False,1,41213.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,3,False,3,284.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,3,True,1,41543.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,3,True,3,121.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,4,False,1,58155.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,4,False,3,1289.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,4,True,1,64958.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,4,True,3,1708.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,9,False,1,49419.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,9,False,3,370.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,9,True,1,50329.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,1,9,True,3,278.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,1,False,1,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,1,False,3,6100.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,1,True,1,1130065.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,1,True,3,7676.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,2,False,1,176561.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,2,False,3,3069.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,2,True,1,161061.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,2,True,3,2356.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,3,False,1,39008.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,3,False,3,2379.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,3,True,1,36758.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,3,True,3,1649.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,4,False,1,52079.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,4,False,3,1621.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,4,True,1,53904.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,4,True,3,3202.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,9,False,1,31292.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,9,False,3,329.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,9,True,1,29973.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,2,9,True,3,593.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,1,False,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,1,False,3,13885.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,1,True,1,1417121.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,1,True,3,12927.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,2,False,1,192806.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,2,False,3,4014.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,2,True,1,147722.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,2,True,3,3370.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,3,False,1,22826.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,3,False,3,4271.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,3,True,1,18097.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,3,True,3,2605.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,4,False,1,28076.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,4,False,3,2459.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,4,True,1,24678.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,4,True,3,2227.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,9,False,1,26261.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,9,False,3,827.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,9,True,1,20232.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+39,3,9,True,3,273.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+40,1,1,False,1,267029.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,1,False,3,1167.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,1,True,1,276368.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,1,True,3,1720.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,2,False,1,36729.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,2,False,3,283.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,2,True,1,39008.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,2,True,3,279.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,3,False,1,12943.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,3,False,3,612.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,3,True,1,14011.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,3,True,3,416.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,4,False,1,55324.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,4,False,3,778.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,4,True,1,63485.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,4,True,3,1521.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,9,False,1,75093.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,9,False,3,425.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,9,True,1,76958.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,1,9,True,3,714.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,1,False,1,317067.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,1,False,3,1719.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,1,True,1,316030.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,1,True,3,2140.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,2,False,1,34104.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,2,False,3,126.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,2,True,1,36469.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,2,True,3,138.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,3,False,1,13715.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,3,False,3,1072.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,3,True,1,11011.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,3,True,3,556.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,4,False,1,42826.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,4,False,3,2517.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,4,True,1,47727.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,4,True,3,5243.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,9,False,1,64182.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,9,False,3,406.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,9,True,1,59814.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,2,9,True,3,502.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,1,False,1,470889.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,1,False,3,2807.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,1,True,1,405370.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,1,True,3,3521.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,2,False,1,33078.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,2,False,3,430.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,2,True,1,28312.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,2,True,3,468.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,3,False,1,8818.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,3,False,3,1239.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,3,True,1,5740.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,3,True,3,547.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,4,False,1,18297.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,4,False,3,2815.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,4,True,1,17536.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,4,True,3,3941.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,9,False,1,58422.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,9,False,3,664.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,9,True,1,47779.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+40,3,9,True,3,633.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+41,1,1,False,1,321892.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,1,False,3,1905.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,1,True,1,330371.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,1,True,3,1976.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,2,False,1,9366.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,2,False,3,67.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,2,True,1,12027.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,2,True,3,91.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,3,False,1,29158.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,3,False,3,285.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,3,True,1,28417.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,3,True,3,640.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,4,False,1,75497.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,4,False,3,1637.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,4,True,1,82607.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,4,True,3,2105.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,9,False,1,30103.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,9,False,3,184.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,9,True,1,29827.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,1,9,True,3,145.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,1,False,1,397429.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,1,False,3,2219.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,1,True,1,402863.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,1,True,3,2089.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,2,False,1,8036.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,2,False,3,371.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,2,True,1,11499.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,2,True,3,111.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,3,False,1,32971.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,3,False,3,1340.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,3,True,1,26945.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,3,True,3,624.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,4,False,1,58637.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,4,False,3,6319.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,4,True,1,65875.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,4,True,3,6742.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,9,False,1,25815.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,9,False,3,118.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,9,True,1,23338.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,2,9,True,3,190.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,1,False,1,595692.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,1,False,3,2769.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,1,True,1,522879.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,1,True,3,2917.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,2,False,1,6850.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,2,False,3,530.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,2,True,1,7463.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,2,True,3,257.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,3,False,1,21824.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,3,False,3,3058.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,3,True,1,16557.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,3,True,3,1277.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,4,False,1,25120.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,4,False,3,4527.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,4,True,1,23908.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,4,True,3,5326.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,9,False,1,19230.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,9,False,3,322.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,9,True,1,16841.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+41,3,9,True,3,238.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+42,1,1,False,1,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,1,False,3,3508.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,1,True,1,1006741.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,1,True,3,5284.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,2,False,1,178286.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,2,False,3,1971.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,2,True,1,180697.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,2,True,3,1841.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,3,False,1,65580.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,3,False,3,952.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,3,True,1,63930.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,3,True,3,594.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,4,False,1,129729.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,4,False,3,1712.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,4,True,1,141687.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,4,True,3,2690.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,9,False,1,40632.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,9,False,3,235.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,9,True,1,43244.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,1,9,True,3,62.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,1,False,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,1,False,3,6545.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,1,True,1,1188899.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,1,True,3,6528.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,2,False,1,170093.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,2,False,3,2308.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,2,True,1,158607.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,2,True,3,2704.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,3,False,1,65535.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,3,False,3,4247.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,3,True,1,59539.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,3,True,3,2557.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,4,False,1,113410.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,4,False,3,4716.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,4,True,1,113333.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,4,True,3,7076.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,9,False,1,30383.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,9,False,3,227.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,9,True,1,28434.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,2,9,True,3,540.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,1,False,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,1,False,3,15196.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,1,True,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,1,True,3,14033.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,2,False,1,181682.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,2,False,3,3911.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,2,True,1,136406.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,2,True,3,2526.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,3,False,1,39970.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,3,False,3,7989.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,3,True,1,36326.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,3,True,3,3982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,4,False,1,57625.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,4,False,3,8041.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,4,True,1,51745.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,4,True,3,5493.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,9,False,1,32156.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,9,False,3,554.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,9,True,1,21442.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+42,3,9,True,3,405.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+44,1,1,False,1,82003.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,1,False,3,259.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,1,True,1,82693.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,1,True,3,739.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,2,False,1,8669.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,2,True,1,9096.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,2,True,3,14.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,3,False,1,7057.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,3,False,3,18.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,3,True,1,6229.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,3,True,3,14.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,4,False,1,23474.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,4,False,3,349.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,4,True,1,25553.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,4,True,3,574.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,9,False,1,6062.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,9,False,3,20.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,9,True,1,4728.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,1,9,True,3,71.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,1,False,1,95850.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,1,False,3,781.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,1,True,1,91934.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,1,True,3,762.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,2,False,1,7077.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,2,False,3,231.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,2,True,1,7221.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,2,True,3,361.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,3,False,1,4481.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,3,False,3,248.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,3,True,1,4434.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,3,True,3,80.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,4,False,1,19951.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,4,False,3,1319.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,4,True,1,19626.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,4,True,3,1328.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,9,False,1,3674.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,9,False,3,202.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,9,True,1,3858.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,2,9,True,3,60.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,1,False,1,152145.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,1,False,3,3671.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,1,True,1,126196.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,1,True,3,2369.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,2,False,1,5928.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,2,False,3,465.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,2,True,1,5536.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,2,True,3,274.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,3,False,1,2770.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,3,False,3,595.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,3,True,1,2575.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,3,True,3,279.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,4,False,1,10573.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,4,False,3,1783.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,4,True,1,8538.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,4,True,3,1393.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,9,False,1,3035.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,9,False,3,269.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,9,True,1,2737.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+44,3,9,True,3,194.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+45,1,1,False,1,330104.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,1,False,3,1774.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,1,True,1,335861.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,1,True,3,1961.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,2,False,1,171472.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,2,False,3,1070.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,2,True,1,161876.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,2,True,3,1284.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,3,False,1,11152.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,3,False,3,198.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,3,True,1,11844.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,3,True,3,151.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,4,False,1,34347.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,4,False,3,1240.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,4,True,1,41041.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,4,True,3,1502.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,9,False,1,16255.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,9,False,3,161.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,9,True,1,15321.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,1,9,True,3,114.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,1,False,1,403885.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,1,False,3,3052.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,1,True,1,391982.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,1,True,3,3352.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,2,False,1,179663.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,2,False,3,2000.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,2,True,1,146578.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,2,True,3,2558.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,3,False,1,14644.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,3,False,3,392.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,3,True,1,11186.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,3,True,3,630.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,4,False,1,32970.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,4,False,3,2633.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,4,True,1,40676.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,4,True,3,3664.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,9,False,1,11804.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,9,False,3,201.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,9,True,1,12010.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,2,9,True,3,148.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,1,False,1,615353.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,1,False,3,5447.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,1,True,1,530485.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,1,True,3,6259.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,2,False,1,198321.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,2,False,3,4642.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,2,True,1,145569.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,2,True,3,4685.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,3,False,1,9754.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,3,False,3,507.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,3,True,1,7247.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,3,True,3,332.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,4,False,1,15499.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,4,False,3,1390.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,4,True,1,14411.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,4,True,3,1318.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,9,False,1,9840.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,9,False,3,156.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,9,True,1,8567.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+45,3,9,True,3,351.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+46,1,1,False,1,72905.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,1,False,3,234.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,1,True,1,78220.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,1,True,3,359.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,2,False,1,2616.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,2,True,1,4356.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,2,True,3,33.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,3,False,1,2323.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,3,False,3,129.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,3,True,1,2305.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,4,False,1,4338.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,4,False,3,247.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,4,True,1,6069.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,4,True,3,204.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,9,False,1,12170.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,9,False,3,24.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,9,True,1,12420.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,1,9,True,3,62.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,1,False,1,81427.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,1,False,3,279.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,1,True,1,85201.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,1,True,3,625.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,2,False,1,1336.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,2,False,3,88.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,2,True,1,2978.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,2,True,3,91.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,3,False,1,1652.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,3,False,3,330.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,3,True,1,1081.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,3,True,3,269.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,4,False,1,3428.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,4,False,3,140.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,4,True,1,3332.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,4,True,3,376.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,9,False,1,9104.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,9,False,3,177.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,9,True,1,9551.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,2,9,True,3,133.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,1,False,1,125948.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,1,False,3,375.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,1,True,1,115895.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,1,True,3,553.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,2,False,1,332.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,2,False,3,147.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,2,True,1,551.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,2,True,3,209.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,3,False,1,675.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,3,False,3,201.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,3,True,1,444.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,3,True,3,93.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,4,False,1,1460.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,4,False,3,38.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,4,True,1,1642.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,4,True,3,82.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,9,False,1,8037.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,9,False,3,69.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,9,True,1,6069.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+46,3,9,True,3,42.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+47,1,1,False,1,527769.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,1,False,3,2009.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,1,True,1,532006.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,1,True,3,2236.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,2,False,1,151953.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,2,False,3,668.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,2,True,1,145943.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,2,True,3,1394.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,3,False,1,17640.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,3,False,3,219.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,3,True,1,16558.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,3,True,3,375.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,4,False,1,46779.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,4,False,3,1304.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,4,True,1,50901.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,4,True,3,2831.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,9,False,1,23975.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,9,False,3,100.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,9,True,1,22182.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,1,9,True,3,192.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,1,False,1,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,1,False,3,4371.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,1,True,1,627022.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,1,True,3,5031.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,2,False,1,149193.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,2,False,3,2118.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,2,True,1,127936.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,2,True,3,1681.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,3,False,1,20156.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,3,False,3,820.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,3,True,1,18323.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,3,True,3,527.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,4,False,1,38906.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,4,False,3,2877.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,4,True,1,47054.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,4,True,3,3930.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,9,False,1,16400.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,9,False,3,196.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,9,True,1,16081.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,2,9,True,3,118.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,1,False,1,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,1,False,3,10928.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,1,True,1,750810.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,1,True,3,11639.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,2,False,1,143244.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,2,False,3,2844.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,2,True,1,107015.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,2,True,3,2034.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,3,False,1,11307.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,3,False,3,1972.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,3,True,1,8575.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,3,True,3,800.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,4,False,1,15879.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,4,False,3,1685.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,4,True,1,14222.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,4,True,3,2481.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,9,False,1,16286.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,9,False,3,232.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,9,True,1,13066.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+47,3,9,True,3,266.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+48,1,1,False,1,1227692.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,1,False,3,6290.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,1,True,1,1285351.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,1,True,3,7779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,2,False,1,446241.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,2,False,3,3479.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,2,True,1,445472.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,2,True,3,3477.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,3,False,1,179856.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,3,False,3,2551.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,3,True,1,174840.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,3,True,3,1761.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,4,False,1,1451945.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,4,False,3,19458.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,4,True,1,1538946.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,4,True,3,34779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,9,False,1,88160.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,9,False,3,875.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,9,True,1,91593.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,1,9,True,3,735.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,1,False,1,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,1,False,3,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,1,True,1,1525311.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,1,True,3,11201.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,2,False,1,470290.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,2,False,3,4849.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,2,True,1,432512.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,2,True,3,5533.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,3,False,1,224522.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,3,False,3,8728.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,3,True,1,208330.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,3,True,3,6783.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,4,False,1,1354227.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,4,False,3,72602.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,4,True,1,1356188.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,4,True,3,93694.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,9,False,1,72856.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,9,False,3,1506.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,9,True,1,68527.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,2,9,True,3,1033.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,1,False,1,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,1,False,3,15494.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,1,True,1,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,1,True,3,13393.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,2,False,1,391214.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,2,False,3,7400.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,2,True,1,305423.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,2,True,3,6388.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,3,False,1,135866.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,3,False,3,16670.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,3,True,1,117411.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,3,True,3,10033.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,4,False,1,782459.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,4,False,3,149863.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,4,True,1,687581.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,4,True,3,124517.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,9,False,1,55908.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,9,False,3,1228.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,9,True,1,46264.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+48,3,9,True,3,1020.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+49,1,1,False,1,301514.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,1,False,3,866.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,1,True,1,308614.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,1,True,3,1317.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,2,False,1,4700.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,2,False,3,191.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,2,True,1,6403.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,2,True,3,168.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,3,False,1,16289.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,3,False,3,106.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,3,True,1,16564.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,3,True,3,126.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,4,False,1,60693.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,4,False,3,626.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,4,True,1,65816.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,4,True,3,938.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,9,False,1,16503.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,9,False,3,38.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,9,True,1,18499.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,1,9,True,3,114.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,1,False,1,291711.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,1,False,3,1034.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,1,True,1,299355.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,1,True,3,1341.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,2,False,1,2249.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,2,False,3,189.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,2,True,1,4813.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,2,True,3,194.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,3,False,1,13835.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,3,False,3,480.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,3,True,1,11615.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,3,True,3,416.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,4,False,1,49014.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,4,False,3,2186.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,4,True,1,52921.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,4,True,3,2719.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,9,False,1,10883.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,9,False,3,63.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,9,True,1,10223.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,2,9,True,3,231.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,1,False,1,295680.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,1,False,3,1284.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,1,True,1,270551.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,1,True,3,1055.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,2,False,1,1758.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,2,False,3,73.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,2,True,1,2390.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,2,True,3,44.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,3,False,1,8574.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,3,False,3,1018.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,3,True,1,7636.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,3,True,3,222.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,4,False,1,22672.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,4,False,3,2336.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,4,True,1,20394.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,4,True,3,1843.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,9,False,1,5086.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,9,False,3,520.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,9,True,1,4905.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+49,3,9,True,3,161.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+50,1,1,False,1,60784.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,1,False,3,125.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,1,True,1,63490.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,1,True,3,212.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,2,False,1,1068.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,2,False,3,142.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,2,True,1,1852.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,3,False,1,1721.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,3,False,3,60.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,3,True,1,1839.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,3,True,3,280.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,4,False,1,2428.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,4,True,1,2376.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,4,True,3,137.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,9,False,1,2378.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,1,9,True,1,1759.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,1,False,1,70754.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,1,False,3,556.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,1,True,1,68967.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,1,True,3,338.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,2,False,1,492.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,2,True,1,899.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,3,False,1,1552.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,3,False,3,158.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,3,True,1,723.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,3,True,3,129.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,4,False,1,1412.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,4,True,1,1315.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,9,False,1,1998.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,9,True,1,2133.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,2,9,True,3,8.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,1,False,1,109670.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,1,False,3,382.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,1,True,1,97549.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,1,True,3,639.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,2,False,1,594.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,2,True,1,437.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,2,True,3,43.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,3,False,1,829.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,3,False,3,186.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,3,True,1,342.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,3,True,3,69.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,4,False,1,1047.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,4,True,1,646.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,4,True,3,31.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,9,False,1,1866.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,9,False,3,16.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,9,True,1,2234.0,50,vermont,3.0,52,30,22,496,Solid Dem
+50,3,9,True,3,11.0,50,vermont,3.0,52,30,22,496,Solid Dem
+51,1,1,False,1,550515.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,1,False,3,2067.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,1,True,1,578984.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,1,True,3,2327.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,2,False,1,199320.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,2,False,3,1467.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,2,True,1,200800.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,2,True,3,1618.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,3,False,1,67474.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,3,False,3,1090.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,3,True,1,65908.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,3,True,3,496.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,4,False,1,103772.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,4,False,3,2280.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,4,True,1,114429.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,4,True,3,4574.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,9,False,1,46658.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,9,False,3,559.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,9,True,1,44479.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,1,9,True,3,183.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,1,False,1,668616.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,1,False,3,3733.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,1,True,1,666087.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,1,True,3,4162.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,2,False,1,216688.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,2,False,3,2166.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,2,True,1,195796.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,2,True,3,2736.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,3,False,1,95076.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,3,False,3,2988.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,3,True,1,82791.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,3,True,3,1526.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,4,False,1,100128.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,4,False,3,9291.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,4,True,1,109388.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,4,True,3,11540.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,9,False,1,31353.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,9,False,3,338.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,9,True,1,29186.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,2,9,True,3,315.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,1,False,1,922772.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,1,False,3,7858.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,1,True,1,808860.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,1,True,3,9391.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,2,False,1,226653.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,2,False,3,5580.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,2,True,1,175223.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,2,True,3,4303.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,3,False,1,64052.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,3,False,3,5546.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,3,True,1,50864.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,3,True,3,2554.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,4,False,1,46154.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,4,False,3,5258.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,4,True,1,41169.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,4,True,3,4331.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,9,False,1,20361.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,9,False,3,564.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,9,True,1,16099.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+51,3,9,True,3,556.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+53,1,1,False,1,528107.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,1,False,3,2429.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,1,True,1,567699.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,1,True,3,3811.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,2,False,1,35423.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,2,False,3,894.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,2,True,1,43878.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,2,True,3,673.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,3,False,1,100836.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,3,False,3,939.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,3,True,1,101357.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,3,True,3,839.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,4,False,1,132621.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,4,False,3,1916.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,4,True,1,144332.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,4,True,3,3573.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,9,False,1,63093.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,9,False,3,524.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,9,True,1,67992.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,1,9,True,3,784.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,1,False,1,646444.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,1,False,3,3013.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,1,True,1,665328.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,1,True,3,3792.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,2,False,1,33098.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,2,False,3,1372.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,2,True,1,43732.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,2,True,3,1020.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,3,False,1,112144.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,3,False,3,3256.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,3,True,1,94451.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,3,True,3,2134.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,4,False,1,100425.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,4,False,3,8877.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,4,True,1,110498.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,4,True,3,11002.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,9,False,1,51212.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,9,False,3,344.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,9,True,1,49053.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,2,9,True,3,450.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,1,False,1,911816.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,1,False,3,4530.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,1,True,1,818035.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,1,True,3,4420.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,2,False,1,23611.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,2,False,3,1793.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,2,True,1,27530.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,2,True,3,863.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,3,False,1,80345.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,3,False,3,10026.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,3,True,1,59061.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,3,True,3,4573.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,4,False,1,41893.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,4,False,3,7634.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,4,True,1,40101.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,4,True,3,8572.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,9,False,1,37665.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,9,False,3,512.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,9,True,1,32705.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+53,3,9,True,3,342.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+54,1,1,False,1,162243.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,1,False,3,839.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,1,True,1,167767.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,1,True,3,876.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,2,False,1,6677.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,2,False,3,1.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,2,True,1,9962.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,2,True,3,104.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,3,False,1,2454.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,3,True,1,2275.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,4,False,1,3607.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,4,True,1,4350.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,4,True,3,305.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,9,False,1,4960.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,9,False,3,44.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,9,True,1,5695.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,1,9,True,3,29.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,1,False,1,207749.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,1,False,3,1258.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,1,True,1,205374.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,1,True,3,1384.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,2,False,1,7267.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,2,False,3,17.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,2,True,1,10253.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,2,True,3,128.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,3,False,1,2063.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,3,False,3,27.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,3,True,1,1940.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,3,True,3,34.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,4,False,1,3500.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,4,False,3,144.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,4,True,1,3534.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,4,True,3,70.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,9,False,1,3210.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,9,False,3,183.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,9,True,1,3754.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,2,9,True,3,5.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,1,False,1,308528.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,1,False,3,3333.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,1,True,1,268708.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,1,True,3,4164.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,2,False,1,8541.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,2,False,3,230.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,2,True,1,8288.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,2,True,3,198.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,3,False,1,2077.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,3,False,3,224.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,3,True,1,1100.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,3,True,3,52.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,4,False,1,2373.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,4,False,3,87.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,4,True,1,1918.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,4,True,3,46.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,9,False,1,3908.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,9,False,3,111.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,9,True,1,4528.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+54,3,9,True,3,77.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+55,1,1,False,1,473586.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,1,False,3,1603.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,1,True,1,494245.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,1,True,3,1756.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,2,False,1,47408.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,2,False,3,310.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,2,True,1,49267.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,2,True,3,508.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,3,False,1,28435.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,3,False,3,527.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,3,True,1,28450.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,3,True,3,212.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,4,False,1,52108.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,4,False,3,678.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,4,True,1,55559.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,4,True,3,1344.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,9,False,1,22533.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,9,False,3,51.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,9,True,1,22626.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,1,9,True,3,136.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,1,False,1,584775.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,1,False,3,2167.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,1,True,1,593453.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,1,True,3,3544.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,2,False,1,44555.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,2,False,3,774.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,2,True,1,43500.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,2,True,3,582.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,3,False,1,19069.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,3,False,3,2505.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,3,True,1,18813.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,3,True,3,2214.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,4,False,1,45064.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,4,False,3,1758.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,4,True,1,49091.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,4,True,3,2849.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,9,False,1,18921.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,9,False,3,148.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,9,True,1,16434.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,2,9,True,3,178.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,1,False,1,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,1,False,3,4834.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,1,True,1,774194.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,1,True,3,4600.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,2,False,1,34962.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,2,False,3,1123.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,2,True,1,27739.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,2,True,3,1031.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,3,False,1,9568.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,3,False,3,2387.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,3,True,1,7038.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,3,True,3,1474.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,4,False,1,18222.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,4,False,3,2356.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,4,True,1,17970.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,4,True,3,3269.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,9,False,1,18463.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,9,False,3,258.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,9,True,1,15447.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+55,3,9,True,3,180.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+56,1,1,False,1,50146.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,1,False,3,139.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,1,True,1,54087.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,1,True,3,174.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,2,False,1,829.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,2,True,1,1273.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,2,True,3,9.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,3,False,1,831.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,3,True,1,776.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,4,False,1,7149.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,4,False,3,16.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,4,True,1,9175.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,4,True,3,176.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,9,False,1,3256.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,9,True,1,3592.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,1,9,True,3,68.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,1,False,1,56677.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,1,False,3,279.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,1,True,1,60293.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,1,True,3,270.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,2,False,1,379.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,2,True,1,773.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,3,False,1,1060.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,3,False,3,77.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,3,True,1,441.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,4,False,1,6196.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,4,False,3,255.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,4,True,1,6827.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,4,True,3,316.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,9,False,1,3299.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,9,True,1,2884.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,2,9,True,3,19.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,1,False,1,81203.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,1,False,3,351.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,1,True,1,78264.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,1,True,3,306.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,2,False,1,286.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,2,True,1,478.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,3,False,1,557.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,3,True,1,448.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,3,True,3,8.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,4,False,1,4122.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,4,False,3,103.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,4,True,1,4098.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,4,True,3,197.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,9,False,1,2080.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,9,False,3,48.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+56,3,9,True,1,2139.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
