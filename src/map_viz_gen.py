@@ -127,10 +127,10 @@ def main():
     # build_plot(us_hex_map, "../website_699/ppredict/static/ppredict/2020_hexbin.svg")
 
     # Build hexmap based on 2020 predictions
-    state_results = pd.read_csv("../data/2020_election/final_pred_elec_ML.csv")
+    state_results = pd.read_csv("../data/2024_election/final_pred_elec_2024.csv")
     state_results = state_results.set_index("State")
     us_hex_map = merge_and_encode_wins(us_hex_map, state_results, pred=True)
-    build_plot(us_hex_map, "../data/2020_election/2020_pred_hexbin.svg")
+    build_plot(us_hex_map, "../data/2024_election/2024_pred_hexbin.svg")
 
 
 if __name__ == "__main__":

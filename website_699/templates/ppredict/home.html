@@ -5,22 +5,79 @@
     <div class="col s12 m9 l10">
       <div id="introduction" class="section scrollspy">
         <div class="container">
-            <h1>Welcome</h1>
-            <h3>
-                All About U.S. Elections (in 5 Minutes or Less)
-            </h3>
+            <h1>Demystifying Political Polling</h1>
+            <h3>Getting From Polls To Predictions</h3>
             <figure>
                 <img src="{% static 'ppredict/2020_hexbin.svg' %}" alt="2020 election map" class="responsive-img">
                 <figcaption>2020 Presidential election map showing how each state voted.</figcaption>
             </figure>
-
-        <p> {% lorem 5 p random %} </p>
+            <p>
+                It's election season! (Is it never not?) That means it's also election <em>prediction</em> season, where
+                legions of pundits, "personalities", and pollsters opine on who will win in November, with varying levels
+                of methodological integrity. And although it has a certain cachet to say that Joe Biden has the advantage
+                because as a Scorpio Sun in the twelfth house he vibes better with the zeitgeist, most analyst use more,
+                ahem, complex methods. But what are those methods? How do they work? How do polls turn into predictions?
+                We're here to answer your questions. But first, a quick refresher on U.S. elections.
+            </p>
         </div>
+      </div>
+
+      <div id="election-explainer" class="section scrollspy">
+          <div class="container">
+              <h3>All About U.S. Presidential Elections (In 5 Minutes or Less)</h3>
+              <p>
+                  Here's the weird thing about U.S. presidential elections: The people don't elect the president. One
+                  would assume that candidates become president if they win the popular vote, that is if they earn a
+                  majority (or plurality) of votes. Instead, when you cast a vote for a candidate, you're actually voting
+                  for "electors," who are the people who <em>actually</em> cast votes for a specific candidate.  In most states,
+                  the candidate who wins the popular vote in the state gets a group of electors who all cast votes for
+                  that candidate (but note that electors aren't necessarily required to vote for their state's winner—in
+                  2016, electors cast votes for John Kasich and Colin Powell (Fortier 2020, 9)).
+              </p>
+
+              <p>
+                  The Constitution empowers state legislatures to decide how to appoint these Electors and currently all
+                  states make that decision based on the popular vote, though the mechanics of it vary from state to
+                  state (Fortier 2020, 3-6). Suffice to say: Citizens cast their votes for a presidential candidate,
+                  which results in certain electors being appointed, who are supposed to follow the popular will in their
+                  state and vote for the presidential candidate who earned the most votes in their state. Then, the
+                  candidate who wins the majority of votes cast by electors wins the election.
+              </p>
+              <p>
+                  Nationwide, there are 538 electors and each state gets a certain number of electors based on its
+                  congressional representation. This leads to a much-criticized aspect of the Electoral College:
+                  smaller states wield more electoral power. The size of the House and Senate are fixed so even though
+                  the number of Representatives a state gets adjusts based on a state's population, and thus the number
+                  of electors each state gets remains relative to its population, the number of people represented by
+                  one electoral vote is much greater in populous states.
+              </p>
+              <figure>
+                <img src="{% static 'ppredict/ecollege_pop.gif' %}" alt="ecollege-vs-pop" class="responsive-img">
+                <figcaption>
+                    The map of the U.S. is first distorted relative to the number of electoral college votes each state 
+                    gets, and then distorts relative to each state's population.
+                </figcaption>
+            </figure>
+              <p>
+                  Confused? Imagine this: You have one pie and have to divide it among groups of people. Each group must
+                  get one slice and the size of the slice should be relative to the size of the group. The larger groups
+                  get larger slices and the smaller groups get smaller slices. That's only fair right? But you don't have
+                  infinite pie (if only!). So even though you can keep the size of slices relative to the sizes of each
+                  group, if a big groups keep getting bigger, each person in the big group is going to be getting smaller
+                  mouthfuls of pie.
+              </p>
+              <p>
+                  Now think about this: how would candidates' campaign strategies, and their political agendas, change
+                  if they had to win the popular vote and not the Electoral College? And what is the purpose of democracy
+                  anyway? Is it supposed to enact the will of the majority? Or protect the rights of the minority? While
+                  you ponder those questions, we'll turn to the mechanics of political polling and prediction.
+              </p>
+          </div>
       </div>
 
       <div id="methods" class="section scrollspy">
           <div class="container">
-              <h1>Methods</h1>
+              <h3>Polls and Predictions</h3>
               <p>{% lorem 10 p random %}</p>
           </div>
       </div>
