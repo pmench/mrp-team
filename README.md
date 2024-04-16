@@ -78,11 +78,11 @@ names](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/
 - College degree or more = 2
 
 ### Race
-White, Non-Hispanic = 1
-Hispanic = 4
-Black or African American, Non-Hispanic = 2
-Other, Non-Hispanic = 9
-2+ races, Non-Hispanic = 9
+- White, Non-Hispanic = 1
+- Hispanic = 4
+- Black or African American, Non-Hispanic = 2
+- Other, Non-Hispanic = 9
+- 2+ races, Non-Hispanic = 9
 
 ### State
 - By FIPS code

@@ -52,7 +52,7 @@ base_df <- select(ecollege_geo, -c(estimate, e_votes, evotes_10M))
 
 interpolated_values_df <- as.data.frame(interpolated_values)
 anim_frames <- list()
-for (i in 1:nrow(interpolated_values_df)) {
+for (i in seq_len(nrow(interpolated_values_df))) {
   row_data <- as.data.frame(t(interpolated_values_df[i, ]))
   anim_frames <- c(anim_frames, row_data)
 }
@@ -83,7 +83,7 @@ base_plot <- ggplot(combined_anim_frames) +
     option = "mako",
     labels = label_number_auto()
   ) +
-  labs(title = "How Much Power Does Your Vote Have?", subtitle = "Distortion Between Elecltoral College Votes and Population") +
+  labs(title = "How Much Power Does Your Vote Have?", subtitle = "Distortion Between Electoral College Votes and Population") +
   theme_void() +
   theme(
     text = element_text(color = "#22211d"),
