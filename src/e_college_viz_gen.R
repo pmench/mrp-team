@@ -83,7 +83,11 @@ base_plot <- ggplot(combined_anim_frames) +
     option = "mako",
     labels = label_number_auto()
   ) +
-  labs(title = "How Much Power Does Your Vote Have?", subtitle = "Distortion Between Electoral College Votes and Population") +
+  labs(
+    title = "How Much Power Does Your Vote Have?",
+    subtitle = "Distortion Between Electoral College Votes (2020) and Population (2022)",
+    fill = ""
+  ) +
   theme_void() +
   theme(
     text = element_text(color = "#22211d"),
