@@ -79,7 +79,41 @@
       <div id="methods" class="section scrollspy">
           <div class="container">
               <h3>Polls and Predictions</h3>
-              <p>{% lorem 10 p random %}</p>
+              <p>
+                  People rely on opinion polling to make election predictions. These polls ask voters how they feel
+                  about certain issues and candidates, and sometimes how they intend to vote in particular elections.
+                  From those responses, pollsters try to make conclusions about election outcomes. The key challenge, of
+                  course, is that it is impossible to get every voter's opinion. If pollsters want to predict how a
+                  group of people might vote—the population of an entire county or state, for example—they must find a
+                  way to make that prediction based only on a sample of people polled. The standard approach currently is
+                  a method with the intimidating name "Multilevel Regression With Poststratification" (or, less 
+                  intimidatingly, "Mister P"). Despite the technical-sounding name, the idea behind MrP can be thought of 
+                  in a fairly intuitive way: If you want to know how a group will vote, first try to predict how a sample 
+                  of that group would vote, then scale up that estimate based on the total population of that group. If, 
+                  for example, you asked a group of Latinos in Long Beach, California, whether they prefer dogs or cats, 
+                  and 60% prefer cats, you can scale up and predict that in the upcoming (extremely made-up) ballot 
+                  initiative to make cats the official pet of Long Beach, 120,000 of Long Beach's 200,000 Latinos would 
+                  back that initiative (we should emphasize that this is an extremely simplified, extremely fake example).
+              </p>
+              <p>
+                  Now perhaps a few problems with this approach might occur to you. For example, one assumption is that 
+                  groups of people tend to vote the same way. And, indeed, deciding how to group people is one of the key
+                  decisions when creating prediction models. Another assumption is that you actually know the composition 
+                  of the total population—if there were only 10,000 Latinos in Long Beach, you would be wildly overestimating 
+                  support for cats! And, of course, you're assuming that the people you <em>did ask</em> are representative 
+                  of the people you <em>didn't ask</em>.
+              </p>
+              <p>
+                  The magic of MrP is in the way it pools groups of people together. If you took a statewide poll of 
+                  people's opinion of cats, the sample of Latinos in Long Beach is likely to be quite small, and thus 
+                  unlikely to be representative of the opinion of Latinos in Long Beach. But you can use the results of 
+                  similar groups in other areas to adjust your prediction about the opinion of Latinos in Long Beach. 
+                  Further, you can do these kinds of adjustments at different levels. You can use demographic characteristics,
+                  such as race and gender, and higher-level group characteristics such as income to create different pools 
+                  of people, using larger group estimates to scale and adjust estimates for smaller groups in your data. 
+                  In this way, you can squeeze as much information out of your data as possible and make more accurate 
+                  predictions!
+              </p>
           </div>
       </div>
 
