@@ -19,7 +19,7 @@ To run the machine learning model, the the cells in ```src/clean_ML.ipynb``` in 
 ## Datasets 
 All datasets we used are publically avaliable. All rights belongs to their respective owners.
 
-Polls 
+**Polls**
 * Monmouth Univeristy 
     * [March 2020](https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_032420/)
     * [May 2020](https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_050620/)
@@ -30,7 +30,7 @@ Polls
 * [Reuter's Poll, January 2024](https://ropercenter.cornell.edu/ipoll/study?doi=10.25940/ROPER-31120717)
 
 
-Census Data
+**Census Data**
 * 2020 5-year estimates from the American Community's Survey (retrieved with [IPUMS](https://www.ipums.org/))
 
 
@@ -52,7 +52,7 @@ Our repistory has the following structure. Note that only key files are included
 │   └── census_getter.py                <- Script to pull data with census API
 |   └── helper.py                       <- Helper functions to process Reuter's poll
 │   └── process_census_data.ipynb       <- Clean census data 
-|   └── process_comet_poll.pu           <- Clean COMET poll
+|   └── process_comet_poll.py           <- Clean COMET poll
 │   └── process_harvard_poll_data.ipynb <- Clean Harvard poll
 │   └── process_poll_data.ipynb         <- Clean Monmouth poll
 │   └── process_reuters_poll.py         <- Clean Reuter's poll
@@ -65,4 +65,4 @@ Our repistory has the following structure. Note that only key files are included
 
 ## A Note on Portugol
 
-Portugol is a toy programming language designed for educational purposes. It is primarily used by Portuguese-speaking school children. Just 4k Github repositories contain code in Portugol, including ours. We have no idea why our repository says it includes Portugol code — everything is written in R, Python, CSS, and HTML. But we do think it's a little silly! 
+Portugol is a toy programming language designed for educational purposes. It is primarily used by Portuguese-speaking school children. Just 4k Github repositories contain code written in Portugol, including ours. We have no idea why our repository says it includes Portugol code — everything is written in R, Python, CSS, and HTML. But we do think it's a little silly! 
