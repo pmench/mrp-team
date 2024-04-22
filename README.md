@@ -1,123 +1,29 @@
-# mrp-team
+# America's Next Top Model: Demystrifying Two Methods for Election Prediction
+
+Bella Karduck (bkarduck@umich.edu), Haley Johnson (haleyej@umich.edu), Rohit Maramaju (rmaram@umich.edu) Philip Menchaca (pmench@umich.edu)
+
+If knowledge is power then when it comes to election predictions, the public is in the dark. Media reports are filled with opinion polling data and pundits expound on which candidate will win, but how are these predictions made? 
+
+We test two methods of election prediction—a classical statistical approach and a machine learning method—and make them understandable to a general audience. A public website walks readers through the details of each method and allows them to compare the models’ predictions with actual outcomes.
+
+## How To Run Our Code 
+Don't 
 
 
-## Resources
-[census variable 
-names](https://www.census.gov/content/dam/Census/data/developers/api-user-guide/api-guide.pdf)
+## Datasets 
+All datasets we used are publically avaliable. All rights belongs to their respective owners.
 
-## Example Image
-![2020_pres_election_map](https://github.com/pmench/mrp-team/assets/113058424/05628fc2-311a-428b-ab42-d956e39aba35)
+Polls 
+* * Monmouth Univeristy 
+* * * (March 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_032420/]
+* * * (May 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_050620/]
+* * * (July 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_070220/]
+* * * (August 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_081120/]
+* * (Harvard University, October 2020)[https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E9N6PH]
+* * (COMETrends Pre-election survey from UT Dallas, October 2020)[https://cometrends.utdallas.edu/]
 
-## Data Dictionary for Recoded Comet Poll
-### Age Buckets
-- 18-34 = 1
-- 35-54 = 2
-- 55+ = 3
+Voter Turnout 
 
-### Gender
-- Male = 1
-- Female = 0
 
-### Education
-- Some high school or less = 1
-- High school graduate = 1
-- Community college = 3
-- Some university = 3
-- Graduate university, B.A. or B.Sc = 3
-- Graduate or professional school = 3
-
-### Race
-- White, non-Hispanic = 1
-- African American = 2
-- Asian = 3
-- Hispanic = 4
-- Native American = 9
-- Other, please specify = 9
-
-### State
-- By FIPS code
-
-### Vote Choice
-- Donald Trump = 1
-- Joe Biden = 0
-
-### Region
-- Northeast = 1
-- Midwest = 2
-- South = 3
-- West = 4
-
-### Single Most Important Issue
-- Education = 0
-- Environment = 1
-- Racism = 2
-- Police violence = 3
-- Health care = 4
-- Immigration = 5
-- Inequality in incomes and wealth = 6
-- Corona virus (covid-19) pandemic = 7
-- Poverty = 8
-- Economy = 9
-- Law & order = 10 
-- Unemployment = 11
-- Other issue = 12
-- Don't know = 13
-
-## Data Dictionary for 2024 Reuters Poll
-### Age Buckets
-- 18-34 = 1
-- 35-54 = 2
-- 55+ = 3
-
-### Gender
-- Male = 1
-- Female = 0
-
-### Education
-- No college degree = 1
-- College degree or more = 2
-
-### Race
-- White, Non-Hispanic = 1
-- Hispanic = 4
-- Black or African American, Non-Hispanic = 2
-- Other, Non-Hispanic = 9
-- 2+ races, Non-Hispanic = 9
-
-### State
-- By FIPS code
-
-### Vote Choice
-- Donald Trump = 1
-- Joe Biden = 0
-
-### Region
-- Northeast = 1
-- Midwest = 2
-- South = 3
-- West = 4
-
-### Party ID
-- A Democrat = 0
-- A Republican = 1
-- An Independent = 2
-- Something else = 3
-- Skipped = 4
-
-### Religion
-- Evangelical or Protestant Christian (Baptist, Lutheran, Methodist, Presbyterian, Episcopalian, Pentecostal, Church of Christ, etc.) = 0
-- No religion = 1
-- Catholic = 2
-- Other Christian religion = 3
-- Jewish = 4
-- The Church of Jesus Christ of Latter-day Saints = 5
-- Refused = 6
-- Jehovah’s Witness = 7
-- Other non-Christian religion = 8
-- Buddhist = 9
-- Hindu = 10
-- Islam/Muslim = 11
-- Unitarian (Universalist) = 12
-- Greek or Russian Orthodox = 13
-- Missing/No response = -9
-
+Census Data
+* * 2020 5-year estimates from the American Community's Survey (retrieved with (IPUMS)[https://www.ipums.org/])
