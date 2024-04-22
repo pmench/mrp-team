@@ -1,4 +1,4 @@
-# America's Next Top Model: Demystrifying Two Methods for Election Prediction
+# America's Next Top Model: Demystifying Two Methods for Election Prediction
 
 Bella Karduck (bkarduck@umich.edu), Haley Johnson (haleyej@umich.edu), Rohit Maramaju (rmaram@umich.edu) Philip Menchaca (pmench@umich.edu)
 
