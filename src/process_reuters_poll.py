@@ -1,3 +1,9 @@
+"""
+This script cleans and recodes data from the following Reuters Poll:
+
+Reuters. 2024. “Reuters/Ipsos Large Sample Survey 1: January 2024.” https://doi.org/10.25940/ROPER-31120717.
+"""
+
 import pandas as pd
 import helper as utl
 import numpy as np

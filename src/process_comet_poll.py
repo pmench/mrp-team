@@ -1,12 +1,15 @@
+"""
+This script processes polling data from COMETrends surveys taken during the 2020 election.
+https://cometrends.utdallas.edu/data-and-questionnaires/
+
+Clarke, Harold, and Marianne Stewart. 2020. “COMETrends November 2020 Election Survey Data.”
+https://cometrends.utdallas.edu/data-and-questionnaires/.
+"""
+
 import numpy as np
 import pandas as pd
 
 import helper as utl
-
-"""
-This script processes polling data from COMETrends surveys taken during the 2020 election.
-https://cometrends.utdallas.edu/data-and-questionnaires/
-"""
 
 
 def read_comet_poll(path):

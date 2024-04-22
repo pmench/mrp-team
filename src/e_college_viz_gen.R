@@ -1,3 +1,4 @@
+# This script builds an animated cartogram that compares electoral college voting power versus state population.
 # Inspired by https://r-graph-gallery.com/a-smooth-transition-between-chloropleth-and-cartogram.html
 # using https://walker-data.com/census-r/mapping-census-data-with-r.html
 library(dplyr)

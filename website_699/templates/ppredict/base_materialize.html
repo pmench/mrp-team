@@ -1,7 +1,7 @@
 {% load static %}
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head> <!-- Page setup based on Materialize CSS documentation -->
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
     <!-- Compiled and minified JavaScript -->
@@ -18,10 +18,15 @@
     <!--Import materialize.css-->
     <meta charset="UTF-8">
     <link rel="shortcut icon" type="image/png" href="{% static 'ppredict/favicon.png' %}">
+    
+    <!-- Meta tags adapted from code written by ChatGPT -->
+    <meta property="og:title" content="PollRBear"/>
+    <meta property="og:description" content="An accessible introduction to political polling and prediction."/>
+    <meta property="og:image" content="https://www.pollrbear.com/static/ppredict/2020_hexbin.svg"/>
+    <meta property="og:url" content="https://www.pollrbear.com/"/>
 
     <title>pollrbear</title>
 </head>
-<!--TODO: Update ids to match final section names -->
 <body>
 <!-- Hamburger menu icon (visible only on small screens) -->
 <!--Note: This responsive nav menu was designed with the help of ChatGPT -->
@@ -30,7 +35,7 @@
  <div class="row">
      {% block content %}
     <!-- Content from child templates inserted here. -->
-    {% endblock %}
+     {% endblock %}
  <!-- Table of Contents -->
     <div class="col hide-on-small-only s12 m3 l2">
         <div class="toc-wrapper pinned" style="top: 0px;">

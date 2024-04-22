@@ -1,3 +1,8 @@
+"""
+This script contains helper functions to complete common tasks. By project convention, it is imported into other scripts
+as `utl`.
+"""
+
 import csv
 import gzip
 import json

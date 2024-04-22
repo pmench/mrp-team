@@ -1,3 +1,8 @@
+"""
+This script contains functions to build a hexbin map of U.S. election results. Each hex tile represents a U.S. state and
+the tile is colored according to which candidate won the state.
+"""
+
 # %% Load libraries
 import geopandas
 import matplotlib.pyplot as plt
@@ -126,11 +131,13 @@ def main():
     # )
     # build_plot(us_hex_map, "../website_699/ppredict/static/ppredict/2020_hexbin.svg")
 
-    # Build hexmap based on 2020 predictions
+    # Build hexmap based on predictions
     state_results = pd.read_csv("../data/2024_election/final_pred_elec_2024.csv")
     state_results = state_results.set_index("State")
     us_hex_map = merge_and_encode_wins(us_hex_map, state_results, pred=True)
-    build_plot(us_hex_map, "../data/2024_election/2024_pred_hexbin.svg")
+    build_plot(
+        us_hex_map, "../website_699/ppredict/static/ppredict/2024_pred_hexbin.svg"
+    )
 
 
 if __name__ == "__main__":
