@@ -15,12 +15,12 @@ All datasets we used are publically avaliable. All rights belongs to their respe
 
 Polls 
 * Monmouth Univeristy 
-    * (March 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_032420/]
-    * (May 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_050620/]
-    * (July 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_070220/]
-    * (August 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_081120/]
-* (Harvard University, October 2020)[https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E9N6PH]
-* (COMETrends Pre-election survey from UT Dallas, October 2020)[https://cometrends.utdallas.edu/]
+    * [March 2020](https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_032420/)
+    * [May 2020](https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_050620/)
+    * [July 2020](https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_070220/)
+    * [August 2020](https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_081120/)
+* [Harvard University, October 2020](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E9N6PH)
+* [COMETrends Pre-election survey from UT Dallas, October 2020](https://cometrends.utdallas.edu/)
 
 Voter Turnout 
 
