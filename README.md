@@ -6,12 +6,14 @@ If knowledge is power then when it comes to election predictions, the public is 
 
 We test two methods of election prediction—a classical statistical approach and a machine learning method—and make them understandable to a general audience. A public website walks readers through the details of each method and allows them to compare the models’ predictions with actual outcomes.
 
-See (pollrbear.com)[https://www.pollrbear.com/] for more details.
+See [pollrbear.com](https://www.pollrbear.com/) for more details.
 
 This project fufills the capstone requirement for the Master's of Science in Information at the University of Michigan.
 
 ## How To Run Our Code 
-To run the MRP model, simply run the cells in models/mrp_model.Rmd in order 
+To run the MRP model, run the cells in ```models/mrp_model.Rmd``` in order 
+
+To run the machine learning model, the the cells in ```src/clean_ML.ipynb``` in order
 
 
 ## Datasets 
@@ -36,6 +38,7 @@ Census Data
 Our repistory has the following structure. Note that only key files are included for brevity. 
 
 ```
+├── Project Poster                      <- Poster for UMSI project expo
 ├── data                                <- Data soruces used
 | 
 ├── documentation                       <- Documents data cleaning
@@ -55,10 +58,6 @@ Our repistory has the following structure. Note that only key files are included
 │   └── process_reuters_poll.py         <- Clean Reuter's poll
 |
 ├── website_699                         <- Source code for website
-│
-├── papers                  <- Academics papers used for this project
-├── project_proposal        <- Project proposal document
-├── project_update          <- Project update document & code
 ├── LICENSE
 ├── README.md
 └── requirements.txt
