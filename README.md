@@ -31,7 +31,7 @@ Polls
 
 
 Census Data
-* 2020 5-year estimates from the American Community's Survey (retrieved with (IPUMS)[https://www.ipums.org/])
+* 2020 5-year estimates from the American Community's Survey (retrieved with [IPUMS](https://www.ipums.org/))
 
 
 ## Repository Structure
@@ -62,3 +62,7 @@ Our repistory has the following structure. Note that only key files are included
 ├── README.md
 └── requirements.txt
 ```
+
+## A Note on Portugol
+
+Portugol is a toy programming language designed for educational purposes. It is primarily used by Portuguese-speaking school children. Just 4k Github repositories contain code in Portugol, including ours. We have no idea why our repository says it includes Portugol code — everything is written in R or Python. 
