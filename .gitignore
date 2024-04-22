@@ -284,3 +284,4 @@ data/nat_2020_train.csv
 /home/pmench/website_699/mrp-team/website_699/static/
 website_699/website_699/settings.py
 website_699/static/
+/output/2020_pred_hexbin.svg
