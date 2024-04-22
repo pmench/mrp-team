@@ -65,4 +65,4 @@ Our repistory has the following structure. Note that only key files are included
 
 ## A Note on Portugol
 
-Portugol is a toy programming language designed for educational purposes. It is primarily used by Portuguese-speaking school children. Just 4k Github repositories contain code in Portugol, including ours. We have no idea why our repository says it includes Portugol code — everything is written in R or Python. 
+Portugol is a toy programming language designed for educational purposes. It is primarily used by Portuguese-speaking school children. Just 4k Github repositories contain code in Portugol, including ours. We have no idea why our repository says it includes Portugol code — everything is written in R, Python, CSS, and HTML. But we do think it's a little silly! 
