@@ -206,7 +206,6 @@ m1 <- stan_glmer(vote_choice_recoded ~ (1|male) + (1|STATEFIP) + (1 |education_r
 
 ```
 
-
 ##Get Propensity Scores
 ```{r}
 epred_mat <- posterior_epred(m1, newdata = post_strat, draws = 2500)
@@ -347,11 +346,10 @@ state_props <- post_strat %>%
   group_by(STATEFIP, state) %>% 
   summarise(subset_pop_prop = sum(PERWT) / pop_overall_n)
 
-
-#png(filename="bench_query_sort.png", width=600, height=600)
-state_vs_real <- df %>% 
+df %>% 
   mutate(state = tolower(state)) %>%
   group_by(STATEFIP) %>%
+  filter(STATEFIP %in% c(4, 6, 12,13, 26, 32, 36, 42, 48, 51, 55)) %>%
   summarise(n = n(), sample_prop = n() / sample_overall_n) %>%
   left_join(y = state_props, by = c('STATEFIP')) %>%
   select(sample_prop, state, subset_pop_prop) %>% 
@@ -401,32 +399,6 @@ df %>%
 ### Effect of Propensity Estimates
 
 ```{r}
-# state_support <- df %>% 
-#   group_by(state) %>%
-#   summarise(raw_estimate = mean(as.integer(vote_choice_recoded) - 1, na.rm = TRUE), 
-#             raw_estimate_sd = sd(as.integer(vote_choice_recoded) - 1), 
-#             n = n(),
-#             raw_estimate_se = raw_estimate_sd / sqrt(n)) %>% 
-#   ggplot() + 
-#   geom_point(aes(x = state, y = raw_estimate), color = '#e32245') + 
-#   geom_errorbar(aes(ymin = raw_estimate - 2 * raw_estimate_se, ymax = raw_estimate + 2 * raw_estimate_se, x = state), 
-#                 alpha = 0.5, width = 0, color = '#e32245') + 
-#   scale_y_continuous(breaks=c(0,.25,.5,.75,1), 
-#                      labels=c("0%","25%","50%","75%","100%"), 
-#                      expand=c(0,0))+
-#   coord_cartesian(ylim=c(0, 1)) +
-#   theme_bw()+
-#   labs(x="States",y="Support")+
-#   theme(legend.position="none",
-#         axis.title=element_text(size=10),
-#         axis.text.y=element_text(size=10),
-#         axis.text.x=element_text(angle=90,size=8, vjust=0.3),
-#         legend.title=element_text(size=10),
-#         legend.text=element_text(size=10))
-````
-
-
-```{r}
 state_subgroups_df <- df %>% select(STATEFIP)  %>% 
   left_join(extra_info[, c('STATEFIP', 'state')], by = 'STATEFIP') %>%
   unique() %>%
@@ -462,6 +434,7 @@ ests <- rbind(state_support[, c('state', 'estimate', 'estimate_se', 'source')],
 
 ```{r}
 ests %>% 
+  #filter(state %in% c('michigan', 'georgia', 'wisconsin', 'pennsylvania', 'arizona', 'texas', 'california'))) %>%
   ggplot() + 
   geom_point(aes(x = state, y = estimate, color = source)) + 
   geom_errorbar(aes(ymin = estimate - 2 * estimate_se, ymax = estimate + 2 * estimate_se, x = state, color = source), 
@@ -478,52 +451,6 @@ ests %>%
         legend.title=element_text(size=10),
         legend.text=element_text(size=10))
 ggsave("test_3.png", bg = "transparent")
-```
-
-
-```{r}
-raw_ests_plot <- ests %>%
-  group_by(source) %>%
-  summarise(estimate = median(estimate), estimate_se = median(estimate_se)) %>%
-  ggplot() + 
-  geom_point(aes(x = 0.5, y = estimate, color = source)) + 
-  geom_errorbar(aes(ymin = estimate - 2 * estimate_se, ymax = estimate + 2 * estimate_se, x = 0.5, color = source), 
-                alpha = 0.5, width = 0) + 
-  scale_y_continuous(breaks=c(0,.25,.5,.75,1), 
-                     labels=c("0%","25%","50%","75%","100%"), 
-                     expand=c(0,0))+
-  scale_x_continuous(limits=c(0,1),expand=c(0,0), breaks=c(.25, .75)) + 
-  coord_cartesian(clip = 'off') +
-  theme_bw()+
-  labs(x="Population",y="") +
-   theme(axis.title.y=element_blank(),
-        axis.title.x=element_text(size=10, margin = margin(t = 19, r = 0, b = , l = 0)),
-        axis.text=element_blank(),
-        axis.ticks=element_blank(),
-        legend.title=element_text(size=10),
-        legend.text=element_text(size=10)
-        #,
-        #plot.margin = margin(5.5, 105, 5.5, 5.5, "pt")
-        )
-```
-
-
-```{r}
-bayesplot_grid(ests_plot,raw_ests_plot, 
-               grid_args = list(nrow=1, widths=c(5, 2)))
-```
-
-```{r}
-states_map <- us_map(regions = "states")
-states_map <- states_map %>% mutate(state = tolower(full))
-states_df_melted <- state_support %>% select(state, estimate)
-states_map <- left_join(states_map, states_df_melted, by = "state") %>% drop_na()
-```
-
-
-
-```{r}
-states_map
 ```
 
 
