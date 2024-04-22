@@ -14,16 +14,16 @@ Don't
 All datasets we used are publically avaliable. All rights belongs to their respective owners.
 
 Polls 
-* * Monmouth Univeristy 
-* * * (March 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_032420/]
-* * * (May 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_050620/]
-* * * (July 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_070220/]
-* * * (August 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_081120/]
-* * (Harvard University, October 2020)[https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E9N6PH]
-* * (COMETrends Pre-election survey from UT Dallas, October 2020)[https://cometrends.utdallas.edu/]
+* Monmouth Univeristy 
+    * (March 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_032420/]
+    * (May 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_050620/]
+    * (July 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_070220/]
+    * (August 2020)[https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_081120/]
+* (Harvard University, October 2020)[https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E9N6PH]
+* (COMETrends Pre-election survey from UT Dallas, October 2020)[https://cometrends.utdallas.edu/]
 
 Voter Turnout 
 
 
 Census Data
-* * 2020 5-year estimates from the American Community's Survey (retrieved with (IPUMS)[https://www.ipums.org/])
+* 2020 5-year estimates from the American Community's Survey (retrieved with (IPUMS)[https://www.ipums.org/])
