@@ -1,0 +1,2001 @@
+age_recoded,male,education_recoded,race_recoded,STATEFIP,vote_choice_recoded,PERWT,STATEFP,state,e_votes,dem,republican,dem advantage,n,rating
+1,False,1,1.0,1,0,327170.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,False,1,4.0,48,0,1354227.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,2.0,36,0,352400.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,17,0,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,1,1.0,48,0,1227692.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,3.0,15,0,515.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+3,False,1,1.0,39,0,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,1.0,36,0,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,1,2.0,48,0,446241.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,1.0,22,0,2801.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+3,True,3,1.0,34,0,11101.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,1.0,36,0,7217.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,4.0,53,0,7634.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,2.0,37,0,3203.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,False,3,3.0,41,0,285.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+1,False,1,1.0,26,0,758304.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,True,3,1.0,24,0,2436.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+3,False,3,1.0,12,0,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,4.0,6,0,29085.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,3,1.0,51,0,7858.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,3,2.0,12,0,20531.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,3.0,6,0,54572.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,24,0,376080.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,True,3,4.0,25,0,3483.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,False,3,2.0,1,0,1259.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,True,3,2.0,6,0,3681.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,13,0,715317.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,True,1,1.0,27,0,704353.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+3,False,3,1.0,36,0,27986.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,4.0,48,0,34779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,13,0,570988.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,1.0,24,0,1123.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,False,3,1.0,51,0,3733.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,3,1.0,21,0,8725.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,False,3,1.0,18,0,7295.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,1,1.0,36,0,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,1,1.0,39,0,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,4.0,42,0,1712.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,3,2.0,17,0,4218.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,3,1.0,21,0,1767.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,True,3,4.0,48,0,93694.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,1.0,6,0,8818.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,22,0,473819.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+2,True,1,4.0,36,0,468938.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,2.0,48,0,391214.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,2.0,27,0,1234.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+3,True,1,1.0,18,0,775944.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,3,3.0,49,0,106.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+1,False,1,1.0,36,0,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,1.0,27,0,1458.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+2,False,1,1.0,53,0,646444.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,True,1,1.0,5,0,263693.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+2,False,3,1.0,26,0,8210.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,3,3.0,25,0,389.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,False,1,4.0,6,0,2063910.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,1,9.0,48,0,46264.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,13,0,715317.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,1.0,12,0,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,28,0,303433.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+2,True,3,1.0,6,0,13730.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,4.0,6,0,140786.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,3.0,22,0,821.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+2,True,1,1.0,37,0,820772.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,False,3,1.0,6,0,6242.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,4.0,12,0,39924.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,3,2.0,4,0,731.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,True,3,4.0,48,0,34779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,3,1.0,25,0,14085.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,True,1,1.0,48,0,1525311.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,1.0,9,0,4722.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+2,False,3,2.0,12,0,7133.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,1.0,25,0,3322.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,False,1,1.0,29,0,592930.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,3,2.0,13,0,10452.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,True,1,1.0,36,0,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,3,4.0,6,0,197678.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,2.0,28,0,1369.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,True,1,2.0,36,0,288826.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,3,1.0,41,0,2089.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+2,True,1,4.0,48,0,1356188.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,2.0,45,0,4685.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,True,3,1.0,42,0,14033.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,6,0,11143.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,18,0,656231.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,1,4.0,26,0,58140.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,1,2.0,28,0,136538.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+1,True,3,3.0,6,0,6338.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,1,0,393844.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,True,3,1.0,48,0,7779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,2.0,13,0,3857.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,2.0,48,0,4849.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,1.0,47,0,11639.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,3,1.0,40,0,1167.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,True,3,1.0,26,0,8253.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,3,1.0,29,0,3176.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,3,1.0,27,0,3123.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+1,False,3,1.0,38,0,138.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+2,False,3,4.0,6,0,140786.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,21,0,469737.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,False,3,4.0,48,0,19458.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,9,0,486865.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,False,1,9.0,31,0,8291.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+3,False,3,1.0,55,0,4834.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,True,3,4.0,51,0,11540.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,3,1.0,46,0,279.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+1,True,3,1.0,39,0,4777.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,2.0,1,0,2353.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,False,1,1.0,28,0,303433.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+1,False,1,1.0,12,0,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,9.0,12,0,1187.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,5,0,966.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,1,9.0,45,0,16255.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,True,3,9.0,36,0,965.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,1.0,29,0,6243.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,True,1,1.0,36,0,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,3.0,17,0,368.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,3.0,32,0,45737.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+2,True,1,9.0,32,0,15178.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+1,False,1,2.0,28,0,144525.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,False,3,4.0,41,0,4527.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+3,False,1,1.0,6,0,2850214.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,9.0,36,0,1160.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,1.0,18,0,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,True,3,2.0,34,0,1028.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,False,1,1.0,24,0,574249.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,False,3,2.0,12,0,4821.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,4.0,8,0,5907.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+1,False,3,1.0,48,0,6290.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,55,0,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,3,1.0,34,0,2005.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,3.0,6,0,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,3.0,27,0,32313.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+1,True,3,1.0,48,0,7779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,3.0,17,0,2224.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,True,3,1.0,55,0,3544.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,3,1.0,48,0,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,2.0,48,0,3479.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,1.0,48,0,13393.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,36,0,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,1.0,6,0,6242.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,4.0,4,0,18324.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,3,1.0,41,0,2769.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+3,False,1,1.0,13,0,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,2.0,36,0,7806.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,4.0,4,0,5629.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,3,1.0,36,0,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,53,0,911816.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,2.0,12,0,427946.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,42,0,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,3,1.0,40,0,2807.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,False,1,1.0,42,0,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,1.0,5,0,966.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,3,1.0,6,0,6242.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,42,0,6545.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,3,3.0,6,0,6338.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,1.0,8,0,425037.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,True,1,1.0,22,0,411053.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+1,True,1,3.0,12,0,69546.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,1,1.0,48,0,1285351.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,1.0,47,0,11639.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,1,4.0,12,0,773503.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,2.0,11,0,40277.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+3,False,1,1.0,40,0,470889.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,False,3,1.0,20,0,858.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+2,True,1,4.0,48,0,1356188.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,1.0,29,0,4449.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,3,9.0,33,0,25.0,33,new hampshire,4.0,43,40,3,831,Competitive
+2,False,1,1.0,25,0,624127.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,False,3,2.0,28,0,1369.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+1,False,3,1.0,36,0,7217.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,2.0,28,0,4036.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,True,1,1.0,13,0,825031.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,1.0,45,0,3052.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,False,3,1.0,17,0,3051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,1.0,12,0,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,9,0,1093.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+2,False,1,2.0,34,0,161496.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,True,3,1.0,6,0,8818.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,13,0,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,26,0,910963.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,3,1.0,26,0,8210.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,False,3,4.0,36,0,10862.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,1,4.0,12,0,678426.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,6,0,2566807.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,4.0,48,0,72602.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,1.0,49,0,1341.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+1,False,3,1.0,48,0,6290.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,1.0,13,0,9705.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,3,1.0,34,0,12939.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,1.0,18,0,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,True,1,4.0,25,0,126440.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,1,1.0,17,0,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,48,0,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,4.0,12,0,25794.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,55,0,774194.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,3,4.0,42,0,4716.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,54,0,207749.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+1,True,1,2.0,37,0,266660.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,3,1.0,48,0,13393.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,4.0,42,0,1712.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,3,1.0,17,0,3605.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,3,1.0,12,0,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,4.0,29,0,15829.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,True,3,1.0,48,0,13393.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,1.0,39,0,7676.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,2.0,53,0,33098.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,True,1,2.0,48,0,432512.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,3.0,48,0,1761.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,6,0,1772577.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,1,1.0,42,0,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,1,1.0,48,0,1227692.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,53,0,528107.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+3,False,3,2.0,29,0,1815.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,1,1.0,12,0,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,37,0,3740.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,3,1.0,35,0,905.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+3,True,1,4.0,8,0,75887.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,True,1,3.0,55,0,7038.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,False,3,2.0,36,0,14716.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,1,2.0,13,0,438724.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,4.0,17,0,4050.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,3,3.0,48,0,8728.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,4.0,48,0,1538946.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,47,0,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,True,3,3.0,36,0,9968.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,1,4.0,25,0,95623.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,1,1.0,17,0,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,True,3,1.0,12,0,7273.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,26,0,910963.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,1,2.0,1,0,179885.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,3,1.0,42,0,3508.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,9,0,486865.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+3,True,1,1.0,26,0,1206106.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,True,1,1.0,24,0,498050.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,True,1,1.0,23,0,151365.0,23,maine,4.0,47,39,8,941,Lean Dem
+2,True,3,9.0,48,0,1033.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,1.0,24,0,1439.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+3,False,3,2.0,48,0,7400.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,47,0,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+3,False,1,2.0,37,0,313874.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,1,2.0,36,0,378409.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,6,0,1772577.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,4.0,55,0,1758.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,False,3,2.0,36,0,14716.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,1.0,37,0,10867.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,1,1.0,40,0,317067.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,True,1,2.0,39,0,147722.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,3,1.0,13,0,6127.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,3.0,6,0,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,6,0,2850214.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,3,1.0,6,0,13730.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,1,0,3121.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,False,1,1.0,39,0,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,55,0,584775.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,3,9.0,17,0,337.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,3,1.0,47,0,10928.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,3,1.0,13,0,4935.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,True,3,1.0,20,0,2098.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+1,False,1,1.0,1,0,327170.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,True,1,3.0,9,0,22657.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,False,3,1.0,55,0,1603.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,True,1,1.0,32,0,279535.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+3,True,3,1.0,48,0,13393.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,17,0,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,2.0,32,0,31308.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+1,False,1,2.0,48,0,446241.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,2.0,17,0,2270.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,3,1.0,12,0,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,17,0,3051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,2.0,48,0,391214.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,1.0,40,0,276368.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,False,3,1.0,25,0,1790.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,False,1,9.0,49,0,16503.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+3,False,3,1.0,25,0,14085.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,True,3,1.0,42,0,14033.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,3.0,6,0,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,3,2.0,12,0,20531.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,1.0,6,0,22499.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,1.0,22,0,287561.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+1,False,3,2.0,34,0,809.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,1.0,1,0,401522.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,True,1,1.0,6,0,1556291.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,36,0,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,55,0,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,1,1.0,41,0,321892.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,4.0,53,0,11002.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+1,False,3,1.0,28,0,863.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+2,True,3,1.0,6,0,13730.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,1.0,47,0,11639.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+3,True,3,1.0,51,0,9391.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,1,1.0,25,0,624127.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,False,1,1.0,40,0,267029.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,False,3,4.0,6,0,29085.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,4.0,36,0,475177.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,3,1.0,24,0,2436.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,False,1,4.0,6,0,1830535.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,1.0,27,0,851.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+2,False,1,1.0,17,0,983123.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,17,0,983123.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,1.0,37,0,1212571.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,False,1,1.0,53,0,528107.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,3,4.0,13,0,11073.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,1.0,23,0,493.0,23,maine,4.0,47,39,8,941,Lean Dem
+3,True,3,2.0,26,0,2845.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,1,2.0,37,0,306265.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,True,3,1.0,48,0,7779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,4.0,12,0,11732.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,48,0,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,29,0,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,1,1.0,42,0,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,1,1.0,18,0,561184.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,3,1.0,26,0,4129.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,3,2.0,1,0,2353.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,1,9.0,38,0,7976.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+3,False,3,1.0,12,0,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,1,1.0,45,0,335861.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,False,1,1.0,36,0,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,3,1.0,6,0,22499.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,2.0,45,0,2000.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,True,3,3.0,42,0,2557.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,3,2.0,42,0,2526.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,12,0,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,4.0,49,0,2186.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+2,True,3,1.0,18,0,4633.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,1,4.0,48,0,1451945.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,17,0,983123.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,True,3,1.0,25,0,3147.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,True,3,3.0,6,0,6338.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,9,0,486865.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+3,False,3,2.0,13,0,10452.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,1,2.0,36,0,416272.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,1.0,1,0,3121.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,3,4.0,36,0,10862.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,3.0,6,0,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,True,3,2.0,55,0,508.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,False,3,1.0,13,0,9183.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,1,1.0,39,0,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,48,0,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,36,0,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,1,1.0,17,0,820051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,3,1.0,4,0,2197.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,3,4.0,42,0,4716.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,1,3.0,26,0,49478.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,True,1,1.0,40,0,405370.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,1,2.0,48,0,470290.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,1.0,26,0,794269.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,3,1.0,12,0,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,39,0,4509.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,3,1.0,6,0,13730.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,2.0,12,0,423392.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,2.0,45,0,1070.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,True,3,3.0,48,0,6783.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,26,0,758304.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,1,1.0,42,0,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,12,0,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,2.0,26,0,1889.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,False,3,3.0,42,0,952.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,39,0,6100.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,12,0,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,1.0,42,0,14033.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,1,1.0,17,0,820051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,3,1.0,12,0,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,3.0,17,0,2224.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,3,2.0,45,0,2000.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,1,1.0,26,0,910963.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,False,1,1.0,53,0,528107.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+1,False,1,1.0,12,0,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,47,0,527769.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,3,1.0,18,0,4770.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,1,2.0,1,0,179885.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,True,3,1.0,4,0,2698.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,True,1,3.0,39,0,41543.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,4.0,12,0,11732.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,1.0,6,0,13730.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,2.0,29,0,1317.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,1,4.0,32,0,116206.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+2,True,3,1.0,26,0,8253.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,3,4.0,12,0,25794.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,1,1.0,13,0,705380.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,1.0,42,0,3508.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,36,0,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,1.0,6,0,8818.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,9.0,34,0,376.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,1.0,18,0,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,3,1.0,12,0,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,2.0,45,0,179663.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,False,3,3.0,48,0,2551.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,3.0,6,0,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,1.0,35,0,905.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+1,True,1,1.0,29,0,521315.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,3,2.0,55,0,774.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,3,1.0,55,0,1603.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,1,3.0,34,0,97663.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,1.0,25,0,624127.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,1,1.0,13,0,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,4.0,12,0,11732.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,3.0,34,0,1724.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,False,1,1.0,36,0,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,12,0,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,3,9.0,53,0,512.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+1,True,1,1.0,53,0,567699.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,4.0,48,0,1354227.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,1.0,51,0,4162.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,True,3,1.0,10,0,366.0,10,delaware,3.0,45,33,12,500,Solid Dem
+3,True,1,1.0,42,0,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,34,0,971592.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,False,1,1.0,36,0,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,1.0,6,0,6242.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,2.0,28,0,1369.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+1,False,1,1.0,36,0,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,4.0,16,0,1910.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+1,True,1,1.0,47,0,532006.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,1,1.0,6,0,1424354.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,3.0,6,0,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,1,1.0,9,0,415950.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+3,True,3,1.0,38,0,542.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+2,False,1,1.0,12,0,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,37,0,672116.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,True,1,2.0,15,0,4217.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+1,False,3,1.0,17,0,3051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,3,4.0,36,0,49667.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,1.0,18,0,3431.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,1,1.0,39,0,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,3,1.0,55,0,4834.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,3,1.0,12,0,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,29,0,739484.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,3,1.0,34,0,12939.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,1.0,12,0,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,12,0,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,1.0,13,0,6127.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,1.0,12,0,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,9,0,486865.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,False,3,4.0,17,0,4050.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,True,3,1.0,51,0,4162.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,3,1.0,12,0,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,36,0,7217.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,3,1.0,48,0,13393.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,4.0,12,0,773503.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,2.0,15,0,116.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+1,False,1,1.0,36,0,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,4.0,6,0,43275.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,3,1.0,39,0,13885.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,42,0,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,2.0,8,0,477.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,True,3,1.0,36,0,21946.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,3.0,36,0,3433.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,4.0,35,0,115124.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+1,False,3,4.0,11,0,80.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+3,False,1,1.0,40,0,470889.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,3,2.0,48,0,4849.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,9.0,41,0,19230.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+1,True,3,3.0,13,0,565.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,39,0,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,1,1.0,17,0,985338.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,3,1.0,34,0,2005.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,False,3,1.0,48,0,15494.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,34,0,445675.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,True,3,4.0,6,0,197678.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,1.0,36,0,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,9.0,6,0,130368.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,42,0,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,1,1.0,4,0,460517.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,1,1.0,42,0,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,4.0,6,0,140786.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,1.0,26,0,4129.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,False,3,1.0,54,0,839.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,True,3,1.0,6,0,13730.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,1.0,26,0,4129.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,3,1.0,42,0,15196.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,4.0,44,0,10573.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+2,False,3,1.0,18,0,4770.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,3,2.0,17,0,2270.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,3,3.0,27,0,1071.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+1,False,3,1.0,21,0,1767.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,True,3,3.0,27,0,1127.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+1,True,3,1.0,53,0,3811.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,1,2.0,24,0,189143.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,False,1,2.0,40,0,36729.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,3,1.0,19,0,1032.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+1,False,3,1.0,36,0,7217.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,3,3.0,36,0,9968.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,42,0,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,4.0,12,0,25794.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,33,0,227377.0,33,new hampshire,4.0,43,40,3,831,Competitive
+1,False,3,1.0,24,0,1123.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,False,3,4.0,48,0,19458.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,9.0,37,0,450.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,False,3,1.0,38,0,138.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+3,False,1,1.0,39,0,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,1.0,42,0,6545.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,3,3.0,39,0,2605.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,4.0,6,0,29085.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,1,2.0,13,0,297209.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,True,1,1.0,39,0,1417121.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,3,4.0,17,0,6177.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,True,1,1.0,48,0,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,4.0,27,0,1795.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+2,True,3,4.0,47,0,3930.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,3,3.0,40,0,1072.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,False,3,2.0,36,0,3737.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,3.0,39,0,284.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,1.0,36,0,7217.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,9.0,20,0,94.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+3,True,1,1.0,19,0,418795.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+3,False,1,1.0,47,0,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,1,2.0,12,0,423392.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,2.0,48,0,6388.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,1.0,51,0,808860.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,1,1.0,13,0,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,True,3,1.0,17,0,10377.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,3,4.0,12,0,11732.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,3,1.0,36,0,27986.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,3,1.0,39,0,7676.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,3,1.0,29,0,4449.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,1,1.0,5,0,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,3,3.0,26,0,557.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,False,1,1.0,46,0,72905.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+2,False,3,1.0,36,0,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,4.0,9,0,1069.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+3,False,1,1.0,37,0,1212571.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,2.0,24,0,258983.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,False,3,4.0,34,0,3954.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,False,3,2.0,6,0,6422.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,4.0,42,0,1712.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,25,0,624127.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,False,1,1.0,22,0,287561.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+2,False,1,1.0,36,0,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,3.0,13,0,565.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,9.0,6,0,1509.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,1.0,17,0,10377.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,3,1.0,42,0,6545.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,9.0,18,0,186.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,True,3,1.0,28,0,1133.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,True,1,1.0,26,0,1206106.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,3,1.0,37,0,3464.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,1,1.0,51,0,668616.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,3,1.0,48,0,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,1.0,15,0,69.0,15,hawaii,4.0,50,28,22,739,Solid Dem
+1,False,1,4.0,6,0,2063910.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,1.0,36,0,21946.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,2.0,36,0,416272.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,1.0,29,0,3176.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,2.0,36,0,416272.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,3,1.0,6,0,22499.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,5,0,1535.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,True,1,4.0,4,0,328419.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,1,1.0,6,0,2850214.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,55,0,584775.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,1,9.0,24,0,29067.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+3,True,3,1.0,42,0,14033.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,3,3.0,36,0,2503.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,1,3.0,24,0,41910.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+3,True,3,3.0,24,0,2082.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,True,3,1.0,53,0,3792.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+1,False,3,3.0,6,0,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,3,2.0,36,0,8039.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,3,1.0,13,0,6127.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,True,1,1.0,54,0,167767.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+3,False,1,1.0,18,0,900370.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,True,1,4.0,12,0,505582.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,3,2.0,26,0,2606.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,True,3,1.0,6,0,22499.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,2.0,24,0,1697.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+3,True,1,1.0,51,0,808860.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,3,1.0,19,0,1032.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+1,False,3,4.0,12,0,11732.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,3,3.0,6,0,6338.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,4.0,48,0,1354227.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,4.0,22,0,958.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+1,False,3,1.0,9,0,1093.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+2,True,3,1.0,18,0,4633.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,3,1.0,5,0,1535.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,1,9.0,48,0,88160.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,2.0,34,0,2180.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,True,3,1.0,51,0,4162.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,True,1,1.0,39,0,1130065.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,16,0,171545.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+2,False,3,1.0,51,0,3733.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,True,3,2.0,48,0,5533.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,1.0,42,0,3508.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,2.0,45,0,2000.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,True,3,3.0,36,0,9968.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,3,1.0,25,0,4192.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,False,3,1.0,48,0,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,1.0,6,0,11143.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,True,3,9.0,45,0,114.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,True,3,2.0,10,0,256.0,10,delaware,3.0,45,33,12,500,Solid Dem
+3,False,3,1.0,47,0,10928.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,3,1.0,13,0,3449.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,2.0,4,0,38454.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,3,1.0,42,0,3508.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,1.0,39,0,4509.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,3,1.0,9,0,4722.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+3,False,3,1.0,48,0,15494.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,3.0,25,0,35504.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,1.0,12,0,11953.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,39,0,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,1,1.0,17,0,985338.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,28,0,207267.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,False,1,4.0,6,0,1069541.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,48,0,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,1.0,17,0,820051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,True,1,1.0,36,0,1174378.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,48,0,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,2.0,48,0,4849.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,45,0,615353.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,False,1,1.0,48,0,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,1.0,29,0,3176.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,1,1.0,29,0,510603.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,3,1.0,29,0,6243.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,True,1,2.0,48,0,445472.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,2.0,36,0,378409.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,4.0,26,0,2335.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,3,4.0,48,0,149863.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,2.0,12,0,4821.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,18,0,900370.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,3,1.0,21,0,1767.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,False,1,1.0,55,0,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,True,3,2.0,17,0,3572.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,3,2.0,39,0,3069.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,1,1.0,23,0,218226.0,23,maine,4.0,47,39,8,941,Lean Dem
+3,False,1,2.0,42,0,181682.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,9.0,12,0,53166.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,1.0,51,0,3733.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,3,1.0,54,0,1258.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+1,False,3,1.0,36,0,7217.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,4.0,48,0,782459.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,2.0,6,0,3986.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,1.0,48,0,6290.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,1.0,47,0,2236.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,True,3,1.0,32,0,1233.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+1,False,3,1.0,36,0,7217.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,1,2.0,48,0,445472.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,44,0,95850.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+2,True,3,3.0,6,0,20057.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,2.0,37,0,6603.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,False,1,1.0,27,0,451883.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+3,False,1,1.0,36,0,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,1,1.0,48,0,1227692.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,4.0,37,0,112774.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,False,1,1.0,36,0,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,9.0,39,0,370.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,3,2.0,18,0,1302.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,1,9.0,39,0,26261.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,1.0,21,0,397470.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,False,3,1.0,20,0,858.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+1,False,3,1.0,18,0,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,1,4.0,17,0,284015.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,True,3,1.0,29,0,6999.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,39,0,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,4.0,51,0,9291.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,1,4.0,48,0,1451945.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,1.0,48,0,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,47,0,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+3,False,3,1.0,21,0,8725.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,False,3,1.0,25,0,1790.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,False,1,4.0,17,0,267998.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,True,3,2.0,45,0,4685.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,1,1.0,53,0,646444.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,True,1,4.0,35,0,118770.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+3,False,1,1.0,39,0,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,3,9.0,4,0,807.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,1,1.0,48,0,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,48,0,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,4.0,36,0,475177.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,2.0,34,0,161831.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,9.0,40,0,64182.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,False,1,2.0,48,0,391214.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,1,2.0,48,0,432512.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,20,0,262419.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+1,False,3,3.0,34,0,703.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,1.0,39,0,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,1.0,31,0,159673.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+1,True,3,1.0,48,0,7779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,1,4.0,4,0,261732.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,1,1.0,48,0,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,9.0,26,0,718.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,3,2.0,17,0,2362.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,4.0,40,0,18297.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,True,3,3.0,17,0,368.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,3,1.0,17,0,5407.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,48,0,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,9.0,53,0,524.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+3,True,1,1.0,47,0,750810.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,True,1,2.0,6,0,295572.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,1,1.0,36,0,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,3,3.0,4,0,743.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,True,1,1.0,26,0,912893.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,3,4.0,18,0,2130.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,3,1.0,22,0,2801.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+2,False,3,3.0,36,0,13576.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,10,0,128891.0,10,delaware,3.0,45,33,12,500,Solid Dem
+3,True,3,2.0,37,0,6603.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,3,4.0,17,0,14905.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,1,2.0,47,0,151953.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,True,3,1.0,42,0,5284.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,1.0,13,0,6127.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,3.0,36,0,3433.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,1,1.0,39,0,1130065.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,3,1.0,32,0,1233.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+1,False,3,2.0,48,0,3479.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,1.0,37,0,12136.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,3,4.0,48,0,72602.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,3.0,39,0,284.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,3,1.0,36,0,8091.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,1,1.0,9,0,288658.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+3,False,1,4.0,26,0,31527.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,False,1,4.0,6,0,2063910.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,1.0,40,0,267029.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,False,3,3.0,34,0,703.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,1,4.0,6,0,2063910.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,True,3,9.0,36,0,965.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,42,0,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,1.0,42,0,6528.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,36,0,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,55,0,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,3,2.0,6,0,1555.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,54,0,205374.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+1,True,3,1.0,39,0,4777.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,1,1.0,12,0,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,42,0,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,1,1.0,36,0,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,1,4.0,48,0,1356188.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,2.0,39,0,147722.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,51,0,668616.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,3,9.0,39,0,370.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,1,2.0,5,0,50331.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,3,4.0,6,0,29085.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,True,3,2.0,26,0,2606.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,1,1.0,21,0,638351.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,False,3,3.0,53,0,3256.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,3,1.0,24,0,1524.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+3,True,1,1.0,42,0,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,2.0,37,0,2608.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,True,3,1.0,39,0,4777.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,1,2.0,31,0,7073.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+1,False,1,1.0,16,0,146275.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+2,False,3,2.0,12,0,7133.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,1,1.0,36,0,1174378.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,2.0,12,0,20531.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,4.0,12,0,631171.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,1.0,12,0,18714.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,24,0,574249.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+3,False,1,1.0,36,0,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,3,1.0,47,0,5031.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,3,1.0,28,0,863.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,False,1,1.0,34,0,971592.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,4.0,6,0,29085.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,48,0,1525311.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,2.0,13,0,403378.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,3,4.0,34,0,13659.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,3.0,51,0,1090.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,True,3,1.0,36,0,11863.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,1,1.0,31,0,229535.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+1,True,1,1.0,6,0,1556291.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,3,1.0,54,0,4164.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,False,3,1.0,12,0,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,3,4.0,12,0,52821.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,4.0,48,0,93694.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,2.0,55,0,47408.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,3,1.0,21,0,3106.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,False,1,1.0,12,0,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,9.0,29,0,164.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,True,3,4.0,48,0,93694.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,2.0,1,0,171855.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,True,3,1.0,36,0,8091.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,1.0,37,0,4101.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,False,3,2.0,13,0,10452.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,True,1,1.0,38,0,84440.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+2,False,3,2.0,47,0,2118.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,3,1.0,53,0,3013.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+1,False,1,1.0,5,0,221846.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+2,True,3,4.0,48,0,93694.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,9.0,53,0,63093.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+1,True,3,1.0,49,0,1317.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+1,False,3,2.0,13,0,3310.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,1.0,29,0,3176.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,3,4.0,34,0,3954.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,False,1,1.0,36,0,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,2.0,39,0,3069.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,3.0,42,0,952.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,9.0,4,0,366.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,1,4.0,48,0,1354227.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,1.0,39,0,6100.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,1,1.0,6,0,2566807.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,9,0,298874.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,True,3,2.0,1,0,1646.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,False,3,9.0,9,0,159.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,False,1,4.0,36,0,478034.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,3,1.0,36,0,11863.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,1.0,12,0,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,1,1.0,6,0,1874797.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,37,0,820772.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,3,1.0,12,0,18714.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,4.0,36,0,10862.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,1.0,29,0,1780.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,1,1.0,12,0,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,22,0,340935.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+1,False,3,9.0,48,0,875.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,3.0,9,0,26647.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,False,3,1.0,39,0,4509.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,1.0,26,0,4129.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,3,2.0,46,0,88.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+3,False,3,4.0,12,0,52821.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,1,1.0,4,0,358383.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,1,4.0,36,0,361262.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,2.0,36,0,7806.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,3.0,13,0,70748.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,1,1.0,48,0,1227692.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,3.0,6,0,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,1.0,29,0,510603.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,3,3.0,55,0,527.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,True,3,1.0,9,0,1857.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,False,1,1.0,48,0,1227692.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,4.0,25,0,103408.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,False,1,1.0,5,0,221846.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+3,True,1,1.0,39,0,1417121.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,2.0,26,0,1924.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,3,1.0,36,0,8091.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,4.0,51,0,2280.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,3,3.0,51,0,1090.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,True,3,3.0,53,0,2134.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+3,False,1,1.0,21,0,638351.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,3,1.0,51,0,7858.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,1,4.0,6,0,2063910.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,4.0,48,0,19458.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,18,0,561184.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,3,2.0,39,0,4014.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,4.0,35,0,2690.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+1,True,1,1.0,6,0,1556291.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,3,1.0,9,0,1857.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,False,3,2.0,40,0,283.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,1,2.0,48,0,470290.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,9.0,5,0,12112.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+2,False,3,4.0,25,0,5478.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,False,3,2.0,11,0,621.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+1,False,1,4.0,13,0,122796.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,1,4.0,12,0,631171.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,36,0,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,1.0,18,0,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,True,1,1.0,55,0,593453.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,3,2.0,12,0,4821.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,2.0,13,0,3310.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,1,2.0,13,0,438724.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,2.0,12,0,7133.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,1.0,47,0,11639.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,1,1.0,13,0,715317.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,1,1.0,26,0,912893.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,1,1.0,34,0,467010.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,True,3,2.0,12,0,4712.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,48,0,6290.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,18,0,561184.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,1,2.0,13,0,403378.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,3,3.0,6,0,6338.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,9.0,13,0,315.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,4.0,32,0,6297.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+2,True,3,4.0,48,0,93694.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,4.0,6,0,154912.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,36,0,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,1.0,12,0,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,23,0,249166.0,23,maine,4.0,47,39,8,941,Lean Dem
+1,False,3,3.0,21,0,279.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,True,3,1.0,12,0,7273.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,45,0,530485.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,False,3,3.0,18,0,671.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,True,1,1.0,51,0,808860.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,1,1.0,5,0,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,1,2.0,12,0,423392.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,47,0,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,1,4.0,12,0,773503.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,3,1.0,6,0,31533.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,3,2.0,48,0,7400.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,4.0,42,0,113410.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,1,1.0,36,0,1174378.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,39,0,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,1.0,28,0,863.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+1,False,3,4.0,4,0,4096.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,1,2.0,6,0,279432.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,42,0,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,3,2.0,25,0,2404.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,1,1.0,36,0,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,1,9.0,32,0,19876.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+1,False,3,1.0,45,0,1774.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,False,3,4.0,51,0,2280.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,1,4.0,48,0,1451945.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,1.0,18,0,775944.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,3,4.0,48,0,19458.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,2.0,48,0,391214.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,2.0,35,0,38.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+1,False,1,1.0,26,0,758304.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,3,2.0,47,0,1394.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,1,4.0,4,0,305464.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,1,1.0,4,0,452978.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,1,4.0,48,0,1451945.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,8,0,499071.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,False,1,2.0,39,0,192806.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,1,1.0,56,0,78264.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+1,False,3,2.0,36,0,3737.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,4.0,48,0,1354227.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,1.0,36,0,8091.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,9.0,39,0,370.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,1.0,17,0,5407.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,3,9.0,36,0,1160.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,3.0,48,0,1761.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,1.0,13,0,6127.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,True,1,1.0,53,0,567699.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,1.0,55,0,584775.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,True,1,2.0,12,0,382163.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,2.0,42,0,2308.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,3,1.0,31,0,1471.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+3,True,1,1.0,21,0,541357.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,False,1,4.0,6,0,1830535.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,2.0,51,0,195796.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,3,1.0,25,0,1790.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,True,3,1.0,4,0,3990.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,True,1,1.0,40,0,276368.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,1,1.0,47,0,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,True,3,1.0,37,0,7045.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,3,4.0,48,0,72602.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,47,0,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,3,1.0,18,0,4770.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,True,1,1.0,36,0,1174378.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,2.0,36,0,5132.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,9.0,11,0,22.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+1,False,3,3.0,44,0,18.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+3,False,1,2.0,34,0,161831.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,1,4.0,6,0,2063910.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,42,0,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,3,1.0,6,0,22499.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,3.0,34,0,703.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,True,3,1.0,29,0,4449.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,True,1,2.0,45,0,146578.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,1,4.0,34,0,243396.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,True,1,1.0,18,0,651234.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,3,2.0,17,0,2270.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,3,1.0,47,0,2009.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,True,3,1.0,48,0,11201.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,1.0,24,0,318677.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,True,3,1.0,26,0,8253.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,3,1.0,29,0,6243.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,1,4.0,48,0,1451945.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,6,0,1424354.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,47,0,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,True,3,9.0,36,0,965.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,53,0,646444.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,2.0,13,0,477733.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,1.0,1,0,1916.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,True,3,2.0,53,0,1020.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,4.0,6,0,1830535.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,9.0,28,0,64.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+1,False,3,1.0,28,0,863.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+1,True,3,1.0,39,0,4777.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,3,3.0,12,0,2295.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,17,0,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,True,3,9.0,6,0,2447.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,3,2.0,24,0,2613.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,True,3,1.0,6,0,8818.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,2.0,13,0,3857.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,1.0,36,0,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,1,4.0,8,0,161649.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,True,1,1.0,51,0,808860.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,True,3,1.0,6,0,8818.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,4.0,12,0,25794.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,3.0,36,0,13576.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,4.0,48,0,72602.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,1.0,42,0,6528.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,5,0,1535.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,1,1.0,36,0,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,1,1.0,36,0,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,12,0,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,2.0,48,0,3479.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,2.0,12,0,4712.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,1,9.0,6,0,216327.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,2.0,24,0,3609.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,False,1,4.0,6,0,2063910.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,9.0,26,0,46568.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,True,3,2.0,51,0,4303.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,3,1.0,48,0,15494.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,24,0,574249.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,True,3,2.0,36,0,8039.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,6,0,2850214.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,39,0,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,3,1.0,36,0,8091.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,9.0,34,0,376.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,1,2.0,37,0,283697.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,False,3,1.0,39,0,4509.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,1.0,8,0,1284.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+1,False,1,1.0,54,0,162243.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,True,3,4.0,36,1,30412.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,29,1,592930.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,True,3,9.0,12,1,1325.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,54,1,308528.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+3,True,1,2.0,13,1,297209.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,3,1.0,51,1,4162.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,3,1.0,6,1,31533.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,1.0,40,1,3521.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,False,1,1.0,13,1,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,1,1.0,54,1,205374.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+1,False,1,1.0,39,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,9,1,298874.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,True,3,1.0,21,1,3059.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,False,3,1.0,12,1,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,42,1,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,38,1,69419.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+2,False,3,3.0,20,1,794.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,3,1.0,6,1,31533.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,29,1,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,3,3.0,36,1,3433.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,1,1.0,34,1,824554.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,True,1,1.0,34,1,824554.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,True,3,1.0,26,1,6409.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,False,3,1.0,56,1,139.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+2,False,1,1.0,9,1,298874.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,False,3,1.0,8,1,1593.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,False,1,1.0,22,1,473819.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+2,True,1,1.0,51,1,666087.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,3,1.0,29,1,3176.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,1,1.0,47,1,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,3,1.0,51,1,2067.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,True,1,1.0,42,1,1188899.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,5,1,1535.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,3,1.0,12,1,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,3.0,8,1,29425.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,True,1,9.0,46,1,6069.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+3,True,1,1.0,45,1,530485.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,True,3,1.0,45,1,6259.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,1.0,13,1,6127.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,3,1.0,48,1,11201.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,1.0,53,1,567699.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,3,3.0,35,1,166.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+1,False,1,1.0,13,1,570988.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,1,1.0,1,1,393844.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,True,1,1.0,48,1,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,1.0,9,1,234842.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,False,1,1.0,19,1,279006.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,47,1,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,True,3,1.0,21,1,3059.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,False,1,1.0,48,1,1227692.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,3,1.0,37,1,12136.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,1,1.0,17,1,983123.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,1,1.0,37,1,820772.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,False,1,4.0,48,1,1451945.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,2.0,1,1,1925.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,True,3,4.0,12,1,34223.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,4.0,12,1,39924.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,1.0,12,1,11953.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,3,1.0,54,1,876.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,False,1,1.0,5,1,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,1,1.0,42,1,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,28,1,207267.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,1,1.0,39,1,975330.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,3,1.0,47,1,5031.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,1,4.0,48,1,1354227.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,1.0,19,1,1032.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+1,False,1,1.0,40,1,267029.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,False,1,1.0,55,1,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,False,1,1.0,1,1,584005.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,3,1.0,1,1,1916.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,True,3,1.0,12,1,11953.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,9,1,1093.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+2,True,3,1.0,48,1,11201.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,4.0,4,1,328419.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,3,1.0,21,1,1767.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,False,1,1.0,28,1,303433.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+2,False,3,1.0,42,1,6545.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,1,1.0,9,1,415950.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+2,False,3,1.0,48,1,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,1.0,39,1,1417121.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,1,1.0,5,1,389550.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,3,1.0,41,1,1905.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+2,False,1,1.0,1,1,401522.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,1,1.0,36,1,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,1,1.0,34,1,824554.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,1.0,48,1,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,3,2.0,27,1,1395.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,1,1.0,39,1,1130065.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,1,1.0,45,1,615353.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,1,1.0,45,1,403885.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,3,1.0,36,1,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,1.0,54,1,839.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+3,False,3,4.0,48,1,149863.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,3,3.0,6,1,6338.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,3,4.0,26,1,2882.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,3,1.0,17,1,5407.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,3,3.0,13,1,2904.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,True,1,1.0,42,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,48,1,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,3,1.0,13,1,9183.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,1,1.0,37,1,672116.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,3,1.0,20,1,2098.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+1,False,1,9.0,1,1,14535.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,True,3,2.0,51,1,1618.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,1,1.0,39,1,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,3,1.0,6,1,31533.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,21,1,469737.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,True,3,1.0,48,1,7779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,24,1,306762.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,False,3,1.0,48,1,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,39,1,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,3,1.0,48,1,13393.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,1.0,55,1,774194.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,3,1.0,45,1,3052.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,True,3,1.0,6,1,13730.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,13,1,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,6,1,1772577.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,21,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,False,3,1.0,17,1,3051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,48,1,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,1.0,17,1,10377.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,6,1,1772577.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,3,9.0,4,1,2622.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,1,2.0,37,1,283697.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,False,1,1.0,13,1,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,25,1,624127.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,True,1,1.0,37,1,820772.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,4.0,23,1,8.0,23,maine,4.0,47,39,8,941,Lean Dem
+2,False,3,9.0,51,1,338.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,3.0,53,1,3256.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,8,1,1284.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,False,3,1.0,12,1,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,22,1,411053.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+2,True,3,1.0,38,1,207.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+2,False,1,1.0,38,1,69419.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+3,True,3,4.0,48,1,124517.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,1.0,34,1,2005.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,1.0,32,1,1037.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+3,False,1,1.0,1,1,584005.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,True,1,4.0,12,1,505582.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,48,1,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,1.0,13,1,825031.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,28,1,207267.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,1,1.0,39,1,1417121.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,1,3.0,48,1,174840.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,1.0,39,1,975330.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,1,1.0,23,1,249166.0,23,maine,4.0,47,39,8,941,Lean Dem
+2,True,1,3.0,6,1,768933.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,3,1.0,17,1,5765.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,3,1.0,6,1,8818.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,3,2.0,22,1,2648.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+1,False,1,1.0,26,1,758304.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,True,3,1.0,18,1,7189.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,True,3,3.0,48,1,1761.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,1,1.0,16,1,173192.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+1,False,3,1.0,12,1,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,4.0,12,1,34223.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,48,1,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,9.0,39,1,31292.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,21,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,25,1,781031.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,1,1.0,18,1,900370.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,1,1.0,42,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,1.0,41,1,1905.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+2,False,3,1.0,25,1,3322.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,False,3,1.0,40,1,1719.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,3,1.0,4,1,2197.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,3,2.0,26,1,1924.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,True,3,1.0,36,1,11863.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,1,1.0,4,1,745193.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,1,1.0,19,1,320351.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+1,False,3,1.0,26,1,4129.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,3,4.0,6,1,43275.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,1.0,47,1,2009.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,1,1.0,42,1,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,1,1.0,34,1,824554.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,1,1.0,55,1,473586.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,42,1,6545.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,28,1,207267.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,False,1,1.0,29,1,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,3,1.0,8,1,1593.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,True,1,1.0,42,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,3.0,36,1,9968.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,1.0,36,1,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,3,1.0,18,1,7189.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,1,1.0,19,1,279006.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+3,False,1,1.0,34,1,971592.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,1.0,42,1,3508.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,1.0,18,1,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,1,1.0,18,1,656231.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,True,1,1.0,40,1,405370.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,1,1.0,55,1,584775.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,True,3,9.0,48,1,1033.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,1.0,45,1,530485.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,True,1,1.0,48,1,1525311.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,1.0,6,1,22499.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,36,1,1314074.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,3.0,12,1,3270.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,42,1,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,1,1.0,36,1,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,1.0,17,1,5407.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,1.0,37,1,1212571.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,10,1,71115.0,10,delaware,3.0,45,33,12,500,Solid Dem
+2,False,3,1.0,54,1,1258.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,False,3,1.0,13,1,4935.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,1.0,18,1,4770.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,3,1.0,19,1,1032.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+3,False,3,1.0,12,1,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,1,4.0,6,1,2181161.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,3,1.0,47,1,5031.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,3,1.0,32,1,1016.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+1,True,3,2.0,4,1,385.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,1,1.0,48,1,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,4.0,6,1,29085.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,3,9.0,13,1,526.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,28,1,207267.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+1,False,1,1.0,45,1,330104.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,False,3,1.0,51,1,7858.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,1,1.0,1,1,401522.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,1,1.0,12,1,2303174.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,13,1,715317.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,1,1.0,55,1,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,1,1.0,5,1,221846.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,1,1.0,33,1,123260.0,33,new hampshire,4.0,43,40,3,831,Competitive
+3,True,1,1.0,25,1,781031.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,True,1,1.0,39,1,975330.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,5,1,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,1,1.0,18,1,561184.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,3,1.0,32,1,2236.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+2,False,3,1.0,1,1,3121.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,False,3,1.0,12,1,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,28,1,303433.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,3,1.0,18,1,7295.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,True,1,1.0,47,1,750810.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,1,1.0,22,1,287561.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+3,True,3,1.0,13,1,9705.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,1,1.0,53,1,528107.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,3,1.0,46,1,279.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+2,False,3,1.0,34,1,4137.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,3,1.0,5,1,1535.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+3,False,3,1.0,54,1,3333.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,False,3,1.0,4,1,2197.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,True,3,9.0,48,1,1020.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,1.0,26,1,4129.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,1,9.0,40,1,58422.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,1.0,51,1,2327.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,True,3,1.0,17,1,5765.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,3,1.0,29,1,6243.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,6,1,2850214.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,4.0,12,1,25794.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,48,1,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,3,1.0,36,1,27986.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,1,1.0,13,1,570988.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,1,1.0,12,1,1279480.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,1.0,55,1,3544.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,3,1.0,39,1,6100.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,1.0,17,1,3051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,3,1.0,18,1,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,True,3,1.0,17,1,5765.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,1,1.0,4,1,358383.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,3,2.0,12,1,7133.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,1.0,18,1,4633.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,1,1.0,25,1,927204.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,False,1,1.0,29,1,592930.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,3,1.0,40,1,1167.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,3,2.0,55,1,1031.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,True,3,1.0,39,1,12927.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,1,2.0,12,1,382163.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,1.0,31,1,1253.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+3,True,1,1.0,18,1,775944.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,1,2.0,45,1,171472.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,True,1,1.0,21,1,407736.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,False,3,3.0,12,1,748.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,6,1,6242.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,1.0,34,1,445675.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,1.0,41,1,1905.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+2,True,1,1.0,8,1,519848.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,False,1,1.0,54,1,308528.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+1,False,1,1.0,39,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,1,1.0,37,1,1212571.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,True,3,1.0,12,1,11953.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,4,1,358383.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,1,1.0,12,1,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,40,1,1167.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,False,1,1.0,51,1,922772.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,1,1.0,29,1,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,45,1,615353.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,False,3,1.0,18,1,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,1,1.0,48,1,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,1,1.0,5,1,263693.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+3,False,3,1.0,4,1,4994.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,3,1.0,16,1,1093.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+2,False,1,1.0,26,1,910963.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,3,1.0,42,1,5284.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,47,1,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+3,True,1,1.0,55,1,774194.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,True,1,1.0,6,1,2566807.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,True,1,1.0,28,1,258048.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+2,False,3,1.0,48,1,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,1.0,6,1,6242.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,17,1,5407.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,4.0,39,1,52079.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,9.0,29,1,24798.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,3,1.0,37,1,3740.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,3,3.0,6,1,27503.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,17,1,985338.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,True,1,1.0,55,1,494245.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,1,2.0,48,1,446241.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,32,1,284496.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+1,True,1,1.0,41,1,330371.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+3,True,3,1.0,12,1,18714.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,1.0,39,1,12927.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,1.0,13,1,4935.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,1,4.0,49,1,52921.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+1,True,3,1.0,16,1,823.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+3,False,3,1.0,37,1,10867.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,1,1.0,4,1,745193.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,1,1.0,42,1,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,31,1,179679.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+1,True,1,2.0,24,1,207507.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,False,3,1.0,31,1,616.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+2,True,3,2.0,48,1,5533.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,1.0,9,1,234842.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+3,False,1,1.0,19,1,479107.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,37,1,845486.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,1,1.0,5,1,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+2,False,1,3.0,48,1,224522.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,2.0,48,1,391214.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,9.0,39,1,26261.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,1,1.0,34,1,824554.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,3,1.0,39,1,6100.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,13,1,715317.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,9.0,48,1,72856.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,1.0,1,1,3121.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,True,1,4.0,48,1,1538946.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,3,1.0,24,1,4368.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,False,3,1.0,39,1,4509.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,1,1.0,6,1,1874797.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,1.0,13,1,3449.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,1,1.0,13,1,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,1.0,18,1,2873.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,True,3,2.0,4,1,432.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,3,3.0,17,1,913.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,True,1,1.0,13,1,825031.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,3.0,55,1,2505.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,True,1,1.0,42,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,1,1.0,1,1,499159.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,False,1,1.0,16,1,231664.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+1,False,3,1.0,39,1,4509.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,1,1.0,12,1,2303174.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,1,1,584005.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,3,1.0,51,1,2067.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,1,1.0,47,1,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,3,1.0,24,1,1123.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,False,1,1.0,39,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,1,1.0,48,1,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,12,1,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,1,1,327170.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,1,1.0,29,1,510603.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,13,1,570988.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,1,1.0,55,1,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,1,1.0,1,1,327170.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,False,3,3.0,4,1,1488.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,1,1.0,13,1,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,33,1,155384.0,33,new hampshire,4.0,43,40,3,831,Competitive
+2,True,1,1.0,28,1,206260.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+1,True,1,1.0,39,1,975330.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,3,1.0,20,1,2260.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+2,False,1,1.0,19,1,320351.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+1,True,3,1.0,27,1,1818.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+3,True,1,1.0,12,1,2303174.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,47,1,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,True,3,1.0,17,1,3605.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,1,1.0,24,1,306762.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+1,True,1,1.0,55,1,494245.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,1,4.0,4,1,266423.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,1,1.0,12,1,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,1,1,327170.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,False,3,1.0,12,1,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,1.0,18,1,4770.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,True,3,9.0,13,1,197.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,True,1,1.0,36,1,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,1,4.0,12,1,631171.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,3,1.0,34,1,2261.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,1,1.0,41,1,321892.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+2,False,1,1.0,1,1,401522.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,False,1,1.0,40,1,317067.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,False,1,1.0,12,1,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,4,1,358383.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,1,1.0,1,1,401522.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,True,1,1.0,20,1,335859.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+2,False,3,4.0,6,1,140786.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,3,1.0,26,1,14541.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,True,1,1.0,39,1,1130065.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,3,1.0,48,1,15494.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,1,1,401522.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,False,3,1.0,29,1,3176.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,1,1.0,36,1,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,4.0,48,1,34779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,1.0,9,1,415950.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+3,False,1,1.0,40,1,470889.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,False,1,1.0,29,1,510603.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,1.0,36,1,7217.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,17,1,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,3,1.0,45,1,3052.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,1,4.0,40,1,42826.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,True,3,1.0,42,1,14033.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,1.0,13,1,3449.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,1.0,40,1,1719.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,1,1.0,21,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,False,3,1.0,23,1,943.0,23,maine,4.0,47,39,8,941,Lean Dem
+3,True,3,1.0,4,1,3990.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,3,1.0,12,1,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,1.0,12,1,18714.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,1,1.0,48,1,1285351.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,4.0,42,1,1712.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,1,1.0,13,1,587604.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,1.0,8,1,1593.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,1,1.0,6,1,1424354.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,True,1,1.0,36,1,1174378.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,1,1.0,6,1,1424354.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,47,1,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,1,4.0,48,1,1451945.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,3.0,13,1,70748.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,1,1.0,26,1,912893.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,3,4.0,44,1,1319.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+1,True,1,1.0,36,1,1174378.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,True,1,1.0,20,1,262366.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+3,False,1,1.0,18,1,900370.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,3,1.0,12,1,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,54,1,207749.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+3,True,1,1.0,48,1,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,47,1,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,1,1.0,45,1,403885.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,False,1,1.0,29,1,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,1,1.0,12,1,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,1.0,54,1,1258.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+3,False,1,1.0,44,1,152145.0,44,rhode island,4.0,48,27,21,602,Solid Dem
+2,False,3,1.0,23,1,943.0,23,maine,4.0,47,39,8,941,Lean Dem
+2,False,1,1.0,51,1,668616.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,True,3,1.0,39,1,4777.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,21,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,False,1,1.0,5,1,389550.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+3,False,3,1.0,1,1,7250.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,False,1,1.0,56,1,81203.0,56,wyoming,3.0,27,56,-29,493,Solid Rep
+3,False,1,1.0,13,1,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,3,1.0,22,1,2801.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+3,False,1,1.0,29,1,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,3,1.0,13,1,9183.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,1,1.0,1,1,584005.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,True,1,1.0,42,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,17,1,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,True,1,1.0,39,1,1417121.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,3,1.0,6,1,22499.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,2.0,20,1,18036.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+2,False,3,1.0,33,1,499.0,33,new hampshire,4.0,43,40,3,831,Competitive
+2,False,3,1.0,18,1,4770.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,False,3,1.0,13,1,3449.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,17,1,983123.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,1.0,34,1,971592.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+1,False,3,1.0,16,1,999.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+1,False,3,1.0,6,1,6242.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,31,1,1253.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+2,False,1,9.0,18,1,14996.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,1,1.0,48,1,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,1,9.0,53,1,49053.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+1,False,1,1.0,19,1,279006.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+3,False,3,1.0,12,1,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,4.0,6,1,1069541.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,36,1,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,1.0,42,1,6545.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,1,1.0,54,1,162243.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,True,3,1.0,49,1,1341.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+2,True,3,1.0,12,1,11953.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,3,1.0,29,1,6243.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,3,1.0,13,1,9183.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,3.0,36,1,3433.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,4,1,837969.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,3,1.0,47,1,10928.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,3,1.0,25,1,3322.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,1,1.0,17,1,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,1,1.0,1,1,327170.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,True,3,1.0,10,1,631.0,10,delaware,3.0,45,33,12,500,Solid Dem
+3,False,1,1.0,22,1,473819.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+2,False,1,1.0,4,1,452978.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,1,1.0,50,1,109670.0,50,vermont,3.0,52,30,22,496,Solid Dem
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,1.0,12,1,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,6,1,1772577.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,3,1.0,4,1,4994.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,True,3,1.0,36,1,8091.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,10,1,128891.0,10,delaware,3.0,45,33,12,500,Solid Dem
+2,False,1,1.0,48,1,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,26,1,1360308.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,True,3,1.0,17,1,10377.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,3,1.0,20,1,858.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+3,False,1,1.0,27,1,785410.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+3,True,3,4.0,18,1,2244.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,True,3,1.0,25,1,4192.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,False,1,1.0,51,1,550515.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,True,3,1.0,55,1,1756.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,True,3,1.0,36,1,11863.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,21,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,False,1,1.0,17,1,983123.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,1,1.0,17,1,791231.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,5,1,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,True,1,1.0,36,1,1174378.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,1,1.0,21,1,541357.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,False,3,1.0,42,1,3508.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,True,1,1.0,29,1,739484.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,3,2.0,32,1,644.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+1,False,3,1.0,5,1,966.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,3,1.0,12,1,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,22,1,287561.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+2,True,1,1.0,54,1,205374.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+3,True,1,1.0,42,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,48,1,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,55,1,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,1,1.0,13,1,715317.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,True,3,1.0,49,1,1317.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+3,False,1,1.0,26,1,1360308.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,1,1.0,54,1,207749.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+3,True,3,1.0,12,1,18714.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,4.0,4,1,266423.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,1,4.0,45,1,34347.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,True,3,1.0,24,1,4402.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,False,3,4.0,35,1,2690.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+3,True,3,1.0,16,1,1093.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+1,False,1,1.0,48,1,1227692.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,1,1.0,28,1,206260.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+2,True,1,1.0,48,1,1525311.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,1.0,12,1,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,9.0,35,1,28058.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+3,True,1,1.0,25,1,781031.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,47,1,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,True,1,1.0,21,1,469737.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,True,1,4.0,26,1,60934.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,1,1.0,17,1,820051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,40,1,317067.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,False,1,1.0,38,1,102520.0,38,north dakota,3.0,28,56,-28,536,Solid Rep
+2,False,1,1.0,21,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,True,3,9.0,39,1,273.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,1,1.0,40,1,276368.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,4.0,27,1,848.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+2,True,1,1.0,49,1,299355.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+3,True,1,1.0,12,1,2303174.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,True,3,1.0,26,1,6409.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,3,1.0,6,1,8818.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,28,1,207267.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,True,3,2.0,48,1,6388.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,47,1,527769.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,1,1.0,45,1,403885.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,3,4.0,6,1,140786.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,3,3.0,26,1,557.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,1,9.0,45,1,9840.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,True,3,1.0,4,1,2698.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,1,1.0,4,1,837969.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,False,3,1.0,30,1,864.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+2,False,3,1.0,8,1,1284.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+1,False,3,4.0,6,1,29085.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,21,1,638351.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,False,1,1.0,39,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,True,3,1.0,12,1,11953.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,36,1,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,47,1,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,3,2.0,45,1,2000.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,3,3.0,34,1,1787.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,1.0,39,1,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,1.0,36,1,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,51,1,668616.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,1,1.0,30,1,92371.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+2,False,1,1.0,39,1,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,4.0,18,1,1171.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,3,4.0,17,1,24048.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,22,1,340935.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+1,True,3,1.0,35,1,467.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,8,1,499071.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,False,3,1.0,12,1,20675.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,1.0,48,1,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,48,1,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,18,1,900370.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,1,1.0,51,1,668616.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,1,1.0,47,1,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,True,1,1.0,4,1,460517.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+3,True,3,1.0,55,1,4600.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,True,3,1.0,12,1,7273.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,2.0,10,1,330.0,10,delaware,3.0,45,33,12,500,Solid Dem
+1,True,3,1.0,8,1,2419.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+1,False,3,1.0,13,1,3449.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,29,1,592930.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,1,1,584005.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,False,1,1.0,29,1,592930.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,True,3,1.0,17,1,10377.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,True,1,1.0,32,1,279535.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,1,1.0,17,1,820051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,29,1,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,True,1,4.0,36,1,498224.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,1,1.0,45,1,530485.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,1,1.0,45,1,403885.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,False,1,1.0,40,1,267029.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+1,False,1,1.0,4,1,358383.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,True,3,1.0,5,1,1967.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+3,True,1,1.0,36,1,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,2.0,29,1,1062.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+1,False,3,4.0,48,1,19458.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,42,1,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,47,1,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+3,True,1,1.0,29,1,739484.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,True,1,1.0,49,1,299355.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+2,True,3,4.0,39,1,3202.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,3.0,12,1,748.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,18,1,775944.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,3,1.0,47,1,4371.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+3,True,3,1.0,12,1,18714.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,1.0,47,1,11639.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,3,2.0,1,1,2353.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,False,3,1.0,33,1,1409.0,33,new hampshire,4.0,43,40,3,831,Competitive
+2,True,1,1.0,42,1,1188899.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,6,1,1772577.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,8,1,1284.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+1,True,1,1.0,6,1,1556291.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,3,2.0,36,1,14716.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,1.0,26,1,14541.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,False,1,1.0,39,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,1,1.0,22,1,293823.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+1,False,1,1.0,46,1,72905.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+2,False,1,1.0,47,1,641204.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,1,1.0,49,1,291711.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+2,False,1,1.0,24,1,388138.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,False,3,1.0,12,1,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,1,1.0,54,1,205374.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,False,1,1.0,53,1,646444.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,True,3,1.0,49,1,1341.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+2,True,1,1.0,48,1,1525311.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,21,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,False,1,1.0,23,1,157346.0,23,maine,4.0,47,39,8,941,Lean Dem
+1,False,1,1.0,26,1,758304.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,False,1,1.0,40,1,470889.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,3,1.0,19,1,1032.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+1,False,1,1.0,40,1,267029.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,3,1.0,39,1,6100.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,True,1,4.0,40,1,63485.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,1,1.0,53,1,646444.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+3,False,1,1.0,9,1,486865.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+2,True,1,1.0,53,1,665328.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,1.0,37,1,845486.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,1,1.0,42,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,34,1,971592.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,1.0,1,1,401522.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,3,1.0,1,1,1916.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,True,1,1.0,18,1,775944.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,True,1,1.0,54,1,205374.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+1,False,3,1.0,21,1,1767.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,False,1,1.0,25,1,624127.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,False,1,9.0,2,1,21315.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+3,False,3,4.0,29,1,1399.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,13,1,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,True,3,1.0,18,1,3431.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+3,False,3,1.0,33,1,1409.0,33,new hampshire,4.0,43,40,3,831,Competitive
+3,False,1,1.0,21,1,638351.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,True,3,1.0,12,1,18714.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,54,1,308528.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+1,False,3,4.0,32,1,2180.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+1,False,1,1.0,51,1,550515.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,1,1.0,13,1,715317.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,True,3,2.0,12,1,4712.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,1,1.0,25,1,600154.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,False,1,1.0,39,1,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,1.0,55,1,473586.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,1,1.0,1,1,327170.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,1,9.0,12,1,72845.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,12,1,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,3.0,11,1,13.0,11,district of columbia,3.0,70,11,59,512,Solid Dem
+2,False,3,3.0,39,1,2379.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,4.0,48,1,1451945.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,True,3,1.0,5,1,1173.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,3,1.0,21,1,1767.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,True,3,1.0,27,1,2862.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+1,False,1,1.0,12,1,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,True,3,1.0,37,1,3464.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,1,1.0,36,1,1744425.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,3,1.0,40,1,1167.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,False,1,1.0,20,1,386574.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+3,True,3,1.0,32,1,1660.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+3,False,1,9.0,6,1,130368.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,3,4.0,48,1,93694.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,3,9.0,32,1,111.0,32,nevada,6.0,42,39,3,"1,540",Competitive
+3,False,1,1.0,45,1,615353.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,True,3,1.0,34,1,11101.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,True,3,3.0,53,1,2134.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+3,True,1,1.0,4,1,745193.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,1,3.0,48,1,179856.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,4.0,6,1,936823.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,3,1.0,53,1,4530.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+3,True,3,1.0,28,1,5066.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+3,False,1,1.0,25,1,927204.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,False,3,3.0,17,1,913.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,1.0,39,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,1,1.0,12,1,2303174.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,1.0,22,1,2801.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+1,True,3,1.0,48,1,7779.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,3,1.0,26,1,14541.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,True,1,1.0,39,1,975330.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,1.0,53,1,528107.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,3,1.0,48,1,8305.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,2.0,37,1,1718.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,False,3,1.0,6,1,6242.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,True,1,1.0,5,1,263693.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+3,False,1,1.0,29,1,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,40,1,470889.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+2,False,1,1.0,41,1,397429.0,41,oregon,8.0,49,36,13,"3,187",Solid Dem
+2,False,3,1.0,51,1,3733.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,1.0,12,1,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,39,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,1,1.0,29,1,592930.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,True,3,1.0,5,1,1967.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,True,1,4.0,6,1,2181161.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,4.0,6,1,140786.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+3,False,1,1.0,33,1,227377.0,33,new hampshire,4.0,43,40,3,831,Competitive
+2,True,3,1.0,48,1,11201.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,True,1,1.0,12,1,2303174.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,3,1.0,16,1,1239.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+3,False,1,1.0,48,1,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,1,1.0,5,1,263693.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+2,False,1,3.0,48,1,224522.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,1,1.0,5,1,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+2,True,3,1.0,27,1,2862.0,27,minnesota,10.0,47,37,10,"3,428",Solid Dem
+3,False,1,1.0,21,1,638351.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+1,True,1,1.0,1,1,330345.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,True,3,1.0,5,1,4601.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+2,False,1,1.0,19,1,320351.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+3,False,1,1.0,51,1,922772.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,1,1.0,13,1,570988.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,21,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,12,1,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,1.0,17,1,10377.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,54,1,207749.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,True,3,3.0,34,1,1724.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,False,1,1.0,13,1,952848.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,3,1.0,21,1,8725.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,False,1,1.0,37,1,1212571.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,True,1,1.0,49,1,308614.0,49,utah,6.0,29,56,-27,"2,099",Solid Rep
+2,False,3,3.0,4,1,1488.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,3,1.0,31,1,616.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+1,True,1,4.0,53,1,144332.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+3,False,1,1.0,19,1,479107.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+2,False,3,1.0,21,1,3106.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,True,1,9.0,17,1,27034.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,True,3,1.0,37,1,12136.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,3,1.0,23,1,1477.0,23,maine,4.0,47,39,8,941,Lean Dem
+3,False,1,1.0,26,1,1360308.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,True,1,1.0,12,1,2303174.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,55,1,774194.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,1,1.0,36,1,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,9.0,48,1,1228.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,3,1.0,8,1,2489.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+1,False,1,1.0,48,1,1227692.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,18,1,900370.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,1,1.0,36,1,1320593.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,12,1,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,55,1,1603.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,1,1.0,39,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,9.0,12,1,72845.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,51,1,668616.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,1,1.0,24,1,306762.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+3,True,1,1.0,42,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,3,3.0,6,1,7421.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,2,1,139.0,2,alaska,3.0,31,52,-21,553,Solid Rep
+3,False,3,1.0,26,1,14541.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,True,3,1.0,55,1,3544.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,False,1,1.0,51,1,668616.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,True,1,1.0,48,1,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,2.0,48,1,391214.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,1.0,12,1,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,12,1,990106.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,1,1.0,34,1,824554.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,True,3,4.0,12,1,39924.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,3,1.0,1,1,1916.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,3,1.0,13,1,3449.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,3,1.0,29,1,1780.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,1,9.0,16,1,8148.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+3,False,1,1.0,45,1,615353.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,1,1.0,48,1,1508435.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,False,3,1.0,51,1,3733.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,3,1.0,6,1,31533.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,1.0,5,1,221846.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+2,False,3,1.0,54,1,1258.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,False,1,1.0,22,1,340935.0,22,louisiana,8.0,40,43,-3,"2,589",Competitive
+2,False,3,1.0,42,1,6545.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,34,1,971592.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,True,3,1.0,19,1,2753.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+1,False,1,1.0,47,1,527769.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,5,1,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,31,1,261124.0,31,nebraska,5.0,35,50,-15,"1,437",Solid Rep
+3,False,1,1.0,24,1,574249.0,24,maryland,10.0,56,28,28,"3,193",Solid Dem
+2,False,3,1.0,51,1,3733.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,1,1.0,8,1,425037.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+3,False,1,9.0,45,1,9840.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,False,1,1.0,47,1,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+3,False,1,1.0,25,1,927204.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+1,True,1,2.0,53,1,43878.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,3,4.0,6,1,140786.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,1,1.0,39,1,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,False,1,1.0,1,1,584005.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,False,3,4.0,4,1,20530.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+2,False,1,1.0,51,1,668616.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+1,False,3,1.0,16,1,999.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+1,False,1,1.0,36,1,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+1,False,1,4.0,6,1,2063910.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,4.0,48,1,72602.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,1,1.0,40,1,470889.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,True,3,1.0,12,1,18714.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,26,1,758304.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+1,False,1,1.0,53,1,528107.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,4.0,48,1,1354227.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+2,True,1,1.0,29,1,591049.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,True,1,1.0,12,1,2303174.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,3,1.0,48,1,11201.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,9.0,37,1,49082.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,True,1,1.0,13,1,705380.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,1,1.0,13,1,705380.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,1,1.0,30,1,109330.0,30,montana,4.0,37,51,-14,"1,059",Solid Rep
+1,False,1,1.0,36,1,1157895.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,1,1.0,21,1,482457.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,1.0,9,1,1031.0,9,connecticut,7.0,51,32,19,"2,020",Solid Dem
+1,True,3,1.0,12,1,7273.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,False,1,1.0,42,1,1896197.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,55,1,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+3,False,1,2.0,6,1,310753.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,True,1,2.0,21,1,48974.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+3,True,1,1.0,48,1,1851131.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,True,1,1.0,42,1,1006741.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+3,False,1,1.0,39,1,1651029.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,1.0,42,1,977521.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,1.0,37,1,7045.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,False,1,1.0,48,1,2089838.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,1.0,35,1,240.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+2,True,1,1.0,19,1,322970.0,19,iowa,6.0,42,42,0,"2,126",Competitive
+1,True,1,1.0,54,1,167767.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+3,False,1,1.0,29,1,856255.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,1,1.0,13,1,715317.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+3,False,1,1.0,8,1,642850.0,8,colorado,10.0,46,37,9,"3,574",Lean Dem
+2,False,3,1.0,29,1,3176.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,1,1.0,42,1,1192358.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,1,1.0,37,1,845486.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,1,1.0,54,1,268708.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+1,False,3,1.0,17,1,3051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,False,1,1.0,18,1,561184.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,True,3,1.0,6,1,13730.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+1,False,1,1.0,46,1,72905.0,46,south dakota,3.0,35,52,-17,579,Solid Rep
+2,False,3,3.0,4,1,1488.0,4,arizona,11.0,40,42,-2,"3,669",Competitive
+1,False,1,9.0,12,1,72845.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,1.0,34,1,11101.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,1.0,5,1,266148.0,5,arkansas,6.0,36,45,-9,"1,883",Lean Rep
+1,False,3,1.0,33,1,386.0,33,new hampshire,4.0,43,40,3,831,Competitive
+3,False,1,1.0,28,1,303433.0,28,mississippi,6.0,38,45,-7,"1,654",Lean Rep
+2,True,1,1.0,39,1,1130065.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,1.0,1,1,327170.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+3,True,1,9.0,40,1,47779.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,True,1,1.0,47,1,750810.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+2,True,3,1.0,40,1,2140.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,True,1,1.0,47,1,750810.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,3,1.0,17,1,3051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+1,True,3,1.0,36,1,8091.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+2,False,3,1.0,26,1,8210.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,True,1,1.0,53,1,818035.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,1.0,39,1,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,1,1.0,29,1,510603.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+2,False,3,1.0,45,1,3052.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,True,3,4.0,12,1,15917.0,12,florida,30.0,42,39,3,"11,094",Competitive
+1,False,1,1.0,39,1,946717.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+1,False,3,1.0,29,1,1780.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,45,1,615353.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,False,1,1.0,45,1,403885.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+2,True,3,1.0,55,1,3544.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+1,False,1,3.0,18,1,25072.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,False,3,9.0,40,1,406.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,False,1,1.0,47,1,878369.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,1,1.0,13,1,570988.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,False,1,1.0,37,1,845486.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,3,1.0,36,1,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,12,1,2608753.0,12,florida,30.0,42,39,3,"11,094",Competitive
+3,True,3,9.0,48,1,1020.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+3,False,3,4.0,45,1,1390.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+1,True,1,1.0,34,1,467010.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+3,True,1,1.0,54,1,268708.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+3,True,1,1.0,42,1,1625982.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,False,3,1.0,47,1,4371.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,True,3,1.0,23,1,404.0,23,maine,4.0,47,39,8,941,Lean Dem
+2,False,3,1.0,39,1,6100.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+2,False,3,1.0,36,1,9884.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,True,1,1.0,21,1,541357.0,21,kentucky,8.0,41,45,-4,"2,508",Competitive
+2,False,3,1.0,12,1,8501.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,1.0,47,1,4371.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,1,1.0,51,1,550515.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,1,1.0,18,1,900370.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,True,1,1.0,37,1,820772.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,True,1,9.0,51,1,44479.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+2,False,1,1.0,25,1,624127.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,1,1.0,25,1,927204.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+3,False,3,1.0,36,1,27986.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,3,1.0,25,1,14085.0,25,massachusetts,11.0,57,26,31,"3,805",Solid Dem
+2,False,1,1.0,39,1,1143344.0,39,ohio,17.0,41,42,-1,"6,319",Competitive
+3,True,3,1.0,45,1,6259.0,45,south carolina,9.0,37,47,-10,"2,821",Solid Rep
+3,False,1,1.0,17,1,1434119.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+2,False,1,1.0,37,1,845486.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+2,False,1,1.0,53,1,646444.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,1.0,26,1,910963.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,3,1.0,13,1,4935.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,False,1,1.0,47,1,527769.0,47,tennessee,11.0,35,47,-12,"4,117",Solid Rep
+1,False,1,1.0,51,1,550515.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,1,1.0,55,1,856053.0,55,wisconsin,10.0,43,41,2,"3,353",Competitive
+2,True,3,4.0,36,1,30412.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,1.0,26,1,1360308.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,1,1.0,12,1,1281514.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,29,1,592930.0,29,missouri,10.0,38,45,-7,"3,602",Lean Rep
+3,False,1,1.0,20,1,386574.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+1,False,3,1.0,42,1,3508.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+2,True,3,4.0,20,1,3693.0,20,kansas,6.0,34,48,-14,"1,771",Solid Rep
+3,True,3,1.0,18,1,7189.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+1,True,3,1.0,26,1,6409.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+3,True,3,1.0,26,1,12027.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,True,1,1.0,13,1,705380.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+2,True,3,1.0,42,1,6528.0,42,pennsylvania,19.0,46,41,5,"7,974",Competitive
+1,False,1,9.0,40,1,75093.0,40,oklahoma,7.0,35,49,-14,"2,459",Solid Rep
+3,True,1,1.0,37,1,1029577.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+1,False,3,1.0,48,1,6290.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,1,1.0,37,1,672116.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,True,3,1.0,35,1,905.0,35,new mexico,5.0,48,34,14,"1,454",Solid Dem
+2,True,3,4.0,12,1,34223.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,1,1.0,26,1,910963.0,26,michigan,15.0,45,38,7,"5,541",Lean Dem
+2,False,3,1.0,13,1,4935.0,13,georgia,16.0,42,40,2,"5,458",Competitive
+1,True,1,1.0,51,1,578984.0,51,virginia,13.0,45,38,7,"4,893",Lean Dem
+3,False,1,1.0,54,1,308528.0,54,west virginia,4.0,40,44,-4,"1,011",Competitive
+2,True,1,1.0,1,1,393844.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+1,False,3,1.0,17,1,3051.0,17,illinois,19.0,50,33,17,"5,712",Solid Dem
+3,False,1,1.0,36,1,2027722.0,36,new york,28.0,52,29,23,"10,864",Solid Dem
+3,False,1,4.0,34,1,155999.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,3,1.0,6,1,11143.0,6,california,54.0,51,30,21,"18,168",Solid Dem
+2,False,3,1.0,53,1,3013.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+1,False,3,4.0,12,1,11732.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,True,1,1.0,1,1,393844.0,1,alabama,9.0,35,50,-15,"3,057",Solid Rep
+2,True,3,1.0,34,1,4804.0,34,new jersey,14.0,48,33,15,"4,455",Solid Dem
+2,False,1,1.0,18,1,656231.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
+2,True,1,4.0,53,1,110498.0,53,washington,12.0,49,34,15,"4,686",Solid Dem
+2,False,1,9.0,16,1,8148.0,16,idaho,4.0,31,53,-22,"1,254",Solid Rep
+3,False,1,9.0,48,1,55908.0,48,texas,40.0,38,41,-3,"14,138",Competitive
+1,False,3,1.0,12,1,6275.0,12,florida,30.0,42,39,3,"11,094",Competitive
+2,False,3,3.0,37,1,2329.0,37,north carolina,16.0,44,39,5,"5,774",Competitive
+3,False,1,1.0,18,1,900370.0,18,indiana,11.0,41,43,-2,"3,578",Competitive
