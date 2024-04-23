@@ -15,7 +15,6 @@ To run the MRP model, run the cells in ```models/mrp_model.Rmd``` in order
 
 To run the machine learning model, the the cells in ```src/clean_ML.ipynb``` in order
 
-
 ## Datasets 
 All datasets we used are publically avaliable. All rights belongs to their respective owners.
 
