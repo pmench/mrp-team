@@ -4,7 +4,7 @@ Bella Karduck (bkarduck@umich.edu), Haley Johnson (haleyej@umich.edu), Rohit Mar
 
 If knowledge is power then when it comes to election predictions, the public is in the dark. Media reports are filled with opinion polling data and pundits expound on which candidate will win, but how are these predictions made? 
 
-We test two methods of election prediction—a classical statistical approach and a machine learning method—and make them understandable to a general audience. A public website walks readers through the details of each method and allows them to compare the models’ predictions with actual outcomes.
+We test two methods of election prediction — a classical statistical approach and a machine learning method — and make them understandable to a general audience. A public website walks readers through the details of each method and allows them to compare the models’ predictions with actual outcomes.
 
 See [pollrbear.com](https://www.pollrbear.com/) for more details.
 
@@ -30,7 +30,7 @@ All datasets we used are publically avaliable. All rights belongs to their respe
 
 
 **Census Data**
-* 2020 5-year estimates from the American Community's Survey (retrieved with [IPUMS](https://www.ipums.org/))
+* [2020 5-year estimates from the American Community's Survey](https://www.census.gov/data/developers/data-sets/acs-5year.html) (retrieved with [IPUMS](https://www.ipums.org/))
 
 
 ## Repository Structure
