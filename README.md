@@ -4,17 +4,16 @@ Bella Karduck (bkarduck@umich.edu), Haley Johnson (haleyej@umich.edu), Rohit Mar
 
 If knowledge is power then when it comes to election predictions, the public is in the dark. Media reports are filled with opinion polling data and pundits expound on which candidate will win, but how are these predictions made? 
 
-We test two methods of election prediction—a classical statistical approach and a machine learning method—and make them understandable to a general audience. A public website walks readers through the details of each method and allows them to compare the models’ predictions with actual outcomes.
+We test two methods of election prediction — a classical statistical approach and a machine learning method — and make them understandable to a general audience. A public website walks readers through the details of each method and allows them to compare the models’ predictions with actual outcomes.
 
 See [pollrbear.com](https://www.pollrbear.com/) for more details.
 
-This project fufills the capstone requirement for the Master's of Science in Information at the University of Michigan.
+This project fufills the capstone requirement for the Master's of Science in Information, Data Science, at the University of Michigan.
 
 ## How To Run Our Code 
 To run the MRP model, run the cells in ```models/mrp_model.Rmd``` in order 
 
 To run the machine learning model, the the cells in ```src/clean_ML.ipynb``` in order
-
 
 ## Datasets 
 All datasets we used are publically avaliable. All rights belongs to their respective owners.
@@ -31,33 +30,33 @@ All datasets we used are publically avaliable. All rights belongs to their respe
 
 
 **Census Data**
-* 2020 5-year estimates from the American Community's Survey (retrieved with [IPUMS](https://www.ipums.org/))
+* [2020 5-year estimates from the American Community's Survey](https://www.census.gov/data/developers/data-sets/acs-5year.html) (retrieved with [IPUMS](https://www.ipums.org/))
 
 
 ## Repository Structure
 Our repistory has the following structure. Note that only key files are included for brevity. 
 
 ```
-├── Project Poster                      <- Poster for UMSI project expo
-├── data                                <- Data soruces used
+├── Project Poster                          <- Poster for UMSI project expo
+├── data                                    <- Data soruces used
 | 
-├── documentation                       <- Documents data cleaning
+├── documentation                           <- Documents data cleaning
 | 
-├── models                              <- Code for MRP model and propensity scores
-│   └── mrp_model.Rmd                   <- Model 
-│   └── mrp_model.html                  <- HTML rendering of R notebook 
+├── models                                  <- Code for MRP model and propensity scores
+│   └── mrp_model.Rmd                       <- Model 
+│   └── mrp_model.html                      <- HTML rendering of R notebook 
 │
-├── src                                 <- Python scripts & notebooks
-│   └── clean_ML.ipynb                  <- Machine learning model   
-│   └── census_getter.py                <- Script to pull data with census API
-|   └── helper.py                       <- Helper functions to process Reuter's poll
-│   └── process_census_data.ipynb       <- Clean census data 
-|   └── process_comet_poll.py           <- Clean COMET poll
-│   └── process_harvard_poll_data.ipynb <- Clean Harvard poll
-│   └── process_poll_data.ipynb         <- Clean Monmouth poll
-│   └── process_reuters_poll.py         <- Clean Reuter's poll
+├── src                                     <- Python scripts & notebooks
+│   └── clean_ML.ipynb                      <- Machine learning model   
+│   └── census_getter.py                    <- Script to pull data with census API
+|   └── helper.py                           <- Helper functions to process Reuter's poll
+│   └── process_census_data.ipynb           <- Clean census data 
+|   └── process_comet_poll.py               <- Clean COMET poll
+│   └── process_harvard_poll_data.ipynb     <- Clean Harvard poll
+│   └── process_poll_data.ipynb             <- Clean Monmouth poll
+│   └── process_reuters_poll.py             <- Clean Reuter's poll
 |
-├── website_699                         <- Source code for website
+├── website_699                             <- Source code for website
 ├── LICENSE
 ├── README.md
 └── requirements.txt
