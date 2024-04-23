@@ -92,7 +92,6 @@ model_eval = pd.DataFrame({"ml_mse": [ml_eval], "mrp_mse": [mrp_eval]})
 model_eval.to_csv("../output/model_eval.csv", index=False)
 
 # Load predictions
-pred_2020 = pd.read_csv("../data/2020_election/final_pred_elec_ML.csv")
 fix_pred_2020 = pd.read_csv(
     "../data/2020_election/20240422_final_pred_elec_ML_2020.csv"
 )
@@ -103,14 +102,10 @@ actual_2020["actual_winner"] = actual_2020.apply(
 )
 
 # Populate dataframe with predicted outcomes
-actual_2020["pred_winner"] = pred_2020["state_pred"]
-actual_2020["fix_pred_winner"] = pred_2020["state_pred"]
+actual_2020["fix_pred_winner"] = fix_pred_2020["state_pred"]
 actual_2020["mrp_pred_winner"] = mrp_pred_2020["state_pred"]
 
 # Compare predictions with actual outcomes
-actual_2020["pred_accuracy"] = (
-    actual_2020["actual_winner"] == actual_2020["pred_winner"]
-)
 actual_2020["fix_pred_accuracy"] = (
     actual_2020["actual_winner"] == actual_2020["fix_pred_winner"]
 )
@@ -122,7 +117,7 @@ actual_2020["mrp_pred_accuracy"] = (
 actual_2020 = actual_2020.drop([51, 52], axis=0)
 
 # Calculate accuracy
-print(np.sum(actual_2020["pred_accuracy"]) / len(actual_2020))
+# print(np.sum(actual_2020["pred_accuracy"]) / len(actual_2020))
 print(np.sum(actual_2020["fix_pred_accuracy"]) / len(actual_2020))
 print(np.sum(actual_2020["mrp_pred_accuracy"]) / len(actual_2020))
 actual_2020.to_csv("../output/accuracy_outcomes.csv")
