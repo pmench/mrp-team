@@ -118,6 +118,22 @@ actual_2020 = actual_2020.drop([51, 52], axis=0)
 
 # Calculate accuracy
 # print(np.sum(actual_2020["pred_accuracy"]) / len(actual_2020))
-print(np.sum(actual_2020["fix_pred_accuracy"]) / len(actual_2020))
-print(np.sum(actual_2020["mrp_pred_accuracy"]) / len(actual_2020))
+ml_accuracy = np.round(np.sum(actual_2020["fix_pred_accuracy"]) / len(actual_2020), 5)
+mrp_accuracy = np.round(np.sum(actual_2020["mrp_pred_accuracy"]) / len(actual_2020), 5)
+accuracy_matrix = pd.DataFrame(
+    {
+        "ml_accuracy": [
+            ml_accuracy,
+            np.sum(actual_2020["fix_pred_accuracy"]),
+            len(actual_2020),
+        ],
+        "mrp_accuracy": [
+            mrp_accuracy,
+            np.sum(actual_2020["mrp_pred_accuracy"]),
+            len(actual_2020),
+        ],
+    },
+    index=["accuracy", "states_correct", "total_states"],
+)
 actual_2020.to_csv("../output/accuracy_outcomes.csv")
+accuracy_matrix.to_csv("../output/accuracy_matrix.csv")
