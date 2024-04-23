@@ -21,7 +21,7 @@
         </div>
       </div>
 
-      <div id="election-explainer" class="section scrollspy">
+      <div id="election_explainer" class="section scrollspy">
           <div class="container">
               <h3>All About U.S. Presidential Elections (In 5 Minutes or Less)</h3>
               <p>
@@ -75,7 +75,7 @@
           </div>
       </div>
 
-      <div id="methods" class="section scrollspy">
+      <div id="mrp" class="section scrollspy">
           <div class="container">
               <h3>Polls and Predictions</h3>
               <p>
@@ -98,20 +98,30 @@
                   Now perhaps a few problems with this approach might occur to you. For example, one assumption is that 
                   groups of people tend to vote the same way. And, indeed, deciding how to group people is one of the key
                   decisions when creating prediction models. Another assumption is that you actually know the composition 
-                  of the total population—if there were only 10,000 Latinos in Long Beach, you would be wildly overestimating 
+                  of the total population. If there were only 10,000 Latinos in Long Beach, you would be wildly overestimating
                   support for cats! And, of course, you're assuming that the people you <em>did ask</em> are representative 
                   of the people you <em>didn't ask</em>.
               </p>
               <p>
-                  The magic of MrP is in the way it pools groups of people together. If you took a statewide poll of 
-                  people's opinion of cats, the sample of Latinos in Long Beach is likely to be quite small, and thus 
-                  unlikely to be representative of the opinion of Latinos in Long Beach. But you can use the results of 
-                  similar groups in other areas to adjust your prediction about the opinion of Latinos in Long Beach. 
-                  Further, you can do these kinds of adjustments at different levels. You can use demographic characteristics,
-                  such as race and gender, and higher-level group characteristics such as income to create different pools 
-                  of people, using larger group estimates to scale and adjust estimates for smaller groups in your data. 
-                  In this way, you can squeeze as much information out of your data as possible and make more accurate 
+                  While MrP doesn't magically solve these problems, it does have some magic. Specifically, MrP is clever
+                  in the way it pools groups of people together. If you took a statewide poll of people's opinion of
+                  cats, the sample of Latinos in Long Beach is likely to be quite small, and thus unlikely to be
+                  representative of the opinion of Latinos in Long Beach. But you can use the results of similar groups
+                  in other areas to adjust your prediction about the opinion of Latinos in Long Beach. Further, you can
+                  do these kinds of adjustments at different levels. You can use demographic characteristics, such as
+                  race and gender, and higher-level group characteristics such as income to create different pools of
+                  people, using larger group estimates to scale and adjust estimates for smaller groups in your data. In
+                  this way, you can squeeze as much information out of your data as possible and make more accurate
                   predictions!
+              </p>
+          </div>
+      </div>
+
+      <div id="machine_learning" class="section scrollspy">
+          <div class="container">
+            <h3>Hark! Machine Learning!</h3>
+              <p>
+                  {%  lorem %}
               </p>
           </div>
       </div>
