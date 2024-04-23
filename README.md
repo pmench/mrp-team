@@ -8,7 +8,7 @@ We test two methods of election prediction — a classical statistical approach 
 
 See [pollrbear.com](https://www.pollrbear.com/) for more details.
 
-This project fufills the capstone requirement for the Master's of Science in Information at the University of Michigan.
+This project fufills the capstone requirement for the Master's of Science in Information, Data Science, at the University of Michigan.
 
 ## How To Run Our Code 
 To run the MRP model, run the cells in ```models/mrp_model.Rmd``` in order 
@@ -37,26 +37,26 @@ All datasets we used are publically avaliable. All rights belongs to their respe
 Our repistory has the following structure. Note that only key files are included for brevity. 
 
 ```
-├── Project Poster                      <- Poster for UMSI project expo
-├── data                                <- Data soruces used
+├── Project Poster                          <- Poster for UMSI project expo
+├── data                                    <- Data soruces used
 | 
-├── documentation                       <- Documents data cleaning
+├── documentation                           <- Documents data cleaning
 | 
-├── models                              <- Code for MRP model and propensity scores
-│   └── mrp_model.Rmd                   <- Model 
-│   └── mrp_model.html                  <- HTML rendering of R notebook 
+├── models                                  <- Code for MRP model and propensity scores
+│   └── mrp_model.Rmd                       <- Model 
+│   └── mrp_model.html                      <- HTML rendering of R notebook 
 │
-├── src                                 <- Python scripts & notebooks
-│   └── clean_ML.ipynb                  <- Machine learning model   
-│   └── census_getter.py                <- Script to pull data with census API
-|   └── helper.py                       <- Helper functions to process Reuter's poll
-│   └── process_census_data.ipynb       <- Clean census data 
-|   └── process_comet_poll.py           <- Clean COMET poll
-│   └── process_harvard_poll_data.ipynb <- Clean Harvard poll
-│   └── process_poll_data.ipynb         <- Clean Monmouth poll
-│   └── process_reuters_poll.py         <- Clean Reuter's poll
+├── src                                     <- Python scripts & notebooks
+│   └── clean_ML.ipynb                      <- Machine learning model   
+│   └── census_getter.py                    <- Script to pull data with census API
+|   └── helper.py                           <- Helper functions to process Reuter's poll
+│   └── process_census_data.ipynb           <- Clean census data 
+|   └── process_comet_poll.py               <- Clean COMET poll
+│   └── process_harvard_poll_data.ipynb     <- Clean Harvard poll
+│   └── process_poll_data.ipynb             <- Clean Monmouth poll
+│   └── process_reuters_poll.py             <- Clean Reuter's poll
 |
-├── website_699                         <- Source code for website
+├── website_699                             <- Source code for website
 ├── LICENSE
 ├── README.md
 └── requirements.txt
