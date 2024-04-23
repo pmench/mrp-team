@@ -285,3 +285,4 @@ data/nat_2020_train.csv
 website_699/website_699/settings.py
 website_699/static/
 /output/2020_pred_hexbin.svg
+/data/2024_election/20240422_final_pred_elec_2024.csv
