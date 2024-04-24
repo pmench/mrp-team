@@ -59,6 +59,7 @@ Our repistory has the following structure. Note that only key files are included
 ├── website_699                             <- Source code for website
 ├── LICENSE
 ├── README.md
+├── report.pdf                              <- Detailed overview of our work
 └── requirements.txt
 ```
 
