@@ -286,12 +286,12 @@ website_699/website_699/settings.py
 website_699/static/
 /output/2020_pred_hexbin.svg
 /data/2024_election/20240422_final_pred_elec_2024.csv
-/output/corrected_2020_pred_hexbin.svg
-/output/corrected_2024_pred_hexbin.svg
 /output/accuracy_matrix.csv
 /output/accuracy_outcomes.csv
 /output/actual_margin.csv
+/output/corrected_2020_pred_hexbin.svg
 /website_699/ppredict/static/ppredict/corrected_2020_pred_hexbin.svg
+/output/corrected_2024_pred_hexbin.svg
 /website_699/ppredict/static/ppredict/corrected_2024_pred_hexbin.svg
 /output/correctedMRP_2020_pred_hexbin.svg
 /website_699/ppredict/static/ppredict/correctedMRP_2020_pred_hexbin.svg
