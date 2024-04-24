@@ -132,12 +132,12 @@ def main():
     # build_plot(us_hex_map, "../website_699/ppredict/static/ppredict/2020_hexbin.svg")
 
     # Build hexmap based on predictions
-    state_results = pd.read_csv("../data/2020_election/final_pred_elec_MRP.csv")
-    state_results = state_results.set_index("State")
+    state_results = pd.read_csv("../data/2024_election/final_pred_elec_2024.csv")
+    state_results = state_results.set_index("state")
     us_hex_map = merge_and_encode_wins(us_hex_map, state_results, pred=True)
     build_plot(
         us_hex_map,
-        "../website_699/ppredict/static/ppredict/correctedMRP_2020_pred_hexbin.svg",
+        "../website_699/ppredict/static/ppredict/corrected_2024_pred_hexbin.svg",
     )
 
 

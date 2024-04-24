@@ -18,9 +18,9 @@ def get_winner(biden_votes, trump_votes):
     :rtype: bool
     """
     if biden_votes > trump_votes:
-        return 0
+        return int(0)
     else:
-        return 1
+        return int(1)
 
 
 def calc_mse_margin(state_outcomes, y_true, y_pred):
@@ -92,22 +92,20 @@ model_eval = pd.DataFrame({"ml_mse": [ml_eval], "mrp_mse": [mrp_eval]})
 model_eval.to_csv("../output/model_eval.csv", index=False)
 
 # Load predictions
-fix_pred_2020 = pd.read_csv(
-    "../data/2020_election/20240422_final_pred_elec_ML_2020.csv"
-)
-mrp_pred_2020 = pd.read_csv("../data/2020_election/final_pred_elec_MRP.csv")
+ml_pred_2020 = pd.read_csv("../data/2020_election/final_pred_elec_ML_2020.csv")
+mrp_pred_2020 = pd.read_csv("../data/2020_election/final_pred_elec_2020_MRP.csv")
 
 actual_2020["actual_winner"] = actual_2020.apply(
     lambda x: get_winner(x["biden"], x["trump"]), axis=1
 )
 
 # Populate dataframe with predicted outcomes
-actual_2020["fix_pred_winner"] = fix_pred_2020["state_pred"]
+actual_2020["ml_pred_winner"] = ml_pred_2020["state_pred"]
 actual_2020["mrp_pred_winner"] = mrp_pred_2020["state_pred"]
 
 # Compare predictions with actual outcomes
-actual_2020["fix_pred_accuracy"] = (
-    actual_2020["actual_winner"] == actual_2020["fix_pred_winner"]
+actual_2020["ml_pred_accuracy"] = (
+    actual_2020["actual_winner"] == actual_2020["ml_pred_winner"]
 )
 actual_2020["mrp_pred_accuracy"] = (
     actual_2020["actual_winner"] == actual_2020["mrp_pred_winner"]
@@ -118,13 +116,13 @@ actual_2020 = actual_2020.drop([51, 52], axis=0)
 
 # Calculate accuracy
 # print(np.sum(actual_2020["pred_accuracy"]) / len(actual_2020))
-ml_accuracy = np.round(np.sum(actual_2020["fix_pred_accuracy"]) / len(actual_2020), 5)
+ml_accuracy = np.round(np.sum(actual_2020["ml_pred_accuracy"]) / len(actual_2020), 5)
 mrp_accuracy = np.round(np.sum(actual_2020["mrp_pred_accuracy"]) / len(actual_2020), 5)
 accuracy_matrix = pd.DataFrame(
     {
         "ml_accuracy": [
             ml_accuracy,
-            np.sum(actual_2020["fix_pred_accuracy"]),
+            np.sum(actual_2020["ml_pred_accuracy"]),
             len(actual_2020),
         ],
         "mrp_accuracy": [
