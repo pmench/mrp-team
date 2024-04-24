@@ -18,6 +18,16 @@
     <!--Import materialize.css-->
     <meta charset="UTF-8">
     <link rel="shortcut icon" type="image/png" href="{% static 'ppredict/favicon.png' %}">
+
+    <!-- Load KaTeX for mathematical equations using code snippets from documentation -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+
+    <!-- The loading of KaTeX is deferred to speed up page rendering -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+
+    <!-- To automatically render math in text elements, include the auto-render extension: -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
     
     <!-- Meta tags adapted from code written by ChatGPT -->
     <meta property="og:title" content="PollRBear"/>
@@ -40,12 +50,15 @@
     <div class="col hide-on-small-only s12 m3 l2">
         <div class="toc-wrapper pinned" style="top: 0px;">
           <ul class="section table-of-contents">
-            <li><a href="#introduction">Introduction</a></li>
-            <li><a href="#election_explainer">U.S. Elections</a></li>
-            <li><a href="#mrp">Polls and Predictions</a></li>
-            <li><a href="#machine_learning"> Enter Machine Learning</a> </li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#sources">Sources</a></li>
+              <li><a href="#introduction">Introduction</a></li>
+              <li><a href="#election_explainer">U.S. Elections</a></li>
+              <li><a href="#mrp">Polls and Predictions</a></li>
+              <li><a href="#machine_learning"> Enter Machine Learning</a> </li>
+              <li><a href="#perils">Perils of Prediction</a></li>
+              <li><a href="#election_2024">The 2024 Election</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#sources">Sources</a></li>
+
           </ul>
         </div>
     </div>
@@ -53,11 +66,13 @@
 
 
     <!-- Sidenav for small screens -->
-    <li class="sidenav pinned" id="mobile-toc" style="top: 0px;">
+    <ul class="sidenav pinned" id="mobile-toc" style="top: 0px;">
         <li><a href="#introduction">Introduction</a></li>
         <li><a href="#election_explainer">U.S. Elections</a></li>
         <li><a href="#mrp">Polls and Predictions</a></li>
-        <li><a href="#machine_learning"> Enter Machine Learning</a></li>
+        <li><a href="#machine_learning">Enter Machine Learning</a></li>
+        <li><a href="#perils">Perils of Prediction</a></li>
+        <li><a href="#election_2024">The 2024 Election</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#sources">Sources</a></li>
     </ul>

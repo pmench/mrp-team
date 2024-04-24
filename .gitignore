@@ -290,9 +290,6 @@ website_699/static/
 /output/accuracy_outcomes.csv
 /output/actual_margin.csv
 /output/corrected_2020_pred_hexbin.svg
-/website_699/ppredict/static/ppredict/corrected_2020_pred_hexbin.svg
 /output/corrected_2024_pred_hexbin.svg
-/website_699/ppredict/static/ppredict/corrected_2024_pred_hexbin.svg
 /output/correctedMRP_2020_pred_hexbin.svg
-/website_699/ppredict/static/ppredict/correctedMRP_2020_pred_hexbin.svg
 /output/model_eval.csv

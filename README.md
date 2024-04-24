@@ -2,21 +2,24 @@
 
 Bella Karduck (bkarduck@umich.edu), Haley Johnson (haleyej@umich.edu), Rohit Maramaju (rmaram@umich.edu) Philip Menchaca (pmench@umich.edu)
 
-If knowledge is power then when it comes to election predictions, the public is in the dark. Media reports are filled with opinion polling data and pundits expound on which candidate will win, but how are these predictions made? 
+If knowledge is power then when it comes to election predictions, the public is in the dark. Media reports are filled 
+with opinion polling data and pundits expound on which candidate will win, but how are these predictions made?
 
-We test two methods of election prediction — a classical statistical approach and a machine learning method — and make them understandable to a general audience. A public website walks readers through the details of each method and allows them to compare the models’ predictions with actual outcomes.
+We test two methods of election prediction — a classical statistical approach and a machine learning method — and make 
+them understandable to a general audience. A public website walks readers through the details of each method and allows 
+them to compare the models’ predictions with actual outcomes.
 
 See [pollrbear.com](https://www.pollrbear.com/) for more details.
 
-This project fufills the capstone requirement for the Master's of Science in Information, Data Science, at the University of Michigan.
+This project fulfills the capstone requirement for the Master's of Science in Information, Data Science, at the University of Michigan.
 
 ## How To Run Our Code 
-To run the MRP model, run the cells in ```models/mrp_model.Rmd``` in order 
+To run the MRP model, run the cells in ```models/mrp_model.Rmd``` in order.
 
-To run the machine learning model, the the cells in ```src/clean_ML.ipynb``` in order
+To run the machine learning model, run the cells in ```src/clean_ML.ipynb``` in order.
 
 ## Datasets 
-All datasets we used are publically avaliable. All rights belongs to their respective owners.
+All datasets we used are publicly available. All rights belong to their respective owners.
 
 **Polls**
 * Monmouth Univeristy 
@@ -61,7 +64,3 @@ Our repistory has the following structure. Note that only key files are included
 ├── README.md
 └── requirements.txt
 ```
-
-## A Note on Portugol
-
-Portugol is a toy programming language designed for educational purposes. It is primarily used by Portuguese-speaking school children. Just 4k Github repositories contain code written in Portugol, including ours. We have no idea why our repository says it includes Portugol code — everything is written in R, Python, CSS, and HTML. But we do think it's a little silly! 
